@@ -1,0 +1,1 @@
+select * from DISC_MISSING_HOSTS

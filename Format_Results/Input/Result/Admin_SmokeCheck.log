@@ -1,0 +1,30 @@
+2017/07/12 14:56:39 [INFO] Log file from Console is captuered.
+2017/07/12 14:56:39 [INFO] UserName from Console is captuered.
+2017/07/12 14:56:39 [INFO] PassWord from Console is captuered.
+2017/07/12 14:56:39 [INFO] DP URL info from Console is captuered.
+2017/07/12 14:56:39 [INFO] Default CheckList location is applied.
+2017/07/12 14:56:39 [INFO] Loging info from Config file.
+2017/07/12 14:56:41 [INFO] Login completed!
+2017/07/12 14:56:41 [INFO] Loading the Elements that neeed to be checked.
+2017/07/12 14:56:41 [INFO] Checklist file found: Input/CheckList.txt
+2017/07/12 14:56:41 [INFO] Loading CheckList done.
+
+2017/07/12 14:56:41 [INFO] Start to check functional elements!
+2017/07/12 14:56:41 [INFO] Start to load Preferences page
+2017/07/12 14:56:43 [INFO] Preferences Page is up.
+
+2017/07/12 14:56:43 [INFO] Start to load Security page
+2017/07/12 14:56:45 [INFO] Security Page is up.
+
+2017/07/12 14:56:45 [INFO] Start to load Technopedia page
+2017/07/12 14:56:46 [INFO] Technopedia Page is up.
+
+2017/07/12 14:56:46 [INFO] Start to load Activity Monitor page
+2017/07/12 14:56:48 [INFO] Activity Monitor Page is up.
+
+2017/07/12 14:56:48 [INFO] Start to load Normalize page
+2017/07/12 14:56:49 [INFO] Normalize Page is up.
+
+2017/07/12 14:56:49 [INFO] Automation script is completed.
+ [INFO] Automation completed.
+ [INFO]   ===>Elapsed Time: 10.446 second(s)

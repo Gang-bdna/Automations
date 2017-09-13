@@ -1,0 +1,11 @@
+select count(*) TCount from cat_sw_release where cat_sw_product_id in (select cat_sw_product_id from cat_sw_product where cat_sw_product_id in (select cat_sw_product_id from cat_sw_product_tag_map where cat_tag_id in (select cat_tag_id from BDNA_TECHNOPEDIA_TAG where is_subscribed = 'Y')))
+union(select count(*) from CAT_MANUFACTURER m where m.CAT_MANUFACTURER_ID in (select CAT_MANUFACTURER_ID from CAT_MFR_TAG_MAP where cat_tag_id in (select cat_tag_id from BDNA_TECHNOPEDIA_TAG where is_subscribed = 'Y')))
+union(select count(distinct m.cat_hw_model_id)
+  from cat_hw_model           m,
+       cat_hw_product         h,
+       cat_hw_product_tag_map t,
+       BDNA_TECHNOPEDIA_TAG   s
+ where m.cat_hw_product_id = h.cat_hw_product_id
+   and h.cat_hw_product_id = t.cat_hw_product_id
+   and t.cat_tag_id = s.cat_tag_id
+   and s.is_subscribed = 'Y')

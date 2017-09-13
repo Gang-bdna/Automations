@@ -1,0 +1,32 @@
+SELECT Prod.Name PRODUCT,
+       P.ID,
+       P.HIDDEN,
+       P.HOSTID,
+       P.PARENT_ID SUITE_ID,
+       P.GROUP_RID,
+       P.PROD_RID,
+       P.EDITIONS_RID,
+       E.EDITION,
+       P.VERSIONS_RID,
+       V.VERGROUPS_RID,
+       V.PATCH,
+       V.SUBVERSION,
+       P.VER_COEXISTS,
+       P.EDI_COEXISTS,
+       P.VERGRP_MAX,
+       V.ORD              AS VORD,
+       E.EDITIONORDER     AS EORD,
+       P.MERGED,
+       P.RELS_RID,
+       P.INTERNAL_NAME,
+       P.INTERNAL_VERSION,
+       P.INTERNAL_PUB,
+       P.ORIGINATE_FROM
+  FROM BDNA20160527002_P P
+  LEFT JOIN VERSIONS V
+    ON (P.VERSIONS_RID = v."_rid")
+  LEFT JOIN EDITIONS E
+    ON (e."_rid" = P.EDITIONS_RID)
+  INNER JOIN products prod
+    ON prod."_rid" = p.prod_rid
+ ORDER BY HOSTID, parent_id,group_rid,PROD_RID,ORIGINATE_FROM, ID

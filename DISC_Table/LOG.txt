@@ -1,0 +1,14 @@
+2017/03/01 18:03:30 [CONFIG] Default Log file is applied.
+2017/03/01 18:03:30 [CONFIG] Default DB Server type from config file is applied.
+2017/03/01 18:03:30 [CONFIG] Default UserName from config file is applied.
+2017/03/01 18:03:30 [CONFIG] Default Password from Config file is applied.
+2017/03/01 18:03:30 [CONFIG] Default DB Server info from Config file applied.
+2017/03/01 18:03:30 [CONFIG] Default Query Stament file is applied.
+2017/03/01 18:03:30 [INFO] Trying to connect DB ...
+2017/03/01 18:03:30 [INFO] Start loading query statement from querystatment.txt
+2017/03/01 18:03:30 [INFO] Loading query statement is done.
+2017/03/01 18:03:30 [INFO] Database now is connected.
+
+
+2017/03/01 18:03:30 [INFO] Regression passed, total 27 rows found in DISC_MISSING_HOSTS table
+2017/03/01 18:03:30 [INFO] Automation completed.

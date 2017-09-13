@@ -1,0 +1,20 @@
+Default Report Name	Response time with 1 users (Max)
+Hardware Summary	9.07999992371	
+OS Distribution by Family	2.19299983978	
+Desktop Software Windows 64Bit Readiness	2.0720000267	
+Top Software Manufacturers	2.43400001526	
+Server Consolidation	7.99599981308	
+Windows Migration Desktop Readiness	7.42499995232	
+Desktop Software Windows 32Bit Status	2.06599998474	
+Windows Desktop Hardware Readiness	27.5429999828	
+Windows Server Migration Software Readiness	8.18799996376	
+
+Summary for canned report performance test (may not be accurate if test is run for more than 1 user) : 
+Total reports tested : 9
+Avg load time per report : 7.66633327802
+# of slow reports (load time more than 10 sec) : 1
+# of timeouts : 0
+# of no_data : 0
+# of other errors : 0
+
+All 9 test cases passed

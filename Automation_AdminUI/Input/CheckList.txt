@@ -1,0 +1,7 @@
+# Functionalities that needs to be checked.
+
+@	Preferences
+@	Security
+@	Technopedia
+@	Activity Monitor
+@	Normalize

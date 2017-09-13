@@ -1,0 +1,11 @@
+2017/07/12 12:27:34 [INFO] Loading the Result File lists that needs to be transfermed...
+2017/07/12 12:27:34 [INFO] Config file found: Input/TestCases.config
+2017/07/12 12:27:34 [INFO] Loading transfermation config file done.
+
+2017/07/12 12:27:34 [INFO] Start transfering result file: Analyze_dnd_result.csv
+2017/07/12 12:27:34 [ERROR] Input\Analyze_dnd_result.csv doesn't exist, transfermation skipped!
+
+2017/07/12 12:27:34 [INFO] Start transfering result file: user_case_result.csv
+2017/07/12 12:27:34 [ERROR] Input\user_case_result.csv doesn't exist, transfermation skipped!
+
+2017/07/12 12:27:34 [INFO] Result transfermation done!

@@ -1,0 +1,30 @@
+2017/07/12 16:30:05 [INFO] Loading the Result File lists that needs to be transfermed...
+2017/07/12 16:30:05 [INFO] Config file found: Input/TestCases.config
+2017/07/12 16:30:05 [INFO] Loading transfermation config file done.
+
+2017/07/12 16:30:05 [INFO] Start transfering result file: Analyze_dnd_result.csv
+2017/07/12 16:30:05 [INFO] Analyse result data : 0.1	==> Passed!
+2017/07/12 16:30:05 [INFO] Analyse result data : 0.58	==> Passed!
+2017/07/12 16:30:05 [INFO] Analyse result data : 0.56	==> Passed!
+2017/07/12 16:30:05 [INFO] Analyse result data : 0.59	==> Passed!
+2017/07/12 16:30:05 [INFO] Analyse result data : 0.04	==> Passed!
+2017/07/12 16:30:05 [INFO] Analyse result data : 0.05	==> Passed!
+2017/07/12 16:30:05 [INFO] Analyse result data : 0.56	==> Passed!
+2017/07/12 16:30:05 [INFO] Analyse result data : 0.04	==> Passed!
+2017/07/12 16:30:05 [INFO] Analyse result data : 0.56	==> Passed!
+2017/07/12 16:30:05 [INFO] Analyse result data : 0.06	==> Passed!
+2017/07/12 16:30:05 [INFO] Analyse result data : 0.56	==> Passed!
+
+2017/07/12 16:30:05 [INFO] Start transfering result file: user_case_result.csv
+2017/07/12 16:30:05 [INFO] Analyse result data : 32.64	==> Passed!
+2017/07/12 16:30:05 [INFO] Analyse result data : 0.57	==> Passed!
+2017/07/12 16:30:05 [INFO] Analyse result data : Timeout	==> Failed!
+2017/07/12 16:30:05 [INFO] Analyse result data : Cube Open Issue	==> Failed!
+2017/07/12 16:30:05 [INFO] Analyse result data : 0.05	==> Passed!
+2017/07/12 16:30:05 [INFO] Analyse result data : 0.59	==> Passed!
+2017/07/12 16:30:05 [INFO] Analyse result data : 0.58	==> Passed!
+2017/07/12 16:30:05 [INFO] Analyse result data : 0.04	==> Passed!
+2017/07/12 16:30:05 [INFO] Analyse result data : 0.04	==> Passed!
+2017/07/12 16:30:05 [INFO] Analyse result data : 0.04	==> Passed!
+
+2017/07/12 16:30:05 [INFO] Result transfermation done!

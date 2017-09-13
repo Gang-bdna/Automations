@@ -1,0 +1,75 @@
+2017/07/12 14:58:26 [INFO] Log file from Console is captuered.
+2017/07/12 14:58:26 [INFO] UserName from Console is captuered.
+2017/07/12 14:58:26 [INFO] PassWord from Console is captuered.
+2017/07/12 14:58:26 [INFO] DP URL info from Console is captuered.
+2017/07/12 14:58:26 [INFO] Default major version of DP or UC is applied.
+2017/07/12 14:58:26 [INFO] Loging info from Config file.
+2017/07/12 14:58:27 [INFO] Login completed!
+
+2017/07/12 14:58:28 [INFO] Start to load Admin Help Doc ...
+2017/07/12 14:58:29 [INFO] Parsing the content of [Admin Console Help Doc] : Chp01_Getting_Started
+2017/07/12 14:58:30 [INFO] Parsing the content of [Admin Console Help Doc] : Chp02_Setting_Preferences
+2017/07/12 14:58:30 [INFO] Parsing the content of [Admin Console Help Doc] : Chp03_Security_Settings
+2017/07/12 14:58:31 [INFO] Parsing the content of [Admin Console Help Doc] : Chp04_Catalog_Settings
+2017/07/12 14:58:31 [INFO] Parsing the content of [Admin Console Help Doc] : Chp05_Running_Catalog
+2017/07/12 14:58:31 [INFO] Parsing the content of [Admin Console Help Doc] : Chp06_IT_Discovery_Tool_Process
+2017/07/12 14:58:32 [INFO] Parsing the content of [Admin Console Help Doc] : Chp07_Purchase_Order_Process
+2017/07/12 14:58:33 [INFO] Parsing the content of [Admin Console Help Doc] : Chp10_Managing_Processes
+2017/07/12 14:58:33 [INFO] Parsing the content of [Admin Console Help Doc] : Chp11_Running_Normalize
+2017/07/12 14:58:33 [INFO] Parsing the content of [Admin Console Help Doc] : Chp12_Normalize_Settings
+2017/07/12 14:58:34 [INFO] Parsing the content of [Admin Console Help Doc] : Chp13_Normalize_Activity
+2017/07/12 14:58:34 [INFO] Parsing the content of [Admin Console Help Doc] : AppG_NormalizeCM_Process
+2017/07/12 14:58:34 [INFO] Parsing the content of [Admin Console Help Doc] : AppH_Fingerprint_Process
+2017/07/12 14:58:34 [INFO] Parsing the content of [Admin Console Help Doc] : AppA_PassThrough
+2017/07/12 14:58:35 [INFO] Parsing the content of [Admin Console Help Doc] : AppB_Objects
+2017/07/12 14:58:35 [INFO] Parsing the content of [Admin Console Help Doc] : AppC_Dissecting_Config_File
+2017/07/12 14:58:35 [INFO] Parsing the content of [Admin Console Help Doc] : AppE_Extract_Data_ADDM
+2017/07/12 14:58:36 [INFO] Parsing the content of [Admin Console Help Doc] : AppF_Convert_4.x_Cfg
+2017/07/12 14:58:36 [INFO] Parsing the content of [Admin Console Help Doc] : AppG_HP_Probe_Server
+
+2017/07/12 14:58:36 [INFO] Help Doc: [Administrator_Guide_Online_Help_GA] is launched.
+
+2017/07/12 14:58:36 [INFO] Loading the key words for Searching
+2017/07/12 14:58:36 [INFO] Config file found: HelpDoc.cfg
+2017/07/12 14:58:36 [INFO] Loading Search Items are done.
+
+2017/07/12 14:58:36 [INFO] Start Searching the given Keywords from chapeter: C:\results/DPHelp_Chapeters/AppA_PassThrough
+2017/07/12 14:58:36 [INFO] Start Searching the given Keywords from chapeter: C:\results/DPHelp_Chapeters/AppB_Objects
+2017/07/12 14:58:36 [INFO] Start Searching the given Keywords from chapeter: C:\results/DPHelp_Chapeters/AppC_Dissecting_Config_File
+2017/07/12 14:58:36 [INFO] Start Searching the given Keywords from chapeter: C:\results/DPHelp_Chapeters/AppE_Extract_Data_ADDM
+2017/07/12 14:58:36 [INFO] Start Searching the given Keywords from chapeter: C:\results/DPHelp_Chapeters/AppF_Convert_4.x_Cfg
+2017/07/12 14:58:36 [INFO] Start Searching the given Keywords from chapeter: C:\results/DPHelp_Chapeters/AppG_HP_Probe_Server
+2017/07/12 14:58:36 [INFO] Start Searching the given Keywords from chapeter: C:\results/DPHelp_Chapeters/AppG_NormalizeCM_Process
+2017/07/12 14:58:36 [INFO] Start Searching the given Keywords from chapeter: C:\results/DPHelp_Chapeters/AppH_Fingerprint_Process
+2017/07/12 14:58:36 [INFO] Start Searching the given Keywords from chapeter: C:\results/DPHelp_Chapeters/Chp01_Getting_Started
+2017/07/12 14:58:36 [INFO] Start Searching the given Keywords from chapeter: C:\results/DPHelp_Chapeters/Chp02_Setting_Preferences
+2017/07/12 14:58:36 [INFO] Start Searching the given Keywords from chapeter: C:\results/DPHelp_Chapeters/Chp03_Security_Settings
+2017/07/12 14:58:36 [INFO] Start Searching the given Keywords from chapeter: C:\results/DPHelp_Chapeters/Chp04_Catalog_Settings
+2017/07/12 14:58:36 [INFO] Start Searching the given Keywords from chapeter: C:\results/DPHelp_Chapeters/Chp05_Running_Catalog
+2017/07/12 14:58:36 [INFO] Start Searching the given Keywords from chapeter: C:\results/DPHelp_Chapeters/Chp06_IT_Discovery_Tool_Process
+2017/07/12 14:58:36 [INFO] Start Searching the given Keywords from chapeter: C:\results/DPHelp_Chapeters/Chp07_Purchase_Order_Process
+2017/07/12 14:58:36 [INFO] Start Searching the given Keywords from chapeter: C:\results/DPHelp_Chapeters/Chp10_Managing_Processes
+2017/07/12 14:58:36 [INFO] Start Searching the given Keywords from chapeter: C:\results/DPHelp_Chapeters/Chp11_Running_Normalize
+2017/07/12 14:58:36 [INFO] Start Searching the given Keywords from chapeter: C:\results/DPHelp_Chapeters/Chp12_Normalize_Settings
+2017/07/12 14:58:36 [INFO] Start Searching the given Keywords from chapeter: C:\results/DPHelp_Chapeters/Chp13_Normalize_Activity
+
+2017/07/12 14:58:36 [INFO] Searching Key Words: [Data Platform] appears 44 times in total.
+2017/07/12 14:58:36 [INFO] 3	time(s) in Chapeter : Chp12_Normalize_Settings
+2017/07/12 14:58:36 [INFO] 2	time(s) in Chapeter : AppF_Convert_4.x_Cfg
+2017/07/12 14:58:36 [INFO] 1	time(s) in Chapeter : Chp13_Normalize_Activity
+2017/07/12 14:58:36 [INFO] 14	time(s) in Chapeter : Chp01_Getting_Started
+2017/07/12 14:58:36 [INFO] 6	time(s) in Chapeter : AppG_NormalizeCM_Process
+2017/07/12 14:58:36 [INFO] 2	time(s) in Chapeter : Chp07_Purchase_Order_Process
+2017/07/12 14:58:36 [INFO] 6	time(s) in Chapeter : Chp04_Catalog_Settings
+2017/07/12 14:58:36 [INFO] 4	time(s) in Chapeter : AppG_HP_Probe_Server
+2017/07/12 14:58:36 [INFO] 2	time(s) in Chapeter : Chp03_Security_Settings
+2017/07/12 14:58:36 [INFO] 4	time(s) in Chapeter : Chp06_IT_Discovery_Tool_Process
+
+2017/07/12 14:58:36 [INFO] Version # : 5.0. checking passed!
+2017/07/12 14:58:36 [INFO] Version # : 5.1. checking passed!
+2017/07/12 14:58:36 [INFO] Version # : 5.2. checking passed!
+2017/07/12 14:58:36 [INFO] Version # : 5.3. checking passed!
+
+2017/07/12 14:58:36 [INFO] Automation script is completed.
+ [INFO] Automation completed.
+ [INFO]   ===>Elapsed Time: 10.743 second(s)

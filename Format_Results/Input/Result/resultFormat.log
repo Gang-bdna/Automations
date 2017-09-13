@@ -1,0 +1,45 @@
+2017/07/12 16:30:11 [INFO] Log file from Console is captuered.
+2017/07/12 16:30:11 [INFO] UserName from Console is captuered.
+2017/07/12 16:30:11 [INFO] PassWord from Console is captuered.
+2017/07/12 16:30:11 [INFO] DP URL info from Console is captuered.
+2017/07/12 16:30:11 [INFO] Loading basic config settings..
+2017/07/12 16:30:11 [INFO] Config file found: Input/TestCases.config
+2017/07/12 16:30:11 [ERROR] Exception happened during loading config file!
+
+2017/07/12 16:30:11 [INFO] Loading config settings done.
+
+2017/07/12 16:30:11 [INFO] Test Cases and Test Result List
+2017/07/12 16:30:11 [INFO] TC: [Default reports smoke test] ==> [canned_repports_performance_test.tab]
+2017/07/12 16:30:11 [INFO] TC: [Dataplatform UI smoke test] ==> [Admin_SmokeCheck.csv]
+2017/07/12 16:30:11 [INFO] TC: [Analyze report DnD with 10 columns] ==> [Analyze_dnd_10.csv]
+2017/07/12 16:30:11 [INFO] TC: [New Role Assignment smoke test] ==> [Role_Assignment.csv]
+2017/07/12 16:30:11 [INFO] TC: [API smoke test] ==> [api-technopedia.tab]
+2017/07/12 16:30:11 [INFO] TC: [Analyze report DnD with 1 column] ==> [Analyze_dnd_1.csv]
+
+2017/07/12 16:30:11 [INFO] Laoding and analyse result from result file: Admin_SmokeCheck.csv
+2017/07/12 16:30:11 [INFO] Laoding and analyse result from result file: Analyze_dnd_1.csv
+2017/07/12 16:30:11 [WARNING] Invalid Row Skipped from C:\results\Analyze_dnd_1.csv: Cube,Attribute,Time(second),Error type,Transfer Result
+2017/07/12 16:30:11 [WARNING] Invalid Row Skipped from C:\results\Analyze_dnd_1.csv: Technopedia: CPU,CPU Manufacturer (1),0.1,No Issue,Passed
+2017/07/12 16:30:11 [WARNING] Invalid Row Skipped from C:\results\Analyze_dnd_1.csv: Technopedia: CPU,CPU Model (1),0.58,No Issue,Passed
+2017/07/12 16:30:11 [WARNING] Invalid Row Skipped from C:\results\Analyze_dnd_1.csv: Technopedia: CPU,CPU Cores,0.56,No Issue,Passed
+2017/07/12 16:30:11 [WARNING] Invalid Row Skipped from C:\results\Analyze_dnd_1.csv: Technopedia: CPU,CPU Clock Rate,0.59,No Issue,Passed
+2017/07/12 16:30:11 [WARNING] Invalid Row Skipped from C:\results\Analyze_dnd_1.csv: Technopedia: CPU,CPU ISA Bit Mode,0.04,No Issue,Passed
+2017/07/12 16:30:11 [WARNING] Invalid Row Skipped from C:\results\Analyze_dnd_1.csv: Technopedia: CPU,CPU Is Threaded?,0.05,No Issue,Passed
+2017/07/12 16:30:11 [WARNING] Invalid Row Skipped from C:\results\Analyze_dnd_1.csv: Technopedia: CPU,CPU Number of threads,0.56,No Issue,Passed
+2017/07/12 16:30:11 [WARNING] Invalid Row Skipped from C:\results\Analyze_dnd_1.csv: Technopedia: CPU,CPU Maximum Sockets,0.04,No Issue,Passed
+2017/07/12 16:30:11 [WARNING] Invalid Row Skipped from C:\results\Analyze_dnd_1.csv: Technopedia: CPU,CPU IBM PVU per core,0.56,No Issue,Passed
+2017/07/12 16:30:11 [WARNING] Invalid Row Skipped from C:\results\Analyze_dnd_1.csv: Technopedia: CPU,CPU Model Count_measure,0.06,No Issue,Passed
+2017/07/12 16:30:11 [WARNING] Invalid Row Skipped from C:\results\Analyze_dnd_1.csv: Technopedia: CPU,CPU IBM PVU Count_measure,0.56,No Issue,Passed
+2017/07/12 16:30:11 [INFO] Laoding and analyse result from result file: Analyze_dnd_10.csv
+2017/07/12 16:30:11 [INFO] Laoding and analyse result from result file: canned_repports_performance_test.tab
+2017/07/12 16:30:11 [INFO] Laoding and analyse result from result file: Role_Assignment.csv
+2017/07/12 16:30:11 [INFO] Loading Query files done.
+
+2017/07/12 16:30:11 [INFO] Test Case: Default reports smoke test passed!
+2017/07/12 16:30:11 [INFO] Test Case: Dataplatform UI smoke test passed!
+2017/07/12 16:30:11 [INFO] Test Case: Analyze report DnD with 10 columns passed!
+2017/07/12 16:30:11 [INFO] Test Case: New Role Assignment smoke test passed!
+2017/07/12 16:30:11 [INFO] Test Case: Analyze report DnD with 1 column passed!
+2017/07/12 16:30:11 [INFO] Automation script is completed.
+ [INFO] Automation completed.
+ [INFO]   ===>Elapsed Time: 0.42 second(s)

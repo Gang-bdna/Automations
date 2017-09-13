@@ -1,0 +1,11 @@
+Case_ID,Cube,Test_Case_Name,Column,Position,Order,Filter,Result
+37,Technopedia: Hardware,smoke_test1,HW Model,row,1,base,36.21
+38,Normalize: IT Security,smoke_test2,HW Distinct Product Count,row,1,base,0.57
+39,Technopedia: Hardware Procurement,smoke_test3,HW Model,row,1,base,Timeout
+40,Normalize: IT Assets,smoke_test4,SW Family,row,1,base,0.64
+41,Normalize: IT Security,smoke_test5,HW Distinct Product Count,measure,1,base,0.04
+42,Normalize: IT Security,smoke_test6,INV ID,row,1,base,0.03
+43,Technopedia: Hardware Security,smoke_test7,HW CPE Part,row,1,base,0.04
+44,Technopedia: Hardware Procurement,smoke_test8,HW Lic CPU Model,row,1,base,0.59
+45,Normalize: IT Assets,smoke_test9,OS Family,row,1,base,0.04
+46,Normalize: IT Assets,smoke_test10,OS Edition,row,1,base,0.6

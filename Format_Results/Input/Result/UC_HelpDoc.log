@@ -1,0 +1,56 @@
+2017/07/12 14:58:42 [INFO] Log file from Console is captuered.
+2017/07/12 14:58:42 [INFO] UserName from Console is captuered.
+2017/07/12 14:58:42 [INFO] PassWord from Console is captuered.
+2017/07/12 14:58:42 [INFO] DP URL info from Console is captuered.
+2017/07/12 14:58:42 [INFO] Default major version of DP or UC is applied.
+2017/07/12 14:58:42 [INFO] Loging info from Config file.
+2017/07/12 14:58:47 [INFO] Login completed!
+
+2017/07/12 14:58:48 [INFO] Start to load User Console Help Doc ...
+2017/07/12 14:58:49 [INFO] Parsing the content of [User Console Help Doc] : Chp1_User_Console_Basics
+2017/07/12 14:58:50 [INFO] Parsing the content of [User Console Help Doc] : Chp2_Searching_Basics
+2017/07/12 14:58:51 [INFO] Parsing the content of [User Console Help Doc] : Chp3_Private_Catalog_Basics
+2017/07/12 14:58:51 [INFO] Parsing the content of [User Console Help Doc] : Chp4_Analyze_Basics
+2017/07/12 14:58:52 [INFO] Parsing the content of [User Console Help Doc] : Chp5_Analyzer_Reports
+2017/07/12 14:58:53 [INFO] Parsing the content of [User Console Help Doc] : Chp6_Dashboards
+2017/07/12 14:58:53 [INFO] Parsing the content of [User Console Help Doc] : Chp7_Interactive_Reports
+2017/07/12 14:58:54 [INFO] Parsing the content of [User Console Help Doc] : AppA_Report_Dashboard_Reference
+
+2017/07/12 14:58:54 [INFO] Help Doc: [UserConsoleOnlineHelp] is launched.
+
+2017/07/12 14:58:54 [INFO] Loading the key words for Searching
+2017/07/12 14:58:54 [INFO] Config file found: HelpDoc.cfg
+2017/07/12 14:58:54 [INFO] Loading Search Items are done.
+
+2017/07/12 14:58:54 [INFO] Start Searching the given Keywords from chapeter: C:\results/UCHelp_Chapeters/AppA_Report_Dashboard_Reference
+2017/07/12 14:58:54 [INFO] Start Searching the given Keywords from chapeter: C:\results/UCHelp_Chapeters/Chp1_User_Console_Basics
+2017/07/12 14:58:54 [INFO] Start Searching the given Keywords from chapeter: C:\results/UCHelp_Chapeters/Chp2_Searching_Basics
+2017/07/12 14:58:54 [INFO] Start Searching the given Keywords from chapeter: C:\results/UCHelp_Chapeters/Chp3_Private_Catalog_Basics
+2017/07/12 14:58:54 [INFO] Start Searching the given Keywords from chapeter: C:\results/UCHelp_Chapeters/Chp4_Analyze_Basics
+2017/07/12 14:58:54 [INFO] Start Searching the given Keywords from chapeter: C:\results/UCHelp_Chapeters/Chp5_Analyzer_Reports
+2017/07/12 14:58:54 [INFO] Start Searching the given Keywords from chapeter: C:\results/UCHelp_Chapeters/Chp6_Dashboards
+2017/07/12 14:58:54 [INFO] Start Searching the given Keywords from chapeter: C:\results/UCHelp_Chapeters/Chp7_Interactive_Reports
+
+2017/07/12 14:58:54 [INFO] Searching Key Words: [User Console] appears 73 times in total.
+2017/07/12 14:58:54 [INFO] 4	time(s) in Chapeter : Chp2_Searching_Basics
+2017/07/12 14:58:54 [INFO] 3	time(s) in Chapeter : Chp7_Interactive_Reports
+2017/07/12 14:58:54 [INFO] 31	time(s) in Chapeter : Chp1_User_Console_Basics
+2017/07/12 14:58:54 [INFO] 14	time(s) in Chapeter : Chp5_Analyzer_Reports
+2017/07/12 14:58:54 [INFO] 6	time(s) in Chapeter : Chp4_Analyze_Basics
+2017/07/12 14:58:54 [INFO] 3	time(s) in Chapeter : Chp6_Dashboards
+2017/07/12 14:58:54 [INFO] 10	time(s) in Chapeter : Chp3_Private_Catalog_Basics
+2017/07/12 14:58:54 [INFO] 2	time(s) in Chapeter : AppA_Report_Dashboard_Reference
+
+2017/07/12 14:58:54 [INFO] Searching Key Words: [Migration] appears 4 times in total.
+2017/07/12 14:58:54 [INFO] 1	time(s) in Chapeter : Chp5_Analyzer_Reports
+2017/07/12 14:58:54 [INFO] 3	time(s) in Chapeter : AppA_Report_Dashboard_Reference
+
+2017/07/12 14:58:54 [INFO] Version # : 5.0. checking passed!
+2017/07/12 14:58:54 [INFO] Version # : 5.1. checking passed!
+2017/07/12 14:58:54 [INFO] Version # : 5.2. checking passed!
+2017/07/12 14:58:54 [INFO] Version # : 5.3. checking passed!
+2017/07/12 14:58:54 [INFO] Version # : 5.4. checking passed!
+
+2017/07/12 14:58:54 [INFO] Automation script is completed.
+ [INFO] Automation completed.
+ [INFO]   ===>Elapsed Time: 11.982 second(s)

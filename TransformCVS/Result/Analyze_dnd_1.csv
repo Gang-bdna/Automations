@@ -1,0 +1,12 @@
+Cube,Attribute,Time(second),Error type,Transfer Result
+Technopedia: CPU,CPU Manufacturer (1),0.09,No Issue,Passed
+Technopedia: CPU,CPU Model (1),0.58,No Issue,Passed
+Technopedia: CPU,CPU Cores,0.57,No Issue,Passed
+Technopedia: CPU,CPU Clock Rate,0.59,No Issue,Passed
+Technopedia: CPU,CPU ISA Bit Mode,0.04,No Issue,Passed
+Technopedia: CPU,CPU Is Threaded?,0.04,No Issue,Passed
+Technopedia: CPU,CPU Number of threads,0.56,No Issue,Passed
+Technopedia: CPU,CPU Maximum Sockets,0.56,No Issue,Passed
+Technopedia: CPU,CPU IBM PVU per core,0.57,No Issue,Passed
+Technopedia: CPU,CPU Model Count_measure,0.04,No Issue,Passed
+Technopedia: CPU,CPU IBM PVU Count_measure,0.56,No Issue,Passed

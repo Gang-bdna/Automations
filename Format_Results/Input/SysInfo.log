@@ -1,0 +1,14 @@
+StartTime:	2017/06/29 18:08:09
+Seconds:	1498784889461
+Host Name:                 VM363W
+OS Name:                   Microsoft Windows Server 2012 R2 Standard
+OS Version:                6.3.9600 N/A Build 9600
+System Model:              Virtual Machine
+System Type:               x64-based PC
+Total Physical Memory:     11,997 MB
+Name=Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz
+NumberOfCores=2
+NumberOfLogicalProcessors=2
+Database Type:MSSQL 
+Technopedia Version: 2017.05.09 
+Build Version: 5.3.2 Build20170522_3087 

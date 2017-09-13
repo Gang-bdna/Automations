@@ -1,0 +1,7 @@
+# Features that needs to be extracted from Golden and Actual Results and will be used for comparing
+
+@	HOSTID
+@	PRODUCT
+@	HIDDEN
+@	EDITION
+@	MERGED

@@ -1,0 +1,7 @@
+# Functionalities that needs to be checked.
+
+@	hello	Default
+@	testuser_002	Platform Administrator,Platform Read-Only
+@	testuser_003	User Console Editor
+@	testuser_004	User Console Viewer
+@	testuser_005	User Console Viewer,User Console Editor

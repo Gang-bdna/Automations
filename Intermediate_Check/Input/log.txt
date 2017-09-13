@@ -1,0 +1,30 @@
+[Tue 05/23/2017 13:58:46.97] Script started on VM145W. 
+[Tue 05/23/2017 13:58:46.97] Checkout Master from github. 
+git clone git@github.com:bdna/VersionTracker.git 
+[Tue 05/23/2017 13:58:48.14] Checkout 5.3.x branch. 
+[Tue 05/23/2017 13:58:48.16] Checkout api-documentation QA branch. 
+[Tue 05/23/2017 13:58:49.41] Checkout api-documentation qa branch. 
+[Tue 05/23/2017 13:58:50.68] Checkout 5.3.2/sit branch. 
+[Tue 05/23/2017 13:58:52.43] Checkout 5.3.2/sit branch sub-module files. 
+[Tue 05/23/2017 13:58:53.02] nant -buildfile:"C:\Gang\Normalize\Build\Normalize\NormalizeBuildAll.build". 
+[Tue 05/23/2017 13:59:31.93] Completed NormalizeBuildAll.build. 
+[Tue 05/23/2017 13:59:38.39] Staged Dir: 
+\\nas3\shared\engineering\4Gang\Normalize\5.3.2\qa\2017_05_23_13_59_3089 
+C:\Gang\Normalize\Mapping\Installer\NSIS\Data_Platform*.exe 
+        0 file(s) copied.
+C:\Gang\Normalize\UX\Installer\NSIS\User_Console*.exe 
+        0 file(s) copied.
+The system cannot find the file specified.
+        1 file(s) copied.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+0 File(s) copied
+[Tue 05/23/2017 13:59:38.49] ERROR: Failed to stage files onto \\nas3\shared\engineering\4Gang\Normalize\5.3.2\qa\2017_05_23_13_59_3089 
+[Tue 05/23/2017 13:59:38.49] Build completed: "Failed"  
+ 
+********** START DEPLOYMNET ********** 
+[Tue 05/23/2017 14:04:38.60] Info: Deployment automation started! 
+[Tue 05/23/2017 14:04:38.60] ERROR: Build failed, Stop deployment 
+***** ROLLBACK on VM-vm172w FAILED, SKIP CATALOG SYNC *****
+ 

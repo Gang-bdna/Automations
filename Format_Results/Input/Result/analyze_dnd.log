@@ -1,0 +1,12 @@
+2017-07-12 15:03:16,186 INFO: Read configs finished
+2017-07-12 15:03:16,187 DEBUG: Prepare to login.
+2017-07-12 15:03:16,187 DEBUG: Start login to the UI.
+2017-07-12 15:03:24,539 DEBUG: UI Login finished.
+2017-07-12 15:03:24,539 DEBUG: Read the list of Analyzer report cubes.
+2017-07-12 15:03:27,984 DEBUG: Finish reading the Analyzer report cube list
+2017-07-12 15:03:27,984 INFO: Analyzer the drag and drop function
+2017-07-12 15:03:27,984 DEBUG: Start to run the test for selected Technopedia: CPU
+2017-07-12 15:03:27,984 DEBUG: Begin to test
+2017-07-12 15:03:56,463 DEBUG: Finish the test for cubeTechnopedia: CPU
+2017-07-12 15:03:56,463 INFO: Close the webdriver
+2017-07-12 15:03:56,486 INFO: Combine result

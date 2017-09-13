@@ -1,0 +1,37 @@
+2017/07/12 14:56:56 [INFO] Log file from Console is captuered.
+2017/07/12 14:56:56 [INFO] UserName from Console is captuered.
+2017/07/12 14:56:56 [INFO] PassWord from Console is captuered.
+2017/07/12 14:56:56 [INFO] DP URL info from Console is captuered.
+2017/07/12 14:56:56 [INFO] Default User Name List is applied.
+2017/07/12 14:56:56 [INFO] Loging info from Config file.
+2017/07/12 14:56:58 [INFO] Login completed!
+2017/07/12 14:56:58 [INFO] Loading the Elements that neeed to be checked.
+2017/07/12 14:56:58 [INFO] Checklist file found: Input/UserList.txt
+2017/07/12 14:56:58 [INFO] Loading CheckList done.
+
+2017/07/12 14:56:58 [INFO] Start to check functional elements!
+2017/07/12 14:56:58 [INFO] Start to load Security page
+2017/07/12 14:56:59 [INFO] Security Page is up.
+
+2017/07/12 14:57:03 [INFO] Start to add new Users from User List...
+2017/07/12 14:57:20 [INFO] New User:   [testuser_001] added!
+2017/07/12 14:57:20 [INFO] Privileges: [Default]
+
+2017/07/12 14:57:33 [INFO] New User:   [testuser_002] added!
+2017/07/12 14:57:33 [INFO] Privileges: [Platform Administrator, Platform Read-Only]
+
+2017/07/12 14:57:45 [INFO] New User:   [testuser_003] added!
+2017/07/12 14:57:45 [INFO] Privileges: [User Console Editor]
+
+2017/07/12 14:57:56 [INFO] New User:   [testuser_004] added!
+2017/07/12 14:57:56 [INFO] Privileges: [User Console Viewer]
+
+2017/07/12 14:58:08 [INFO] New User:   [ltest001] added!
+2017/07/12 14:58:08 [INFO] Privileges: [User Console Report Manager]
+
+2017/07/12 14:58:19 [INFO] New User:   [ltest002] added!
+2017/07/12 14:58:19 [INFO] Privileges: [Platform Read-Only, User Console Viewer]
+
+2017/07/12 14:58:20 [INFO] Automation script is completed.
+ [INFO] Automation completed.
+ [INFO]   ===>Elapsed Time: 83.528 second(s)

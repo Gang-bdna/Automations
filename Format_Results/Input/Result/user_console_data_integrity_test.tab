@@ -1,0 +1,32 @@
+User Console Server:	http://vm195w/bdna/ux/index#
+Technopedia Version:	2017.04.27
+Data Platform Version:	5.4.0 Build20170712_3001
+User Console Version:	5.4.0 Build20170712_3001
+Database Name:	TPUBLISH_20170711
+Database Server:	svr532.bdnacorp.com
+
+Test Case	Value from UI	Value from DB	Test Result	Time stamp
+technopedia_manufacturer_count	36674	38538	fail	2017-07-12 12:28:21.148000
+technopedia_software_count	681469	693345	fail	2017-07-12 12:28:21.508000
+technopedia_hardware_count	1337428	1388705	fail	2017-07-12 12:28:21.877000
+technopedia_manufacturer_search_banner_count (Google Drive)	9	10	fail	2017-07-12 12:28:29.796000
+sw_product_detail_page_sw_version_count (Google Drive)	35	35	pass	2017-07-12 12:28:39.805000
+sw_product_detail_page_sw_edition_count (Google Drive)	0	0	pass	2017-07-12 12:28:39.935000
+sw_product_detail_page_sw_release_count (Google Drive)	35	35	pass	2017-07-12 12:28:41.306000
+technopedia_manufacturer_search_banner_count (Apple ios)	1	1	pass	2017-07-12 12:28:50.621000
+sw_product_detail_page_sw_version_count (Apple ios)	84	85	fail	2017-07-12 12:29:08.245000
+sw_product_detail_page_sw_edition_count (Apple ios)	0	0	pass	2017-07-12 12:29:08.354000
+sw_product_detail_page_sw_release_count (Apple ios)	84	85	fail	2017-07-12 12:29:08.568000
+technopedia_manufacturer_search_banner_count (Microsoft)	4	4	pass	2017-07-12 12:29:16.578000
+technopedia_manufacturer_detail_page_software_count (Microsoft)	2773	2793	fail	2017-07-12 12:29:18.019000
+technopedia_manufacturer_detail_page_hardware_count (Microsoft)	359	359	pass	2017-07-12 12:29:18.117000
+technopedia_manufacturer_search_banner_count (Apple)	1	1	pass	2017-07-12 12:29:25.841000
+technopedia_manufacturer_detail_page_software_count (Apple)	137	138	fail	2017-07-12 12:29:27.157000
+technopedia_manufacturer_detail_page_hardware_count (Apple)	230	239	fail	2017-07-12 12:29:27.235000
+technopedia_manufacturer_search_banner_count (Oracle)	2	2	pass	2017-07-12 12:29:36.511000
+technopedia_manufacturer_detail_page_software_count (Oracle)	5320	5337	fail	2017-07-12 12:29:37.833000
+technopedia_manufacturer_detail_page_hardware_count (Oracle)	171	171	pass	2017-07-12 12:29:37.920000
+technopedia_manufacturer_search_banner_count (Apple Macbook)	1	1	pass	2017-07-12 12:29:46.004000
+hw_product_detail_page_hw_model_count (Apple Macbook)	59	64	fail	2017-07-12 12:29:49.279000
+technopedia_manufacturer_search_banner_count (Dell Poweredge)	1	1	pass	2017-07-12 12:29:57.374000
+hw_product_detail_page_hw_model_count (Dell Poweredge)	174	174	pass	2017-07-12 12:29:59.512000

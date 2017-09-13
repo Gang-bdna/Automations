@@ -1,0 +1,49 @@
+2017-07-12 15:04:00,062 DEBUG: Test info:
+2017-07-12 15:04:00,062 DEBUG: Target vm: vm195w, Browser: chrome, Authentication Method: ldap, Test Input File: C:\Jenkins_Scripts\use_case\custom_analyzer_testcases.csv
+2017-07-12 15:04:00,062 DEBUG: Output Location: C:\results
+2017-07-12 15:04:00,062 DEBUG: Screenshot Option: no
+2017-07-12 15:04:00,062 DEBUG: Waiting Time: 180
+2017-07-12 15:04:00,062 DEBUG: Start run the test cases.
+2017-07-12 15:04:00,062 DEBUG: Login to the targer UserConsole UI.
+2017-07-12 15:04:08,398 DEBUG: Target User Console UI Login Succeed.
+2017-07-12 15:04:08,398 DEBUG: Reading test case input file.
+2017-07-12 15:04:08,403 DEBUG: Open cube Technopedia: Hardware
+2017-07-12 15:04:22,980 DEBUG: Going through the case case37
+2017-07-12 15:04:22,980 DEBUG: Trying to add node HW Model in to the report as row
+2017-07-12 15:04:56,387 DEBUG: Node HW Model added.
+2017-07-12 15:04:56,391 DEBUG: Open cube Normalize: IT Security
+2017-07-12 15:05:15,096 DEBUG: Going through the case case38
+2017-07-12 15:05:15,096 DEBUG: Trying to add node HW Distinct Product Count in to the report as row
+2017-07-12 15:05:16,483 DEBUG: Node HW Distinct Product Count added.
+2017-07-12 15:05:16,487 DEBUG: Open cube Technopedia: Hardware Procurement
+2017-07-12 15:05:29,336 DEBUG: Going through the case case39
+2017-07-12 15:05:29,338 DEBUG: Trying to add node HW Model in to the report as row
+2017-07-12 15:08:30,535 DEBUG: Node HW Model added.
+2017-07-12 15:08:30,535 DEBUG: Taking Screenshot for timeout error
+2017-07-12 15:08:30,782 DEBUG: Open cube Normalize: IT Assets
+2017-07-12 15:09:24,220 DEBUG: Going through the case case40
+2017-07-12 15:09:24,220 ERROR: 150
+2017-07-12 15:09:24,226 DEBUG: Open cube Normalize: IT Security
+2017-07-12 15:10:15,286 DEBUG: Going through the case case41
+2017-07-12 15:10:15,286 DEBUG: Trying to add node HW Distinct Product Count in to the report as row
+2017-07-12 15:10:18,394 DEBUG: Node HW Distinct Product Count added.
+2017-07-12 15:10:18,398 DEBUG: Open cube Normalize: IT Security
+2017-07-12 15:10:36,740 DEBUG: Going through the case case42
+2017-07-12 15:10:36,740 DEBUG: Trying to add node INV ID in to the report as row
+2017-07-12 15:10:38,111 DEBUG: Node INV ID added.
+2017-07-12 15:10:38,117 DEBUG: Open cube Technopedia: Hardware Security
+2017-07-12 15:10:48,523 DEBUG: Going through the case case43
+2017-07-12 15:10:48,523 DEBUG: Trying to add node HW CPE Part in to the report as row
+2017-07-12 15:10:49,854 DEBUG: Node HW CPE Part added.
+2017-07-12 15:10:49,858 DEBUG: Open cube Technopedia: Hardware Procurement
+2017-07-12 15:11:02,371 DEBUG: Going through the case case44
+2017-07-12 15:11:02,371 DEBUG: Trying to add node HW Lic CPU Model in to the report as row
+2017-07-12 15:11:03,197 DEBUG: Node HW Lic CPU Model added.
+2017-07-12 15:11:03,203 DEBUG: Open cube Normalize: IT Assets
+2017-07-12 15:11:24,957 DEBUG: Going through the case case45
+2017-07-12 15:11:24,957 DEBUG: Trying to add node OS Family in to the report as row
+2017-07-12 15:11:25,806 DEBUG: Node OS Family added.
+2017-07-12 15:11:25,812 DEBUG: Open cube Normalize: IT Assets
+2017-07-12 15:11:47,625 DEBUG: Going through the case case46
+2017-07-12 15:11:47,625 DEBUG: Trying to add node OS Edition in to the report as row
+2017-07-12 15:11:48,480 DEBUG: Node OS Edition added.

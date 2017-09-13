@@ -1,0 +1,138 @@
+07/12/2017 02:58:58 PM - INFO - Started User Console UI test
+07/12/2017 02:59:04 PM - INFO - Executing Test Case : technopedia_home_page_numbers
+07/12/2017 02:59:09 PM - INFO - SELECT COUNT(*) from CAT_MANUFACTURER
+07/12/2017 02:59:09 PM - INFO - No of Technopedia Manufacturers reported by UI : 36674
+07/12/2017 02:59:09 PM - INFO - No of Technopedia Manufacturers reported by DB : 38538
+07/12/2017 02:59:09 PM - ERROR - Test Failed
+07/12/2017 02:59:10 PM - INFO - SELECT COUNT(*) from CAT_SW_RELEASE
+07/12/2017 02:59:10 PM - INFO - No of Technopedia Softwares reported by UI : 681469
+07/12/2017 02:59:10 PM - INFO - No of Technopedia Softwares reported by DB : 693345
+07/12/2017 02:59:10 PM - ERROR - Test Failed
+07/12/2017 02:59:10 PM - INFO - SELECT COUNT(*) from CAT_HW_MODEL
+07/12/2017 02:59:10 PM - INFO - No of Technopedia Hardware reported by UI : 1337428
+07/12/2017 02:59:10 PM - INFO - No of Technopedia Hardware reported by DB : 1388705
+07/12/2017 02:59:10 PM - ERROR - Test Failed
+07/12/2017 02:59:10 PM - INFO - Executing Test Case : sw_product_detail_page
+07/12/2017 02:59:10 PM - INFO - Testing for SW Product : Google Drive
+07/12/2017 02:59:16 PM - INFO - SELECT COUNT(*) FROM CAT_MANUFACTURER  WHERE  REGEXP_LIKE (MANUFACTURER, '(^|\s|\W)Google($|\s|\W)') OR  REGEXP_LIKE (MANUFACTURER, '(^|\s|\W)Drive($|\s|\W)')
+07/12/2017 02:59:17 PM - INFO - Manufacturer Search Page Banner Count from UI : 9
+07/12/2017 02:59:17 PM - INFO - Manufacturer Search Page Banner Count from DB : 10
+07/12/2017 02:59:17 PM - ERROR - Test Failed
+07/12/2017 02:59:17 PM - INFO - Search results screenshot saved ..
+07/12/2017 02:59:17 PM - INFO - Navigating to Detail page for : Google Drive
+07/12/2017 02:59:17 PM - INFO - Getting SW Product ID ... 
+07/12/2017 02:59:26 PM - INFO - SW Product ID : 30140747
+07/12/2017 02:59:26 PM - INFO - SELECT COUNT(*) FROM CAT_SW_VERSION WHERE CAT_SW_PRODUCT_ID = 30140747
+07/12/2017 02:59:26 PM - INFO - SW Product Detail Page software version count from UI : 35
+07/12/2017 02:59:26 PM - INFO - SW Product Detail Page software version count from DB : 35
+07/12/2017 02:59:26 PM - INFO - Test Passed
+07/12/2017 02:59:26 PM - INFO - SELECT COUNT(*) FROM CAT_SW_VERSION WHERE CAT_SW_PRODUCT_ID = 30140747
+07/12/2017 02:59:26 PM - INFO - SW Product Detail Page software edition Count from UI : 0
+07/12/2017 02:59:26 PM - INFO - SW Product Detail Page software edition count from DB : 0
+07/12/2017 02:59:26 PM - INFO - Test Passed
+07/12/2017 02:59:26 PM - INFO - SELECT COUNT(*) FROM CAT_SW_RELEASE WHERE CAT_SW_PRODUCT_ID = 30140747
+07/12/2017 02:59:26 PM - INFO - SW Product Detail Page software release Count from UI : 35
+07/12/2017 02:59:26 PM - INFO - SW Product Detail Page software release count from DB : 35
+07/12/2017 02:59:26 PM - INFO - Test Passed
+07/12/2017 02:59:26 PM - INFO - Detail page screenshot saved ...
+07/12/2017 02:59:31 PM - INFO - Testing for SW Product : Apple ios
+07/12/2017 02:59:35 PM - INFO - SELECT COUNT(*) FROM CAT_MANUFACTURER  WHERE  REGEXP_LIKE (MANUFACTURER, '(^|\s|\W)Apple($|\s|\W)') OR  REGEXP_LIKE (MANUFACTURER, '(^|\s|\W)ios($|\s|\W)')
+07/12/2017 02:59:35 PM - INFO - Manufacturer Search Page Banner Count from UI : 1
+07/12/2017 02:59:35 PM - INFO - Manufacturer Search Page Banner Count from DB : 1
+07/12/2017 02:59:35 PM - INFO - Test Passed
+07/12/2017 02:59:36 PM - INFO - Search results screenshot saved ..
+07/12/2017 02:59:36 PM - INFO - Navigating to Detail page for : Apple ios
+07/12/2017 02:59:36 PM - INFO - Getting SW Product ID ... 
+07/12/2017 02:59:53 PM - INFO - SW Product ID : 6633158
+07/12/2017 02:59:53 PM - INFO - SELECT COUNT(*) FROM CAT_SW_VERSION WHERE CAT_SW_PRODUCT_ID = 6633158
+07/12/2017 02:59:53 PM - INFO - SW Product Detail Page software version count from UI : 84
+07/12/2017 02:59:53 PM - INFO - SW Product Detail Page software version count from DB : 85
+07/12/2017 02:59:53 PM - ERROR - Test Failed
+07/12/2017 02:59:53 PM - INFO - SELECT COUNT(*) FROM CAT_SW_VERSION WHERE CAT_SW_PRODUCT_ID = 6633158
+07/12/2017 02:59:53 PM - INFO - SW Product Detail Page software edition Count from UI : 0
+07/12/2017 02:59:53 PM - INFO - SW Product Detail Page software edition count from DB : 0
+07/12/2017 02:59:53 PM - INFO - Test Passed
+07/12/2017 02:59:53 PM - INFO - SELECT COUNT(*) FROM CAT_SW_RELEASE WHERE CAT_SW_PRODUCT_ID = 6633158
+07/12/2017 02:59:53 PM - INFO - SW Product Detail Page software release Count from UI : 84
+07/12/2017 02:59:53 PM - INFO - SW Product Detail Page software release count from DB : 85
+07/12/2017 02:59:53 PM - ERROR - Test Failed
+07/12/2017 02:59:54 PM - INFO - Detail page screenshot saved ...
+07/12/2017 02:59:58 PM - INFO - Executing Test Case : manufacturer_detail_page
+07/12/2017 02:59:58 PM - INFO - Testing for Manufacturer : Microsoft
+07/12/2017 03:00:01 PM - INFO - SELECT COUNT(*) FROM CAT_MANUFACTURER  WHERE  REGEXP_LIKE (MANUFACTURER, '(^|\s|\W)Microsoft($|\s|\W)')
+07/12/2017 03:00:02 PM - INFO - Manufacturer Search Page Banner Count from UI : 4
+07/12/2017 03:00:02 PM - INFO - Manufacturer Search Page Banner Count from DB : 4
+07/12/2017 03:00:02 PM - INFO - Test Passed
+07/12/2017 03:00:02 PM - INFO - Search results screenshot saved ..
+07/12/2017 03:00:02 PM - INFO - Navigating to Detail page for : Microsoft
+07/12/2017 03:00:02 PM - INFO - Getting Manufacturer ID ... 
+07/12/2017 03:00:03 PM - INFO - Manufacturer ID : 7365
+07/12/2017 03:00:03 PM - INFO - SELECT COUNT(*) FROM CAT_SW_PRODUCT WHERE CAT_MANUFACTURER_ID = 7365
+07/12/2017 03:00:03 PM - INFO - Manufacturer Detail Page software Count from UI : 2773
+07/12/2017 03:00:03 PM - INFO - Manufacturer Detail Page software Count from DB : 2793
+07/12/2017 03:00:03 PM - ERROR - Test Failed
+07/12/2017 03:00:03 PM - INFO - SELECT COUNT(*) FROM CAT_HW_PRODUCT WHERE CAT_MANUFACTURER_ID = 7365
+07/12/2017 03:00:03 PM - INFO - Manufacturer Detail Page hardware Count from UI : 359
+07/12/2017 03:00:03 PM - INFO - Manufacturer Detail Page hardware Count from DB : 359
+07/12/2017 03:00:03 PM - INFO - Test Passed
+07/12/2017 03:00:08 PM - INFO - Testing for Manufacturer : Apple
+07/12/2017 03:00:11 PM - INFO - SELECT COUNT(*) FROM CAT_MANUFACTURER  WHERE  REGEXP_LIKE (MANUFACTURER, '(^|\s|\W)Apple($|\s|\W)')
+07/12/2017 03:00:11 PM - INFO - Manufacturer Search Page Banner Count from UI : 1
+07/12/2017 03:00:11 PM - INFO - Manufacturer Search Page Banner Count from DB : 1
+07/12/2017 03:00:11 PM - INFO - Test Passed
+07/12/2017 03:00:11 PM - INFO - Search results screenshot saved ..
+07/12/2017 03:00:11 PM - INFO - Navigating to Detail page for : Apple
+07/12/2017 03:00:12 PM - INFO - Getting Manufacturer ID ... 
+07/12/2017 03:00:12 PM - INFO - Manufacturer ID : 4611
+07/12/2017 03:00:12 PM - INFO - SELECT COUNT(*) FROM CAT_SW_PRODUCT WHERE CAT_MANUFACTURER_ID = 4611
+07/12/2017 03:00:12 PM - INFO - Manufacturer Detail Page software Count from UI : 137
+07/12/2017 03:00:12 PM - INFO - Manufacturer Detail Page software Count from DB : 138
+07/12/2017 03:00:12 PM - ERROR - Test Failed
+07/12/2017 03:00:12 PM - INFO - SELECT COUNT(*) FROM CAT_HW_PRODUCT WHERE CAT_MANUFACTURER_ID = 4611
+07/12/2017 03:00:12 PM - INFO - Manufacturer Detail Page hardware Count from UI : 230
+07/12/2017 03:00:12 PM - INFO - Manufacturer Detail Page hardware Count from DB : 239
+07/12/2017 03:00:12 PM - ERROR - Test Failed
+07/12/2017 03:00:18 PM - INFO - Testing for Manufacturer : Oracle
+07/12/2017 03:00:21 PM - INFO - SELECT COUNT(*) FROM CAT_MANUFACTURER  WHERE  REGEXP_LIKE (MANUFACTURER, '(^|\s|\W)Oracle($|\s|\W)')
+07/12/2017 03:00:21 PM - INFO - Manufacturer Search Page Banner Count from UI : 2
+07/12/2017 03:00:21 PM - INFO - Manufacturer Search Page Banner Count from DB : 2
+07/12/2017 03:00:21 PM - INFO - Test Passed
+07/12/2017 03:00:21 PM - INFO - Search results screenshot saved ..
+07/12/2017 03:00:21 PM - INFO - Navigating to Detail page for : Oracle
+07/12/2017 03:00:22 PM - INFO - Getting Manufacturer ID ... 
+07/12/2017 03:00:22 PM - INFO - Manufacturer ID : 7835
+07/12/2017 03:00:22 PM - INFO - SELECT COUNT(*) FROM CAT_SW_PRODUCT WHERE CAT_MANUFACTURER_ID = 7835
+07/12/2017 03:00:22 PM - INFO - Manufacturer Detail Page software Count from UI : 5320
+07/12/2017 03:00:22 PM - INFO - Manufacturer Detail Page software Count from DB : 5337
+07/12/2017 03:00:22 PM - ERROR - Test Failed
+07/12/2017 03:00:23 PM - INFO - SELECT COUNT(*) FROM CAT_HW_PRODUCT WHERE CAT_MANUFACTURER_ID = 7835
+07/12/2017 03:00:23 PM - INFO - Manufacturer Detail Page hardware Count from UI : 171
+07/12/2017 03:00:23 PM - INFO - Manufacturer Detail Page hardware Count from DB : 171
+07/12/2017 03:00:23 PM - INFO - Test Passed
+07/12/2017 03:00:28 PM - INFO - Executing Test Case : hw_product_detail_page
+07/12/2017 03:00:28 PM - INFO - Testing for HW Product : Apple Macbook
+07/12/2017 03:00:31 PM - INFO - SELECT COUNT(*) FROM CAT_MANUFACTURER  WHERE  REGEXP_LIKE (MANUFACTURER, '(^|\s|\W)Apple($|\s|\W)') OR  REGEXP_LIKE (MANUFACTURER, '(^|\s|\W)Macbook($|\s|\W)')
+07/12/2017 03:00:32 PM - INFO - Manufacturer Search Page Banner Count from UI : 1
+07/12/2017 03:00:32 PM - INFO - Manufacturer Search Page Banner Count from DB : 1
+07/12/2017 03:00:32 PM - INFO - Test Passed
+07/12/2017 03:00:32 PM - INFO - Search results screenshot saved ..
+07/12/2017 03:00:32 PM - INFO - Navigating to Detail page for : Apple Macbook
+07/12/2017 03:00:32 PM - INFO - Getting HW Product ID ... 
+07/12/2017 03:00:34 PM - INFO - HW Product ID : 1091662
+07/12/2017 03:00:34 PM - INFO - SELECT COUNT(*) FROM CAT_HW_MODEL WHERE CAT_HW_PRODUCT_ID = 1091662
+07/12/2017 03:00:35 PM - INFO - HW Product Detail Page hardware model Count from UI : 59
+07/12/2017 03:00:35 PM - INFO - Manufacturer Detail Page hardware Count from DB : 64
+07/12/2017 03:00:35 PM - ERROR - Test Failed
+07/12/2017 03:00:40 PM - INFO - Testing for HW Product : Dell Poweredge
+07/12/2017 03:00:43 PM - INFO - SELECT COUNT(*) FROM CAT_MANUFACTURER  WHERE  REGEXP_LIKE (MANUFACTURER, '(^|\s|\W)Dell($|\s|\W)') OR  REGEXP_LIKE (MANUFACTURER, '(^|\s|\W)Poweredge($|\s|\W)')
+07/12/2017 03:00:44 PM - INFO - Manufacturer Search Page Banner Count from UI : 1
+07/12/2017 03:00:44 PM - INFO - Manufacturer Search Page Banner Count from DB : 1
+07/12/2017 03:00:44 PM - INFO - Test Passed
+07/12/2017 03:00:44 PM - INFO - Search results screenshot saved ..
+07/12/2017 03:00:44 PM - INFO - Navigating to Detail page for : Dell Poweredge
+07/12/2017 03:00:44 PM - INFO - Getting HW Product ID ... 
+07/12/2017 03:00:45 PM - INFO - HW Product ID : 971403
+07/12/2017 03:00:45 PM - INFO - SELECT COUNT(*) FROM CAT_HW_MODEL WHERE CAT_HW_PRODUCT_ID = 971403
+07/12/2017 03:00:46 PM - INFO - HW Product Detail Page hardware model Count from UI : 174
+07/12/2017 03:00:46 PM - INFO - Manufacturer Detail Page hardware Count from DB : 174
+07/12/2017 03:00:46 PM - INFO - Test Passed

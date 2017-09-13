@@ -1,0 +1,2276 @@
+Cube,Attribute,Time(second),Error type
+Normalize: Assets,INV Date,0.65,No Issue
+Normalize: Assets,INV Group,0.56,No Issue
+Normalize: Assets,INV ID,0.04,No Issue
+Normalize: Assets,INV Name,0.05,No Issue
+Normalize: Assets,INV Task ID,0.05,No Issue
+Normalize: Assets,INV Task,0.05,No Issue
+Normalize: Assets,INV Data Source,0.05,No Issue
+Normalize: Assets,INV Status,0.04,No Issue
+Normalize: Assets,INV Is Latest?,0.06,No Issue
+Normalize: Assets,SYS Domain,0.56,No Issue
+Normalize: Assets,SYS Hostname,0.57,No Issue
+Normalize: Assets,SYS Serial Number,0.56,No Issue
+Normalize: Assets,SYS Is Virtual Machine?,0.04,No Issue
+Normalize: Assets,SYS Is Virtual Host?,0.05,No Issue
+Normalize: Assets,SYS Is Deduped?,0.03,No Issue
+Normalize: Assets,SYS Is Active?,0.04,No Issue
+Normalize: Assets,SYS CPU Range (Mhz),0.56,No Issue
+Normalize: Assets,SYS CPUs Range,0.03,No Issue
+Normalize: Assets,SYS Cores Range,0.03,No Issue
+Normalize: Assets,SYS RAM Range (MB),0.04,No Issue
+Normalize: Assets,SYS HDD Range (GB),0.07,No Issue
+Normalize: Assets,SYS OS Uptime Range,0.04,No Issue
+Normalize: Assets,SYS User Domain,0.56,No Issue
+Normalize: Assets,SYS User Logon,0.57,No Issue
+Normalize: Assets,SYS Full User Logon,0.56,No Issue
+Normalize: Assets,CPU Manufacturer,0.58,No Issue
+Normalize: Assets,CPU Model,0.05,No Issue
+Normalize: Assets,CPU Cores,0.05,No Issue
+Normalize: Assets,CPU Clock Rate,0.04,No Issue
+Normalize: Assets,CPU ISA Bit Mode,0.04,No Issue
+Normalize: Assets,CPU Is Threaded?,0.04,No Issue
+Normalize: Assets,CPU Number of threads,0.03,No Issue
+Normalize: Assets,HW Vertical,0.58,No Issue
+Normalize: Assets,HW Category,0.06,No Issue
+Normalize: Assets,HW Subcategory,0.04,No Issue
+Normalize: Assets,HW Vendor Category,0.04,No Issue
+Normalize: Assets,HW Manufacturer,0.58,No Issue
+Normalize: Assets,HW Product,0.05,No Issue
+Normalize: Assets,HW Model,0.05,No Issue
+Normalize: Assets,HW Supported OS,0.04,No Issue
+Normalize: Assets,HW Max CPU sockets,0.03,No Issue
+Normalize: Assets,HW Is Supported? (calc.),0.04,No Issue
+Normalize: Assets,HW Supported Reason (calc.),0.6,No Issue
+Normalize: Assets,HW EOL Year (calc.),0.04,No Issue
+Normalize: Assets,HW EOL Quarter (calc.),0.05,No Issue
+Normalize: Assets,HW EOL Date (calc.),0.05,No Issue
+Normalize: Assets,HW EOL Month (calc.),0.05,No Issue
+Normalize: Assets,HW Intro Year,0.04,No Issue
+Normalize: Assets,HW Intro Quarter,0.05,No Issue
+Normalize: Assets,HW Intro Month,0.05,No Issue
+Normalize: Assets,HW Intro Date,0.05,No Issue
+Normalize: Assets,HW Intro Exception,0.03,No Issue
+Normalize: Assets,HW Intro Range (Start),0.05,No Issue
+Normalize: Assets,HW Intro Range (End),0.06,No Issue
+Normalize: Assets,HW GA Year,0.04,No Issue
+Normalize: Assets,HW GA Quarter,0.04,No Issue
+Normalize: Assets,HW GA Month,0.65,No Issue
+Normalize: Assets,HW GA Date,0.05,No Issue
+Normalize: Assets,HW GA Exception,0.07,No Issue
+Normalize: Assets,HW GA Range (Start),0.04,No Issue
+Normalize: Assets,HW GA Range (End),0.03,No Issue
+Normalize: Assets,HW LastAvail Year,0.05,No Issue
+Normalize: Assets,HW LastAvail Quarter,0.6,No Issue
+Normalize: Assets,HW LastAvail Month,0.04,No Issue
+Normalize: Assets,HW LastAvail Date,0.03,No Issue
+Normalize: Assets,HW LastAvail Exception,0.04,No Issue
+Normalize: Assets,HW LastAvail Range (Start),0.07,No Issue
+Normalize: Assets,HW LastAvail Range (End),0.05,No Issue
+Normalize: Assets,HW OBS Year,0.05,No Issue
+Normalize: Assets,HW OBS Quarter,0.05,No Issue
+Normalize: Assets,HW OBS Month,0.6,No Issue
+Normalize: Assets,HW OBS Date,0.03,No Issue
+Normalize: Assets,HW OBS Exception,0.03,No Issue
+Normalize: Assets,HW OBS Range (Start),0.05,No Issue
+Normalize: Assets,HW OBS Range (End),0.57,No Issue
+Normalize: Assets,HW Currency Code,0.57,No Issue
+Normalize: Assets,HW Minimum price,0.05,No Issue
+Normalize: Assets,HW Average price,0.04,No Issue
+Normalize: Assets,HW Maximum price,0.06,No Issue
+Normalize: Assets,HW Is Energy Star?,0.56,No Issue
+Normalize: Assets,HW EPEAT Rating,0.04,No Issue
+Normalize: Assets,HW Power Type,0.04,No Issue
+Normalize: Assets,HW Power (W),0.07,No Issue
+Normalize: Assets,HW Power Rating,0.05,No Issue
+Normalize: Assets,HW Connectivity,0.57,No Issue
+Normalize: Assets,HW Connectivity Type,0.06,No Issue
+Normalize: Assets,HW Connectivity Standard,0.04,No Issue
+Normalize: Assets,HW Connectivity Standard Version,0.05,No Issue
+Normalize: Assets,SW Vertical,0.57,No Issue
+Normalize: Assets,SW Category,0.04,No Issue
+Normalize: Assets,SW Subcategory,0.07,No Issue
+Normalize: Assets,SW Vendor Category,0.61,No Issue
+Normalize: Assets,SW Manufacturer,0.62,No Issue
+Normalize: Assets,SW Family,0.57,No Issue
+Normalize: Assets,SW Name,0.57,No Issue
+Normalize: Assets,SW Component,0.56,No Issue
+Normalize: Assets,SW Market Version,0.58,No Issue
+Normalize: Assets,SW Version,0.57,No Issue
+Normalize: Assets,SW Service Pack,0.56,No Issue
+Normalize: Assets,SW Edition,0.06,No Issue
+Normalize: Assets,SW Is Licensable?,0.06,No Issue
+Normalize: Assets,SW Is Suite?,0.04,No Issue
+Normalize: Assets,SW User Domain,0.56,No Issue
+Normalize: Assets,SW User Logon,0.58,No Issue
+Normalize: Assets,SW Full User Logon,0.57,No Issue
+Normalize: Assets,SW Former Product,0.57,No Issue
+Normalize: Assets,SW Later Product,0.58,No Issue
+Normalize: Assets,SW Oldest Product,0.56,No Issue
+Normalize: Assets,SW Latest Product,0.57,No Issue
+Normalize: Assets,SW Release Platform,0.56,No Issue
+Normalize: Assets,SW Platform Type,2.69,No Issue
+Normalize: Assets,SW Is Supported? (calc.),0.04,No Issue
+Normalize: Assets,SW Supported Reason (calc.),0.05,No Issue
+Normalize: Assets,SW Desupported? (calc.),0.04,No Issue
+Normalize: Assets,SW Version Order (calc.),0.59,No Issue
+Normalize: Assets,SW Max Versions (calc.),0.59,No Issue
+Normalize: Assets,SW Versions (calc.),0.07,No Issue
+Normalize: Assets,SW EOL Year (calc.),0.06,No Issue
+Normalize: Assets,SW EOL Quarter (calc.),0.04,No Issue
+Normalize: Assets,SW EOL Date (calc.),0.58,No Issue
+Normalize: Assets,SW EOL Month (calc.),0.56,No Issue
+Normalize: Assets,SW GA Year,0.03,No Issue
+Normalize: Assets,SW GA Quarter,0.59,No Issue
+Normalize: Assets,SW GA Month,0.07,No Issue
+Normalize: Assets,SW GA Date,0.55,No Issue
+Normalize: Assets,SW GA Exception,0.04,No Issue
+Normalize: Assets,SW GA Range (Start),0.05,No Issue
+Normalize: Assets,SW GA Range (End),0.05,No Issue
+Normalize: Assets,SW EOL Year,0.06,No Issue
+Normalize: Assets,SW EOL Quarter,0.06,No Issue
+Normalize: Assets,SW EOL Month,0.61,No Issue
+Normalize: Assets,SW EOL Date,0.62,No Issue
+Normalize: Assets,SW EOL Exception,0.07,No Issue
+Normalize: Assets,SW EOL Range (Start),0.04,No Issue
+Normalize: Assets,SW EOL Range (End),0.06,No Issue
+Normalize: Assets,SW OBS Year,0.05,No Issue
+Normalize: Assets,SW OBS Quarter,0.04,No Issue
+Normalize: Assets,SW OBS Month,0.06,No Issue
+Normalize: Assets,SW OBS Date,0.09,No Issue
+Normalize: Assets,SW OBS Exception,0.03,No Issue
+Normalize: Assets,SW OBS Range (Start),0.04,No Issue
+Normalize: Assets,SW OBS Range (End),0.04,No Issue
+Normalize: Assets,SW Support Policy,0.61,No Issue
+Normalize: Assets,SW Support Stage,0.58,No Issue
+Normalize: Assets,SW Support Stage Order,2.16,No Issue
+Normalize: Assets,SW Support Stage Definition,0.59,No Issue
+Normalize: Assets,SW Currency Code,0.58,No Issue
+Normalize: Assets,SW Minimum price,0.59,No Issue
+Normalize: Assets,SW Average price,0.05,No Issue
+Normalize: Assets,SW Maximum price,0.05,No Issue
+Normalize: Assets,PRI Is Private?,0.05,No Data
+Normalize: Assets,PRI Type,0.06,No Data
+Normalize: Assets,PRI Object,0.06,No Data
+Normalize: Assets,PRI Table,0.06,No Data
+Normalize: Assets,PRI Attribute,0.05,No Data
+Normalize: Assets,SW Instance Attribute,0.57,No Issue
+Normalize: Assets,SW Instance Value,0.56,No Issue
+Normalize: Assets,Domain,0.58,No Issue
+Normalize: Assets,ACTIVE,0.05,No Issue
+Normalize: Assets,Owner,0.04,No Issue
+Normalize: Assets,Expiration Date,0.05,No Issue
+Normalize: Assets,Location,0.05,No Issue
+Normalize: Assets,Manufacturer Name,0.58,No Issue
+Normalize: Assets,Product Name,0.04,No Issue
+Normalize: Assets,Supported OS,0.03,No Issue
+Normalize: Assets,Last Supported Date,0.04,No Issue
+Normalize: Assets,Energy Star,0.05,No Issue
+Normalize: Assets,EPEAT,0.03,No Issue
+Normalize: Assets,AC Power AVG,0.06,No Issue
+Normalize: Assets,AC AVG UNIT,0.03,No Issue
+Normalize: Assets,AC Power Max,0.04,No Issue
+Normalize: Assets,AC MAX Unit,0.06,No Issue
+Normalize: Assets,Managed by,0.04,No Issue
+Normalize: Assets,IND,0.59,No Issue
+Normalize: Assets,BDNA SW Category,0.04,No Issue
+Normalize: Assets,BDNA SW Sub Category,0.06,No Issue
+Normalize: Assets,SW Supplier,0.04,No Issue
+Normalize: Assets,SW Name,0.06,No Issue
+Normalize: Assets,Business Unit,0.57,No Issue
+Normalize: Assets,Department,0.04,No Issue
+Normalize: Assets,Region,0.05,No Issue
+Normalize: Assets,Country,0.03,No Issue
+Normalize: Assets,User_Domain,0.05,No Issue
+Normalize: Assets,User_Name,0.07,No Issue
+Normalize: Assets,DEPT1,0.04,No Issue
+Normalize: Assets,DEPT2,0.04,No Issue
+Normalize: Assets,SITE1,0.06,No Issue
+Normalize: Assets,LOC,0.04,No Issue
+Normalize: Assets,SYS Count_measure,0.59,No Issue
+Normalize: Assets,SYS Avg CPU (MHz)_measure,0.56,No Issue
+Normalize: Assets,SYS Avg Number of CPUs_measure,0.56,No Issue
+Normalize: Assets,SYS Avg Number of Cores_measure,0.57,No Issue
+Normalize: Assets,SYS Avg RAM (MB)_measure,0.56,No Issue
+Normalize: Assets,SYS Avg Total HDD (GB)_measure,0.56,No Issue
+Normalize: Assets,SYS Avg Available HDD (GB)_measure,0.58,No Issue
+Normalize: Assets,HW Distinct Product Count_measure,0.56,No Issue
+Normalize: Assets,HW Distinct Model Count_measure,0.57,No Issue
+Normalize: Assets,HW Minimum price_measure,0.57,No Issue
+Normalize: Assets,HW Average price_measure,0.56,No Issue
+Normalize: Assets,HW Maximum price_measure,0.57,No Issue
+Normalize: Assets,HW AVG Power (W)_measure,0.58,No Issue
+Normalize: Assets,HW AC Power Avg_measure,0.58,No Issue
+Normalize: Assets,HW AC Power Max_measure,0.57,No Issue
+Normalize: Assets,HW AC Heat Diss Avg (BTU/hr)_measure,0.58,No Issue
+Normalize: Assets,HW AC Heat Diss Max (BTU/hr)_measure,0.57,No Issue
+Normalize: Assets,HW AC Input Low Voltage Min_measure,0.56,No Issue
+Normalize: Assets,HW AC Input Low Voltage Max_measure,0.57,No Issue
+Normalize: Assets,HW AC Input Low Current Min_measure,0.55,No Issue
+Normalize: Assets,HW AC Input Low Current Max_measure,0.57,No Issue
+Normalize: Assets,HW AC Input High Voltage Min_measure,0.57,No Issue
+Normalize: Assets,HW AC Input High Voltage Max_measure,0.56,No Issue
+Normalize: Assets,HW AC Input High Current Min_measure,0.58,No Issue
+Normalize: Assets,HW AC Input High Current Max_measure,0.58,No Issue
+Normalize: Assets,HW AC Frequency Min_measure,0.57,No Issue
+Normalize: Assets,HW AC Frequency Max_measure,0.57,No Issue
+Normalize: Assets,HW DC Power Avg_measure,0.6,No Data
+Normalize: Assets,HW DC Power Max_measure,0.58,No Data
+Normalize: Assets,HW DC Heat Diss Avg (BTU/hr)_measure,0.58,No Data
+Normalize: Assets,HW DC Heat Diss Max (BTU/hr)_measure,0.57,No Data
+Normalize: Assets,HW DC Low Voltage_measure,0.56,No Issue
+Normalize: Assets,HW DC Low Current_measure,0.57,No Issue
+Normalize: Assets,HW DC High Voltage_measure,0.59,No Data
+Normalize: Assets,HW DC High Current_measure,0.59,No Data
+Normalize: Assets,HW Min Operating Temp (F)_measure,0.58,No Issue
+Normalize: Assets,HW Max Operating Temp (F)_measure,0.58,No Issue
+Normalize: Assets,HW Min Non-Operating Temp (F)_measure,0.57,No Issue
+Normalize: Assets,HW Max Non-Operating Temp (F)_measure,0.56,No Issue
+Normalize: Assets,HW Min Operating Humidity (%)_measure,0.59,No Issue
+Normalize: Assets,HW Max Operating Humidity (%)_measure,0.57,No Issue
+Normalize: Assets,HW Min Non-Operating Humidity (%)_measure,0.58,No Issue
+Normalize: Assets,HW Max Non-Operating Humidity (%)_measure,0.58,No Issue
+Normalize: Assets,SW Distinct Product Count_measure,0.57,No Issue
+Normalize: Assets,SW Distinct Version Count_measure,0.56,No Issue
+Normalize: Assets,SW Distinct Edition Count_measure,0.56,No Issue
+Normalize: Assets,SW Distinct Release Count_measure,0.56,No Issue
+Normalize: Assets,SW Install Count_measure,0.56,No Issue
+Normalize: Assets,SW Use Count_measure,0.56,No Issue
+Normalize: Assets,SW Times Launched_measure,0.6,No Data
+Normalize: Assets,SW Usage Duration_measure,0.58,No Issue
+Normalize: Assets,SW Minimum price_measure,0.57,No Issue
+Normalize: Assets,SW Average price_measure,0.56,No Issue
+Normalize: Assets,SW Maximum price_measure,0.56,No Issue
+Cube,Attribute,Time(second),Error type
+Normalize: IT Assets,INV Date,0.06,No Issue
+Normalize: IT Assets,INV Group,0.03,No Issue
+Normalize: IT Assets,INV ID,0.06,No Issue
+Normalize: IT Assets,INV Name,0.03,No Issue
+Normalize: IT Assets,INV Task ID,0.06,No Issue
+Normalize: IT Assets,INV Task,0.04,No Issue
+Normalize: IT Assets,INV Data Source,0.06,No Issue
+Normalize: IT Assets,INV Status,0.05,No Issue
+Normalize: IT Assets,INV Is Latest?,0.06,No Issue
+Normalize: IT Assets,SYS Domain,0.06,No Issue
+Normalize: IT Assets,SYS Hostname,0.58,No Issue
+Normalize: IT Assets,SYS Serial Number,0.62,No Issue
+Normalize: IT Assets,SYS Is Virtual Machine?,0.03,No Issue
+Normalize: IT Assets,SYS Is Virtual Host?,0.04,No Issue
+Normalize: IT Assets,SYS Is Deduped?,0.05,No Issue
+Normalize: IT Assets,SYS Is Active?,0.04,No Issue
+Normalize: IT Assets,SYS CPU Range (Mhz),0.04,No Issue
+Normalize: IT Assets,SYS CPUs Range,0.03,No Issue
+Normalize: IT Assets,SYS Cores Range,0.04,No Issue
+Normalize: IT Assets,SYS RAM Range (MB),0.04,No Issue
+Normalize: IT Assets,SYS HDD Range (GB),0.03,No Issue
+Normalize: IT Assets,SYS OS Uptime Range,0.05,No Issue
+Normalize: IT Assets,SYS User Domain,0.6,No Issue
+Normalize: IT Assets,SYS User Logon,0.57,No Issue
+Normalize: IT Assets,SYS Full User Logon,0.55,No Issue
+Normalize: IT Assets,OS Req OS Type,0.03,No Issue
+Normalize: IT Assets,OS Req OS Name,0.03,No Issue
+Normalize: IT Assets,OS Req OS Bit Mode,0.05,No Issue
+Normalize: IT Assets,OS Req Speed (Mhz),0.04,No Issue
+Normalize: IT Assets,OS Req RAM (MB),0.03,No Issue
+Normalize: IT Assets,OS Req Limit RAM (MB),0.03,No Issue
+Normalize: IT Assets,OS Req HDD (GB),0.05,No Issue
+Normalize: IT Assets,SYS Is CPU Compatible?,0.05,No Issue
+Normalize: IT Assets,SYS Is RAM Compatible?,0.04,No Issue
+Normalize: IT Assets,SYS Is HDD Compatible?,0.05,No Issue
+Normalize: IT Assets,SYS OS Readiness,0.04,No Issue
+Normalize: IT Assets,OS Family,0.04,No Issue
+Normalize: IT Assets,OS Manufacturer,0.08,No Issue
+Normalize: IT Assets,OS Name,0.04,No Issue
+Normalize: IT Assets,OS Major Version,0.04,No Issue
+Normalize: IT Assets,OS Minor Version,0.05,No Issue
+Normalize: IT Assets,OS Service Pack,0.04,No Issue
+Normalize: IT Assets,OS Edition,0.04,No Issue
+Normalize: IT Assets,OS Is Supported? (calc.),0.04,No Issue
+Normalize: IT Assets,OS Supported Reason (calc.),0.04,No Issue
+Normalize: IT Assets,OS Desupported? (calc.),0.04,No Issue
+Normalize: IT Assets,OS Version Order (calc.),0.04,No Issue
+Normalize: IT Assets,OS Max Versions (calc.),0.06,No Issue
+Normalize: IT Assets,OS Versions (calc.),0.04,No Issue
+Normalize: IT Assets,OS EOL Year (calc.),0.04,No Issue
+Normalize: IT Assets,OS EOL Quarter (calc.),0.04,No Issue
+Normalize: IT Assets,OS EOL Month (calc.),0.05,No Issue
+Normalize: IT Assets,OS EOL Date (calc.),0.04,No Issue
+Normalize: IT Assets,OS GA Year,0.04,No Issue
+Normalize: IT Assets,OS GA Quarter,0.61,No Issue
+Normalize: IT Assets,OS GA Month,0.06,No Issue
+Normalize: IT Assets,OS GA Date,0.04,No Issue
+Normalize: IT Assets,OS GA Exception,0.04,No Issue
+Normalize: IT Assets,OS GA Range (Start),0.04,No Issue
+Normalize: IT Assets,OS GA Range (End),0.05,No Issue
+Normalize: IT Assets,OS EOL Year,0.04,No Issue
+Normalize: IT Assets,OS EOL Quarter,0.04,No Issue
+Normalize: IT Assets,OS EOL Month,0.04,No Issue
+Normalize: IT Assets,OS EOL Date,0.05,No Issue
+Normalize: IT Assets,OS EOL Exception,0.03,No Issue
+Normalize: IT Assets,OS EOL Range (Start),0.05,No Issue
+Normalize: IT Assets,OS EOL Range (End),0.03,No Issue
+Normalize: IT Assets,OS OBS Year,0.05,No Issue
+Normalize: IT Assets,OS OBS Quarter,0.06,No Issue
+Normalize: IT Assets,OS OBS Month,0.05,No Issue
+Normalize: IT Assets,OS OBS Date,0.04,No Issue
+Normalize: IT Assets,OS OBS Exception,0.03,No Issue
+Normalize: IT Assets,OS OBS Range (Start),0.06,No Issue
+Normalize: IT Assets,OS OBS Range (End),0.03,No Issue
+Normalize: IT Assets,CPU Manufacturer (1),0.59,No Issue
+Normalize: IT Assets,CPU Model (1),0.07,No Issue
+Normalize: IT Assets,CPU Cores,0.03,No Issue
+Normalize: IT Assets,CPU Clock Rate,0.05,No Issue
+Normalize: IT Assets,CPU ISA Bit Mode,0.04,No Issue
+Normalize: IT Assets,CPU Is Threaded?,0.05,No Issue
+Normalize: IT Assets,CPU Number of threads,0.05,No Issue
+Normalize: IT Assets,CPU Maximum Sockets,0.59,No Issue
+Normalize: IT Assets,CPU IBM PVU per core,0.04,No Issue
+Normalize: IT Assets,HW Vertical,0.04,No Issue
+Normalize: IT Assets,HW Category,0.04,No Issue
+Normalize: IT Assets,HW Subcategory,0.04,No Issue
+Normalize: IT Assets,HW Vendor Category,0.04,No Issue
+Normalize: IT Assets,HW Manufacturer,0.05,No Issue
+Normalize: IT Assets,HW Product,0.04,No Issue
+Normalize: IT Assets,HW Model,0.04,No Issue
+Normalize: IT Assets,HW Supported OS,0.04,No Issue
+Normalize: IT Assets,HW Max CPU sockets,0.04,No Issue
+Normalize: IT Assets,HW Is Supported? (calc.),0.03,No Issue
+Normalize: IT Assets,HW Supported Reason (calc.),0.05,No Issue
+Normalize: IT Assets,HW EOL Year (calc.),0.07,No Issue
+Normalize: IT Assets,HW EOL Quarter (calc.),0.04,No Issue
+Normalize: IT Assets,HW EOL Month (calc.),0.07,No Issue
+Normalize: IT Assets,HW EOL Date (calc.),0.04,No Issue
+Normalize: IT Assets,HW Intro Year,0.04,No Issue
+Normalize: IT Assets,HW Intro Quarter,0.05,No Issue
+Normalize: IT Assets,HW Intro Month,0.04,No Issue
+Normalize: IT Assets,HW Intro Date,0.06,No Issue
+Normalize: IT Assets,HW Intro Exception,0.04,No Issue
+Normalize: IT Assets,HW Intro Range (Start),0.04,No Issue
+Normalize: IT Assets,HW Intro Range (End),0.05,No Issue
+Normalize: IT Assets,HW GA Year,0.04,No Issue
+Normalize: IT Assets,HW GA Quarter,0.05,No Issue
+Normalize: IT Assets,HW GA Month,0.05,No Issue
+Normalize: IT Assets,HW GA Date,0.05,No Issue
+Normalize: IT Assets,HW GA Exception,0.04,No Issue
+Normalize: IT Assets,HW GA Range (Start),0.05,No Issue
+Normalize: IT Assets,HW GA Range (End),0.04,No Issue
+Normalize: IT Assets,HW LastAvail Year,0.06,No Issue
+Normalize: IT Assets,HW LastAvail Quarter,0.07,No Issue
+Normalize: IT Assets,HW LastAvail Month,0.05,No Issue
+Normalize: IT Assets,HW LastAvail Date,0.05,No Issue
+Normalize: IT Assets,HW LastAvail Exception,0.04,No Issue
+Normalize: IT Assets,HW LastAvail Range (Start),0.04,No Issue
+Normalize: IT Assets,HW LastAvail Range (End),0.05,No Issue
+Normalize: IT Assets,HW OBS Year,0.04,No Issue
+Normalize: IT Assets,HW OBS Quarter,0.06,No Issue
+Normalize: IT Assets,HW OBS Month,0.04,No Issue
+Normalize: IT Assets,HW OBS Date,0.05,No Issue
+Normalize: IT Assets,HW OBS Exception,0.05,No Issue
+Normalize: IT Assets,HW OBS Range (Start),0.05,No Issue
+Normalize: IT Assets,HW OBS Range (End),0.05,No Issue
+Normalize: IT Assets,HW Currency Code,0.61,No Issue
+Normalize: IT Assets,HW Minimum price,0.06,No Issue
+Normalize: IT Assets,HW Average price,0.05,No Issue
+Normalize: IT Assets,HW Maximum price,0.05,No Issue
+Normalize: IT Assets,HW Is Energy Star?,0.56,No Issue
+Normalize: IT Assets,HW EPEAT Rating,0.05,No Issue
+Normalize: IT Assets,HW Power Type,0.04,No Issue
+Normalize: IT Assets,HW AVG Power (W),0.04,No Issue
+Normalize: IT Assets,HW Power Rating,0.07,No Issue
+Normalize: IT Assets,SW Vertical,0.06,No Issue
+Normalize: IT Assets,SW Category,0.58,No Issue
+Normalize: IT Assets,SW Subcategory,0.08,No Issue
+Normalize: IT Assets,SW Vendor Category,0.63,No Issue
+Normalize: IT Assets,SW Manufacturer,0.11,No Issue
+Normalize: IT Assets,SW Family,0.57,No Issue
+Normalize: IT Assets,SW Name,0.59,No Issue
+Normalize: IT Assets,SW Component,0.58,No Issue
+Normalize: IT Assets,SW Market Version,0.56,No Issue
+Normalize: IT Assets,SW Version,0.58,No Issue
+Normalize: IT Assets,SW Service Pack,0.57,No Issue
+Normalize: IT Assets,SW Edition,0.05,No Issue
+Normalize: IT Assets,SW Release ID,0.58,No Issue
+Normalize: IT Assets,SW Is Licensable?,0.04,No Issue
+Normalize: IT Assets,SW Is Suite?,0.04,No Issue
+Normalize: IT Assets,SW Suite,0.58,No Issue
+Normalize: IT Assets,SW Is Suite Component?,0.04,No Issue
+Normalize: IT Assets,SW Suite Component,0.61,No Issue
+Normalize: IT Assets,SW Cloud or On-Premise?,0.58,No Issue
+Normalize: IT Assets,SW On-premise equivalent,2.14,No Issue
+Normalize: IT Assets,SW Cloud equivalent,0.6,No Issue
+Normalize: IT Assets,SW User Domain,0.59,No Issue
+Normalize: IT Assets,SW User Logon,0.58,No Issue
+Normalize: IT Assets,SW Full User Logon,0.57,No Issue
+Normalize: IT Assets,SW Former Product,0.58,No Issue
+Normalize: IT Assets,SW Later Product,0.57,No Issue
+Normalize: IT Assets,SW Oldest Product,0.57,No Issue
+Normalize: IT Assets,SW Latest Product,2.15,No Issue
+Normalize: IT Assets,SW Release Platform,0.56,No Issue
+Normalize: IT Assets,SW Platform Type,0.57,No Issue
+Normalize: IT Assets,SW Is Supported? (calc.),0.04,No Issue
+Normalize: IT Assets,SW Supported Reason (calc.),0.05,No Issue
+Normalize: IT Assets,SW Desupported? (calc.),0.04,No Issue
+Normalize: IT Assets,SW Version Order (calc.),0.06,No Issue
+Normalize: IT Assets,SW Max Versions (calc.),0.08,No Issue
+Normalize: IT Assets,SW Versions (calc.),0.06,No Issue
+Normalize: IT Assets,SW EOL Year (calc.),0.05,No Issue
+Normalize: IT Assets,SW EOL Quarter (calc.),0.58,No Issue
+Normalize: IT Assets,SW EOL Month (calc.),0.61,No Issue
+Normalize: IT Assets,SW EOL Date (calc.),0.57,No Issue
+Normalize: IT Assets,SW GA Year,0.06,No Issue
+Normalize: IT Assets,SW GA Quarter,0.59,No Issue
+Normalize: IT Assets,SW GA Month,0.1,No Issue
+Normalize: IT Assets,SW GA Date,0.56,No Issue
+Normalize: IT Assets,SW GA Exception,0.04,No Issue
+Normalize: IT Assets,SW GA Range (Start),0.6,No Issue
+Normalize: IT Assets,SW GA Range (End),0.05,No Issue
+Normalize: IT Assets,SW EOL Year,0.05,No Issue
+Normalize: IT Assets,SW EOL Quarter,0.06,No Issue
+Normalize: IT Assets,SW EOL Month,0.08,No Issue
+Normalize: IT Assets,SW EOL Date,0.57,No Issue
+Normalize: IT Assets,SW EOL Exception,0.04,No Issue
+Normalize: IT Assets,SW EOL Range (Start),0.05,No Issue
+Normalize: IT Assets,SW EOL Range (End),0.05,No Issue
+Normalize: IT Assets,SW OBS Year,0.05,No Issue
+Normalize: IT Assets,SW OBS Quarter,0.07,No Issue
+Normalize: IT Assets,SW OBS Month,0.61,No Issue
+Normalize: IT Assets,SW OBS Date,0.62,No Issue
+Normalize: IT Assets,SW OBS Exception,0.05,No Issue
+Normalize: IT Assets,SW OBS Range (Start),0.05,No Issue
+Normalize: IT Assets,SW OBS Range (End),0.06,No Issue
+Normalize: IT Assets,SW Support Policy,0.56,No Issue
+Normalize: IT Assets,SW Support Stage,0.6,No Issue
+Normalize: IT Assets,SW Support Stage Order,0.61,No Issue
+Normalize: IT Assets,SW Support Stage Definition,0.56,No Issue
+Normalize: IT Assets,SW Currency Code,0.59,No Issue
+Normalize: IT Assets,SW Minimum price,0.04,No Issue
+Normalize: IT Assets,SW Average price,0.05,No Issue
+Normalize: IT Assets,SW Maximum price,0.04,No Issue
+Normalize: IT Assets,SW Win Readiness Type,0.05,No Issue
+Normalize: IT Assets,SW Win Readiness Version,0.05,No Issue
+Normalize: IT Assets,SW Win Readiness 32-Bit,0.05,No Issue
+Normalize: IT Assets,SW Win Status 32-Bit,0.05,No Issue
+Normalize: IT Assets,SW Win Compatible Version 32-Bit,0.57,No Issue
+Normalize: IT Assets,SW Win Readiness 64-Bit,0.06,No Issue
+Normalize: IT Assets,SW Win Status 64-Bit,0.05,No Issue
+Normalize: IT Assets,SW Win Compatible Version 64-Bit,0.6,No Issue
+Normalize: IT Assets,App Comp Manufacturer,2.15,No Issue
+Normalize: IT Assets,App Comp Name,0.59,No Issue
+Normalize: IT Assets,App Comp Version,0.6,No Issue
+Normalize: IT Assets,App Comp Edition,2.16,No Issue
+Normalize: IT Assets,App Comp 32-bit Compatible?,0.59,No Issue
+Normalize: IT Assets,App Comp 64-bit Compatible?,0.57,No Issue
+Normalize: IT Assets,App Comp Status,2.18,No Issue
+Normalize: IT Assets,App Comp Official,0.05,No Issue
+Normalize: IT Assets,App Comp Certification,0.06,No Issue
+Normalize: IT Assets,App Comp Community,2.16,No Issue
+Normalize: IT Assets,App Comp Difficulty,0.61,No Issue
+Normalize: IT Assets,OSS Type,0.57,No Issue
+Normalize: IT Assets,OSS Category,0.08,No Issue
+Normalize: IT Assets,OSS License,0.59,No Issue
+Normalize: IT Assets,OSS Is Primary License?,0.06,No Issue
+Normalize: IT Assets,OSS Keywords,0.06,No Issue
+Normalize: IT Assets,OSS Source,0.06,No Issue
+Normalize: IT Assets,PRI Is Private?,0.06,No Data
+Normalize: IT Assets,PRI Type,0.07,No Data
+Normalize: IT Assets,PRI Object,0.06,No Data
+Normalize: IT Assets,PRI Table,0.06,No Data
+Normalize: IT Assets,PRI Attribute,0.06,No Data
+Normalize: IT Assets,SW Instance Attribute,0.57,No Issue
+Normalize: IT Assets,SW Instance Value,0.59,No Issue
+Normalize: IT Assets,Location,0.56,No Issue
+Normalize: IT Assets,Purchased By,0.05,No Issue
+Normalize: IT Assets,Model,0.07,No Issue
+Normalize: IT Assets,CPU Manufacturer,0.04,No Issue
+Normalize: IT Assets,Num of Cores,0.05,No Issue
+Normalize: IT Assets,Clock Rate,0.04,No Issue
+Normalize: IT Assets,Bit Mode,0.04,No Issue
+Normalize: IT Assets,Num of Threads,0.04,No Issue
+Normalize: IT Assets,Domain,0.05,No Issue
+Normalize: IT Assets,ACTIVE,0.04,No Issue
+Normalize: IT Assets,Owner,0.04,No Issue
+Normalize: IT Assets,Expiration Date,0.04,No Issue
+Normalize: IT Assets,Location,0.05,No Issue
+Normalize: IT Assets,Manufacturer Name,0.05,No Issue
+Normalize: IT Assets,Product Name,0.08,No Issue
+Normalize: IT Assets,Supported OS,0.05,No Issue
+Normalize: IT Assets,Last Supported Date,0.06,No Issue
+Normalize: IT Assets,Energy Star,0.05,No Issue
+Normalize: IT Assets,EPEAT,0.06,No Issue
+Normalize: IT Assets,AC Power AVG,0.05,No Issue
+Normalize: IT Assets,AC AVG UNIT,0.05,No Issue
+Normalize: IT Assets,AC Power Max,0.05,No Issue
+Normalize: IT Assets,AC MAX Unit,0.06,No Issue
+Normalize: IT Assets,Managed by,0.05,No Issue
+Normalize: IT Assets,Manufacturer Name,0.06,No Issue
+Normalize: IT Assets,Software Title,0.06,No Issue
+Normalize: IT Assets,Family,0.05,No Issue
+Normalize: IT Assets,Is Suite,0.05,No Issue
+Normalize: IT Assets,PLICSABLE,0.05,No Issue
+Normalize: IT Assets,Managed by,0.06,No Issue
+Normalize: IT Assets,IND,0.05,No Issue
+Normalize: IT Assets,BDNA SW Category,0.06,No Issue
+Normalize: IT Assets,BDNA SW Sub Category,0.05,No Issue
+Normalize: IT Assets,SW Supplier,0.06,No Issue
+Normalize: IT Assets,SW Name,0.06,No Issue
+Normalize: IT Assets,Business Unit,0.06,No Issue
+Normalize: IT Assets,Department,0.05,No Issue
+Normalize: IT Assets,Region,0.08,No Issue
+Normalize: IT Assets,Country,0.04,No Issue
+Normalize: IT Assets,User_Domain,0.04,No Issue
+Normalize: IT Assets,User_Name,0.07,No Issue
+Normalize: IT Assets,DEPT1,0.05,No Issue
+Normalize: IT Assets,DEPT2,0.06,No Issue
+Normalize: IT Assets,SITE1,0.04,No Issue
+Normalize: IT Assets,LOC,0.06,No Issue
+Normalize: IT Assets,SYS Count_measure,0.62,No Issue
+Normalize: IT Assets,SYS Avg CPU (MHz)_measure,0.57,No Issue
+Normalize: IT Assets,SYS Avg Number of CPUs_measure,0.58,No Issue
+Normalize: IT Assets,SYS Avg Number of Cores_measure,0.58,No Issue
+Normalize: IT Assets,SYS Avg RAM (MB)_measure,0.58,No Issue
+Normalize: IT Assets,SYS Avg Total HDD (GB)_measure,0.57,No Issue
+Normalize: IT Assets,SYS Avg Available HDD (GB)_measure,0.56,No Issue
+Normalize: IT Assets,OS Distinct Release Count_measure,0.59,No Issue
+Normalize: IT Assets,CPU IBM PVU Count_measure,0.05,No Issue
+Normalize: IT Assets,HW Distinct Product Count_measure,0.58,No Issue
+Normalize: IT Assets,HW Distinct Model Count_measure,0.56,No Issue
+Normalize: IT Assets,HW Minimum price_measure,0.06,No Issue
+Normalize: IT Assets,HW Average price_measure,0.59,No Issue
+Normalize: IT Assets,HW Maximum price_measure,0.08,No Issue
+Normalize: IT Assets,HW AVG Power (W)_measure,0.56,No Issue
+Normalize: IT Assets,HW AC Power Avg_measure,0.6,No Issue
+Normalize: IT Assets,HW AC Power Max_measure,0.06,No Issue
+Normalize: IT Assets,HW AC Heat Diss Avg (BTU/hr)_measure,0.58,No Issue
+Normalize: IT Assets,HW AC Heat Diss Max (BTU/hr)_measure,0.57,No Issue
+Normalize: IT Assets,HW AC Input Low Voltage Min_measure,0.05,No Issue
+Normalize: IT Assets,HW AC Input Low Voltage Max_measure,0.04,No Issue
+Normalize: IT Assets,HW AC Input Low Current Min_measure,0.06,No Issue
+Normalize: IT Assets,HW AC Input Low Current Max_measure,0.05,No Issue
+Normalize: IT Assets,HW AC Input High Voltage Min_measure,0.04,No Issue
+Normalize: IT Assets,HW AC Input High Voltage Max_measure,0.04,No Issue
+Normalize: IT Assets,HW AC Input High Current Min_measure,0.08,No Issue
+Normalize: IT Assets,HW AC Input High Current Max_measure,0.04,No Issue
+Normalize: IT Assets,HW AC Frequency Min_measure,0.06,No Issue
+Normalize: IT Assets,HW AC Frequency Max_measure,0.59,No Issue
+Normalize: IT Assets,HW DC Power Avg_measure,0.59,No Data
+Normalize: IT Assets,HW DC Power Max_measure,0.05,No Data
+Normalize: IT Assets,HW DC Heat Diss Avg (BTU/hr)_measure,0.59,No Data
+Normalize: IT Assets,HW DC Heat Diss Max (BTU/hr)_measure,0.07,No Data
+Normalize: IT Assets,HW DC Low Voltage_measure,0.05,No Issue
+Normalize: IT Assets,HW DC Low Current_measure,0.06,No Issue
+Normalize: IT Assets,HW DC High Voltage_measure,0.07,No Data
+Normalize: IT Assets,HW DC High Current_measure,0.06,No Data
+Normalize: IT Assets,HW Min Operating Temp (F)_measure,0.05,No Issue
+Normalize: IT Assets,HW Max Operating Temp (F)_measure,0.06,No Issue
+Normalize: IT Assets,HW Min Non-Operating Temp (F)_measure,0.04,No Issue
+Normalize: IT Assets,HW Max Non-Operating Temp (F)_measure,0.06,No Issue
+Normalize: IT Assets,HW Min Operating Humidity (%)_measure,0.05,No Issue
+Normalize: IT Assets,HW Max Operating Humidity (%)_measure,0.04,No Issue
+Normalize: IT Assets,HW Min Non-Operating Humidity (%)_measure,0.06,No Issue
+Normalize: IT Assets,HW Max Non-Operating Humidity (%)_measure,0.06,No Issue
+Normalize: IT Assets,SW Distinct Product Count_measure,0.59,No Issue
+Normalize: IT Assets,SW Distinct Version Count_measure,0.59,No Issue
+Normalize: IT Assets,SW Distinct Edition Count_measure,0.56,No Issue
+Normalize: IT Assets,SW Distinct Release Count_measure,0.56,No Issue
+Normalize: IT Assets,SW Install Count_measure,0.58,No Issue
+Normalize: IT Assets,SW Use Count_measure,0.57,No Issue
+Normalize: IT Assets,SW Minimum price_measure,0.05,No Issue
+Normalize: IT Assets,SW Average price_measure,0.06,No Issue
+Normalize: IT Assets,SW Maximum price_measure,0.59,No Issue
+Cube,Attribute,Time(second),Error type
+Normalize: IT Security,INV Date,0.06,No Issue
+Normalize: IT Security,INV Group,0.06,No Issue
+Normalize: IT Security,INV ID,0.03,No Issue
+Normalize: IT Security,INV Name,0.04,No Issue
+Normalize: IT Security,INV Task ID,0.04,No Issue
+Normalize: IT Security,INV Task,0.04,No Issue
+Normalize: IT Security,INV Data Source,0.05,No Issue
+Normalize: IT Security,INV Status,0.05,No Issue
+Normalize: IT Security,INV Is Latest?,0.03,No Issue
+Normalize: IT Security,SYS Domain,0.04,No Issue
+Normalize: IT Security,SYS Hostname,0.59,No Issue
+Normalize: IT Security,SYS Serial Number,0.09,No Issue
+Normalize: IT Security,SYS Is Virtual Machine?,0.05,No Issue
+Normalize: IT Security,SYS Is Virtual Host?,0.04,No Issue
+Normalize: IT Security,SYS Is Deduped?,0.03,No Issue
+Normalize: IT Security,SYS Is Active?,0.04,No Issue
+Normalize: IT Security,SYS CPU Range (Mhz),0.04,No Issue
+Normalize: IT Security,SYS CPUs Range,0.04,No Issue
+Normalize: IT Security,SYS Cores Range,0.04,No Issue
+Normalize: IT Security,SYS RAM Range (MB),0.07,No Issue
+Normalize: IT Security,SYS HDD Range (GB),0.04,No Issue
+Normalize: IT Security,SYS OS Uptime Range,0.03,No Issue
+Normalize: IT Security,SYS User Domain,0.04,No Issue
+Normalize: IT Security,SYS User Logon,0.7,No Issue
+Normalize: IT Security,SYS Full User Logon,0.57,No Issue
+Normalize: IT Security,OS Family,0.03,No Issue
+Normalize: IT Security,OS Manufacturer,0.06,No Issue
+Normalize: IT Security,OS Name,0.05,No Issue
+Normalize: IT Security,OS Major Version,0.06,No Issue
+Normalize: IT Security,OS Minor Version,0.58,No Issue
+Normalize: IT Security,OS Service Pack,0.05,No Issue
+Normalize: IT Security,OS Edition,0.04,No Issue
+Normalize: IT Security,OS Is Supported? (calc.),0.04,No Issue
+Normalize: IT Security,OS Supported Reason (calc.),0.05,No Issue
+Normalize: IT Security,OS Desupported? (calc.),0.04,No Issue
+Normalize: IT Security,OS Version Order (calc.),0.03,No Issue
+Normalize: IT Security,OS Max Versions (calc.),0.04,No Issue
+Normalize: IT Security,OS Versions (calc.),0.04,No Issue
+Normalize: IT Security,OS EOL Year (calc.),0.05,No Issue
+Normalize: IT Security,OS EOL Quarter (calc.),0.04,No Issue
+Normalize: IT Security,OS EOL Month (calc.),0.06,No Issue
+Normalize: IT Security,OS EOL Date (calc.),0.05,No Issue
+Normalize: IT Security,OS GA Year,0.05,No Issue
+Normalize: IT Security,OS GA Quarter,0.05,No Issue
+Normalize: IT Security,OS GA Month,0.05,No Issue
+Normalize: IT Security,OS GA Date,0.03,No Issue
+Normalize: IT Security,OS GA Exception,0.03,No Issue
+Normalize: IT Security,OS GA Range (Start),0.04,No Issue
+Normalize: IT Security,OS GA Range (End),0.05,No Issue
+Normalize: IT Security,OS EOL Year,0.07,No Issue
+Normalize: IT Security,OS EOL Quarter,0.04,No Issue
+Normalize: IT Security,OS EOL Month,0.04,No Issue
+Normalize: IT Security,OS EOL Date,0.06,No Issue
+Normalize: IT Security,OS EOL Exception,0.06,No Issue
+Normalize: IT Security,OS EOL Range (Start),0.05,No Issue
+Normalize: IT Security,OS EOL Range (End),0.04,No Issue
+Normalize: IT Security,OS OBS Year,0.08,No Issue
+Normalize: IT Security,OS OBS Quarter,0.04,No Issue
+Normalize: IT Security,OS OBS Month,0.04,No Issue
+Normalize: IT Security,OS OBS Date,0.06,No Issue
+Normalize: IT Security,OS OBS Exception,0.03,No Issue
+Normalize: IT Security,OS OBS Range (Start),0.05,No Issue
+Normalize: IT Security,OS OBS Range (End),0.05,No Issue
+Normalize: IT Security,HW Vertical,0.03,No Issue
+Normalize: IT Security,HW Category,0.04,No Issue
+Normalize: IT Security,HW Subcategory,0.59,No Issue
+Normalize: IT Security,HW Vendor Category,0.05,No Issue
+Normalize: IT Security,HW Manufacturer,0.04,No Issue
+Normalize: IT Security,HW Product,0.57,No Issue
+Normalize: IT Security,HW Model,0.05,No Issue
+Normalize: IT Security,HW Supported OS,0.04,No Issue
+Normalize: IT Security,HW Max CPU sockets,0.04,No Issue
+Normalize: IT Security,HW Is Supported? (calc.),0.03,No Issue
+Normalize: IT Security,HW Supported Reason (calc.),0.57,No Issue
+Normalize: IT Security,HW EOL Year (calc.),0.05,No Issue
+Normalize: IT Security,HW EOL Quarter (calc.),0.06,No Issue
+Normalize: IT Security,HW EOL Month (calc.),0.04,No Issue
+Normalize: IT Security,HW EOL Date (calc.),0.04,No Issue
+Normalize: IT Security,HW Intro Year,0.58,No Issue
+Normalize: IT Security,HW Intro Quarter,0.05,No Issue
+Normalize: IT Security,HW Intro Month,0.05,No Issue
+Normalize: IT Security,HW Intro Date,0.05,No Issue
+Normalize: IT Security,HW Intro Exception,0.04,No Issue
+Normalize: IT Security,HW Intro Range (Start),0.04,No Issue
+Normalize: IT Security,HW Intro Range (End),0.04,No Issue
+Normalize: IT Security,HW GA Year,0.04,No Issue
+Normalize: IT Security,HW GA Quarter,0.06,No Issue
+Normalize: IT Security,HW GA Month,0.05,No Issue
+Normalize: IT Security,HW GA Date,0.05,No Issue
+Normalize: IT Security,HW GA Exception,0.04,No Issue
+Normalize: IT Security,HW GA Range (Start),0.05,No Issue
+Normalize: IT Security,HW GA Range (End),0.04,No Issue
+Normalize: IT Security,HW LastAvail Year,0.04,No Issue
+Normalize: IT Security,HW LastAvail Quarter,0.05,No Issue
+Normalize: IT Security,HW LastAvail Month,0.58,No Issue
+Normalize: IT Security,HW LastAvail Date,0.04,No Issue
+Normalize: IT Security,HW LastAvail Exception,0.05,No Issue
+Normalize: IT Security,HW LastAvail Range (Start),0.06,No Issue
+Normalize: IT Security,HW LastAvail Range (End),0.06,No Issue
+Normalize: IT Security,HW OBS Year,0.04,No Issue
+Normalize: IT Security,HW OBS Quarter,0.05,No Issue
+Normalize: IT Security,HW OBS Month,0.07,No Issue
+Normalize: IT Security,HW OBS Date,0.05,No Issue
+Normalize: IT Security,HW OBS Exception,0.04,No Issue
+Normalize: IT Security,HW OBS Range (Start),0.04,No Issue
+Normalize: IT Security,HW OBS Range (End),0.05,No Issue
+Normalize: IT Security,SW Vertical,0.6,No Issue
+Normalize: IT Security,SW Category,2.16,No Issue
+Normalize: IT Security,SW Subcategory,0.58,No Issue
+Normalize: IT Security,SW Vendor Category,0.1,No Issue
+Normalize: IT Security,SW Manufacturer,0.64,No Issue
+Normalize: IT Security,SW Family,0.57,No Issue
+Normalize: IT Security,SW Name,0.57,No Issue
+Normalize: IT Security,SW Component,0.56,No Issue
+Normalize: IT Security,SW Market Version,0.56,No Issue
+Normalize: IT Security,SW Version,0.56,No Issue
+Normalize: IT Security,SW Service Pack,0.6,No Issue
+Normalize: IT Security,SW Edition,0.6,No Issue
+Normalize: IT Security,SW Release ID,0.56,No Issue
+Normalize: IT Security,SW Is Licensable?,0.05,No Issue
+Normalize: IT Security,SW Is Suite?,0.05,No Issue
+Normalize: IT Security,SW Suite,0.58,No Issue
+Normalize: IT Security,SW Is Suite Component?,0.06,No Issue
+Normalize: IT Security,SW Suite Component,0.1,No Issue
+Normalize: IT Security,SW Cloud or On-Premise?,0.04,No Issue
+Normalize: IT Security,SW On-premise equivalent,2.14,No Issue
+Normalize: IT Security,SW Cloud equivalent,0.57,No Issue
+Normalize: IT Security,SW User Domain,0.05,No Issue
+Normalize: IT Security,SW User Logon,0.57,No Issue
+Normalize: IT Security,SW Full User Logon,0.56,No Issue
+Normalize: IT Security,SW Is Supported? (calc.),0.04,No Issue
+Normalize: IT Security,SW Supported Reason (calc.),0.06,No Issue
+Normalize: IT Security,SW Desupported? (calc.),0.06,No Issue
+Normalize: IT Security,SW Version Order (calc.),0.08,No Issue
+Normalize: IT Security,SW Max Versions (calc.),0.04,No Issue
+Normalize: IT Security,SW Versions (calc.),0.59,No Issue
+Normalize: IT Security,SW EOL Year (calc.),0.05,No Issue
+Normalize: IT Security,SW EOL Quarter (calc.),0.05,No Issue
+Normalize: IT Security,SW EOL Month (calc.),0.07,No Issue
+Normalize: IT Security,SW EOL Date (calc.),0.67,No Issue
+Normalize: IT Security,SW GA Year,0.05,No Issue
+Normalize: IT Security,SW GA Quarter,0.04,No Issue
+Normalize: IT Security,SW GA Month,0.07,No Issue
+Normalize: IT Security,SW GA Date,0.58,No Issue
+Normalize: IT Security,SW GA Exception,0.04,No Issue
+Normalize: IT Security,SW GA Range (Start),0.06,No Issue
+Normalize: IT Security,SW GA Range (End),0.05,No Issue
+Normalize: IT Security,SW EOL Year,0.05,No Issue
+Normalize: IT Security,SW EOL Quarter,0.05,No Issue
+Normalize: IT Security,SW EOL Month,0.06,No Issue
+Normalize: IT Security,SW EOL Date,0.62,No Issue
+Normalize: IT Security,SW EOL Exception,0.05,No Issue
+Normalize: IT Security,SW EOL Range (Start),0.05,No Issue
+Normalize: IT Security,SW EOL Range (End),0.05,No Issue
+Normalize: IT Security,SW OBS Year,0.05,No Issue
+Normalize: IT Security,SW OBS Quarter,0.05,No Issue
+Normalize: IT Security,SW OBS Month,0.05,No Issue
+Normalize: IT Security,SW OBS Date,0.08,No Issue
+Normalize: IT Security,SW OBS Exception,0.04,No Issue
+Normalize: IT Security,SW OBS Range (Start),0.05,No Issue
+Normalize: IT Security,SW OBS Range (End),0.05,No Issue
+Normalize: IT Security,HW CPE Definition,0.06,No Issue
+Normalize: IT Security,HW CPE Part,0.05,No Issue
+Normalize: IT Security,HW CPE Vendor,0.05,No Issue
+Normalize: IT Security,HW CPE Product,0.61,No Issue
+Normalize: IT Security,HW CPE Edition,0.04,No Issue
+Normalize: IT Security,HW CPE URI,0.58,No Issue
+Normalize: IT Security,HW CPE Max CVSS Score,0.06,No Issue
+Normalize: IT Security,HW CPE Max CVSS Severity,0.05,No Issue
+Normalize: IT Security,HW CVE Count,0.06,No Issue
+Normalize: IT Security,SW CPE Definition,0.58,No Issue
+Normalize: IT Security,SW CPE Part,0.05,No Issue
+Normalize: IT Security,SW CPE Vendor,0.09,No Issue
+Normalize: IT Security,SW CPE Product,0.63,No Issue
+Normalize: IT Security,SW CPE Edition,0.62,No Issue
+Normalize: IT Security,SW CPE URI,0.56,No Issue
+Normalize: IT Security,SW CPE Max CVSS Score,0.03,No Issue
+Normalize: IT Security,SW CPE Max CVSS Severity,0.04,No Issue
+Normalize: IT Security,SW CVE Count,0.08,No Issue
+Normalize: IT Security,OS CPE Definition,0.57,No Issue
+Normalize: IT Security,OS CPE Part,0.04,No Issue
+Normalize: IT Security,OS CPE Vendor,0.06,No Issue
+Normalize: IT Security,OS CPE Product,0.05,No Issue
+Normalize: IT Security,OS CPE Edition,0.04,No Issue
+Normalize: IT Security,OS CPE URI,0.07,No Issue
+Normalize: IT Security,OS CPE Max CVSS Score,0.06,No Issue
+Normalize: IT Security,OS CPE Max CVSS Severity,0.06,No Issue
+Normalize: IT Security,OS CVE Count,0.04,No Issue
+Normalize: IT Security,PRI Is Private?,0.05,No Data
+Normalize: IT Security,PRI Type,0.07,No Data
+Normalize: IT Security,PRI Object,0.05,No Data
+Normalize: IT Security,PRI Table,0.06,No Data
+Normalize: IT Security,PRI Attribute,0.09,No Data
+Normalize: IT Security,Location,0.05,No Issue
+Normalize: IT Security,Purchased By,0.05,No Issue
+Normalize: IT Security,Model,0.62,No Issue
+Normalize: IT Security,CPU Manufacturer,0.05,No Issue
+Normalize: IT Security,Num of Cores,0.04,No Issue
+Normalize: IT Security,Clock Rate,0.05,No Issue
+Normalize: IT Security,Bit Mode,0.05,No Issue
+Normalize: IT Security,Num of Threads,0.05,No Issue
+Normalize: IT Security,Domain,0.09,No Issue
+Normalize: IT Security,ACTIVE,0.03,No Issue
+Normalize: IT Security,Owner,0.04,No Issue
+Normalize: IT Security,Expiration Date,0.05,No Issue
+Normalize: IT Security,Location,0.05,No Issue
+Normalize: IT Security,Manufacturer Name,0.06,No Issue
+Normalize: IT Security,Product Name,0.04,No Issue
+Normalize: IT Security,Supported OS,0.04,No Issue
+Normalize: IT Security,Last Supported Date,0.04,No Issue
+Normalize: IT Security,Energy Star,0.05,No Issue
+Normalize: IT Security,EPEAT,0.05,No Issue
+Normalize: IT Security,AC Power AVG,0.06,No Issue
+Normalize: IT Security,AC AVG UNIT,0.03,No Issue
+Normalize: IT Security,AC Power Max,0.61,No Issue
+Normalize: IT Security,AC MAX Unit,0.04,No Issue
+Normalize: IT Security,Managed by,0.11,No Issue
+Normalize: IT Security,Manufacturer Name,0.03,No Issue
+Normalize: IT Security,Software Title,0.05,No Issue
+Normalize: IT Security,Family,0.04,No Issue
+Normalize: IT Security,Is Suite,0.06,No Issue
+Normalize: IT Security,PLICSABLE,0.05,No Issue
+Normalize: IT Security,Managed by,0.05,No Issue
+Normalize: IT Security,IND,0.22,No Issue
+Normalize: IT Security,BDNA SW Category,0.05,No Issue
+Normalize: IT Security,BDNA SW Sub Category,0.05,No Issue
+Normalize: IT Security,SW Supplier,0.06,No Issue
+Normalize: IT Security,SW Name,0.06,No Issue
+Normalize: IT Security,Business Unit,0.04,No Issue
+Normalize: IT Security,Department,0.05,No Issue
+Normalize: IT Security,Region,0.04,No Issue
+Normalize: IT Security,Country,0.07,No Issue
+Normalize: IT Security,User_Domain,0.05,No Issue
+Normalize: IT Security,User_Name,0.04,No Issue
+Normalize: IT Security,DEPT1,0.04,No Issue
+Normalize: IT Security,DEPT2,0.06,No Issue
+Normalize: IT Security,SITE1,0.04,No Issue
+Normalize: IT Security,LOC,0.05,No Issue
+Normalize: IT Security,SYS Count_measure,0.61,No Issue
+Normalize: IT Security,OS Distinct Release Count_measure,0.58,No Issue
+Normalize: IT Security,OS Instance CVE Count_measure,0.04,No Issue
+Normalize: IT Security,OS High Severity CVE Count_measure,0.06,No Issue
+Normalize: IT Security,OS Medium Severity CVE Count_measure,0.05,No Issue
+Normalize: IT Security,OS Low Severity CVE Count_measure,0.04,No Issue
+Normalize: IT Security,HW Distinct Product Count_measure,0.58,No Issue
+Normalize: IT Security,HW Distinct Model Count_measure,0.56,No Issue
+Normalize: IT Security,HW Instance CVE Count_measure,0.04,No Issue
+Normalize: IT Security,HW High Severity CVE Count_measure,0.04,No Issue
+Normalize: IT Security,HW Medium Severity CVE Count_measure,0.07,No Issue
+Normalize: IT Security,HW Low Severity CVE Count_measure,0.04,No Issue
+Normalize: IT Security,SW Distinct Product Count_measure,0.57,No Issue
+Normalize: IT Security,SW Distinct Version Count_measure,0.56,No Issue
+Normalize: IT Security,SW Distinct Edition Count_measure,0.58,No Issue
+Normalize: IT Security,SW Distinct Release Count_measure,0.57,No Issue
+Normalize: IT Security,SW Install Count_measure,0.59,No Issue
+Normalize: IT Security,SW Use Count_measure,0.57,No Issue
+Normalize: IT Security,SW Instance CVE Count_measure,0.06,No Issue
+Normalize: IT Security,SW High Severity CVE Count_measure,0.05,No Issue
+Normalize: IT Security,SW Medium Severity CVE Count_measure,0.03,No Issue
+Normalize: IT Security,SW Low Severity CVE Count_measure,0.05,No Issue
+Cube,Attribute,Time(second),Error type
+Normalize: MD Assets,INV Date,0.06,No Issue
+Normalize: MD Assets,INV Group,0.05,No Issue
+Normalize: MD Assets,INV ID,0.06,No Issue
+Normalize: MD Assets,INV Name,0.04,No Issue
+Normalize: MD Assets,INV Task ID,0.05,No Issue
+Normalize: MD Assets,INV Task,0.05,No Issue
+Normalize: MD Assets,INV Data Source,0.06,No Issue
+Normalize: MD Assets,INV Status,0.05,No Issue
+Normalize: MD Assets,INV Is Latest?,0.04,No Issue
+Normalize: MD Assets,SYS Domain,0.59,No Issue
+Normalize: MD Assets,SYS Hostname,0.05,No Issue
+Normalize: MD Assets,SYS Serial Number,0.07,No Issue
+Normalize: MD Assets,SYS Is Virtual Machine?,0.04,No Issue
+Normalize: MD Assets,SYS Is Virtual Host?,0.57,No Issue
+Normalize: MD Assets,SYS Is Deduped?,0.04,No Issue
+Normalize: MD Assets,SYS Is Active?,0.03,No Issue
+Normalize: MD Assets,SYS CPU Range (Mhz),0.05,No Issue
+Normalize: MD Assets,SYS CPUs Range,0.06,No Issue
+Normalize: MD Assets,SYS Cores Range,0.04,No Issue
+Normalize: MD Assets,SYS RAM Range (MB),0.04,No Issue
+Normalize: MD Assets,SYS HDD Range (GB),0.03,No Issue
+Normalize: MD Assets,SYS OS Uptime Range,0.05,No Issue
+Normalize: MD Assets,SYS User Domain,0.61,No Issue
+Normalize: MD Assets,SYS User Logon,0.04,No Issue
+Normalize: MD Assets,SYS Full User Logon,0.05,No Issue
+Normalize: MD Assets,HW Vertical,0.05,No Issue
+Normalize: MD Assets,HW Category,0.04,No Issue
+Normalize: MD Assets,HW Subcategory,0.04,No Issue
+Normalize: MD Assets,HW Vendor Category,0.05,No Issue
+Normalize: MD Assets,HW Manufacturer,0.04,No Issue
+Normalize: MD Assets,HW Product,0.05,No Issue
+Normalize: MD Assets,HW Model,0.03,No Issue
+Normalize: MD Assets,HW Supported OS,0.04,No Issue
+Normalize: MD Assets,HW Max CPU sockets,0.6,No Issue
+Normalize: MD Assets,UMDNS Device Code,0.56,No Issue
+Normalize: MD Assets,UMDNS Device Description,0.05,No Issue
+Normalize: MD Assets,UMDNS Definition,0.04,No Issue
+Normalize: MD Assets,UMDNS Level,0.04,No Issue
+Normalize: MD Assets,GMDN Code,0.57,No Issue
+Normalize: MD Assets,GMDN Preferred Term,0.04,No Issue
+Normalize: MD Assets,GMDN Definition,0.05,No Issue
+Normalize: MD Assets,GMDN Level,0.03,No Issue
+Normalize: MD Assets,Primary DI Number,0.56,No Issue
+Normalize: MD Assets,Device Count,0.03,No Issue
+Normalize: MD Assets,Package DI Number,0.04,No Issue
+Normalize: MD Assets,Quantity per Package,0.06,No Issue
+Normalize: MD Assets,Unit Of Use DI Number,0.03,No Issue
+Normalize: MD Assets,GUDID URL,0.05,No Issue
+Normalize: MD Assets,Device Record Status,0.07,No Issue
+Normalize: MD Assets,DI Record Publish Date,0.04,No Issue
+Normalize: MD Assets,Commercial Distribute End Date,0.07,No Issue
+Normalize: MD Assets,Commercial Distribute Status,0.04,No Issue
+Normalize: MD Assets,Device Type,0.03,No Issue
+Normalize: MD Assets,Issuing Agency,0.59,No Issue
+Normalize: MD Assets,Brand Name,0.05,No Issue
+Normalize: MD Assets,Version or Model,0.06,No Issue
+Normalize: MD Assets,Catalog Number,0.05,No Issue
+Normalize: MD Assets,Company Name,0.04,No Issue
+Normalize: MD Assets,Device Description,0.59,No Issue
+Normalize: MD Assets,DME Exempt,0.04,No Issue
+Normalize: MD Assets,Pre-Market Exempt,0.05,No Issue
+Normalize: MD Assets,Device HCTP,0.06,No Issue
+Normalize: MD Assets,Device Kit,0.05,No Issue
+Normalize: MD Assets,Device Combination Product,0.06,No Issue
+Normalize: MD Assets,Single Use,0.04,No Issue
+Normalize: MD Assets,Log Batch,0.05,No Issue
+Normalize: MD Assets,Serial Number,0.25,No Issue
+Normalize: MD Assets,Manufacturer Date,0.04,No Issue
+Normalize: MD Assets,Expiration Date,0.05,No Issue
+Normalize: MD Assets,Donation ID Number,0.04,No Issue
+Normalize: MD Assets,Labeled Contains NRL,0.04,No Issue
+Normalize: MD Assets,Labeled Contains No-NRL,0.04,No Issue
+Normalize: MD Assets,MRI Safety Status,0.04,No Issue
+Normalize: MD Assets,Prescription Use (Rx),0.05,No Issue
+Normalize: MD Assets,OTC,0.05,No Issue
+Normalize: MD Assets,Phone,0.03,No Issue
+Normalize: MD Assets,Email,0.04,No Issue
+Normalize: MD Assets,Device Packaged as Sterile,0.04,No Issue
+Normalize: MD Assets,Requires Sterilization Prior to Use,0.06,No Issue
+Normalize: MD Assets,Sterilization Method,0.05,No Issue
+Normalize: MD Assets,FDA Product Class,0.07,No Issue
+Normalize: MD Assets,FDA Product Approved Date,0.05,No Issue
+Normalize: MD Assets,FDA Product Code,0.05,No Issue
+Normalize: MD Assets,FDA Product Code Name,0.03,No Issue
+Normalize: MD Assets,FDA Level,0.05,No Issue
+Normalize: MD Assets,FDA Recall Class,0.04,No Issue
+Normalize: MD Assets,FDA Recall Event ID,0.05,No Issue
+Normalize: MD Assets,FDA Recall Number,0.03,No Issue
+Normalize: MD Assets,FDA Recall Posted Date,0.04,No Issue
+Normalize: MD Assets,FDA Recall URL,0.05,No Issue
+Normalize: MD Assets,FDA Reason for Recall,0.05,No Issue
+Normalize: MD Assets,FDA Recall Code Info Type,0.6,No Issue
+Normalize: MD Assets,FDA Recall Code Info Min,0.04,No Issue
+Normalize: MD Assets,FDA Recall Code Info Max,0.06,No Issue
+Normalize: MD Assets,FDA Recall Code Info Group,0.06,No Issue
+Normalize: MD Assets,Mfr Recall Initiation Date,0.05,No Issue
+Normalize: MD Assets,Mfr Recall URL,0.05,No Issue
+Normalize: MD Assets,Mfr Recall Reason,0.05,No Issue
+Normalize: MD Assets,Mfr Recall Code Info Type,0.04,No Issue
+Normalize: MD Assets,Mfr Recall Code Info Min,0.05,No Issue
+Normalize: MD Assets,Mfr Recall Code Info Max,0.05,No Issue
+Normalize: MD Assets,Mfr Recall Code Info Group,0.07,No Issue
+Normalize: MD Assets,HW Is Supported? (calc.),0.05,No Issue
+Normalize: MD Assets,HW Supported Reason (calc.),0.05,No Issue
+Normalize: MD Assets,HW EOL Year (calc.),0.04,No Issue
+Normalize: MD Assets,HW EOL Quarter (calc.),0.04,No Issue
+Normalize: MD Assets,HW EOL Date (calc.),0.05,No Issue
+Normalize: MD Assets,HW EOL Month (calc.),0.04,No Issue
+Normalize: MD Assets,HW Intro Year,0.05,No Issue
+Normalize: MD Assets,HW Intro Quarter,0.05,No Issue
+Normalize: MD Assets,HW Intro Month,0.05,No Issue
+Normalize: MD Assets,HW Intro Date,0.08,No Issue
+Normalize: MD Assets,HW Intro Exception,0.05,No Issue
+Normalize: MD Assets,HW Intro Range (Start),0.05,No Issue
+Normalize: MD Assets,HW Intro Range (End),0.09,No Issue
+Normalize: MD Assets,HW GA Year,0.04,No Issue
+Normalize: MD Assets,HW GA Quarter,0.05,No Issue
+Normalize: MD Assets,HW GA Month,0.05,No Issue
+Normalize: MD Assets,HW GA Date,0.06,No Issue
+Normalize: MD Assets,HW GA Exception,0.05,No Issue
+Normalize: MD Assets,HW GA Range (Start),0.05,No Issue
+Normalize: MD Assets,HW GA Range (End),0.05,No Issue
+Normalize: MD Assets,HW LastAvail Year,0.05,No Issue
+Normalize: MD Assets,HW LastAvail Quarter,0.04,No Issue
+Normalize: MD Assets,HW LastAvail Month,0.05,No Issue
+Normalize: MD Assets,HW LastAvail Date,0.05,No Issue
+Normalize: MD Assets,HW LastAvail Exception,0.06,No Issue
+Normalize: MD Assets,HW LastAvail Range (Start),0.08,No Issue
+Normalize: MD Assets,HW LastAvail Range (End),0.04,No Issue
+Normalize: MD Assets,HW OBS Year,0.04,No Issue
+Normalize: MD Assets,HW OBS Quarter,0.04,No Issue
+Normalize: MD Assets,HW OBS Month,0.05,No Issue
+Normalize: MD Assets,HW OBS Date,0.06,No Issue
+Normalize: MD Assets,HW OBS Exception,0.05,No Issue
+Normalize: MD Assets,HW OBS Range (Start),0.05,No Issue
+Normalize: MD Assets,HW OBS Range (End),0.05,No Issue
+Normalize: MD Assets,HW Currency Code,0.63,No Issue
+Normalize: MD Assets,HW Minimum price,0.04,No Issue
+Normalize: MD Assets,HW Average price,0.05,No Issue
+Normalize: MD Assets,HW Maximum price,0.07,No Issue
+Normalize: MD Assets,HW Profile,0.58,No Issue
+Normalize: MD Assets,HW Mounting,0.06,No Issue
+Normalize: MD Assets,HW Min Depth (in),0.04,No Issue
+Normalize: MD Assets,HW Max Depth (in),0.05,No Issue
+Normalize: MD Assets,HW Min Height (in),0.05,No Issue
+Normalize: MD Assets,HW Max Height (in),0.05,No Issue
+Normalize: MD Assets,HW Min Width (in),0.59,No Issue
+Normalize: MD Assets,HW Max Width (in),0.05,No Issue
+Normalize: MD Assets,HW Min Weight (lbs),0.05,No Issue
+Normalize: MD Assets,HW Max Weight (lbs),0.07,No Issue
+Normalize: MD Assets,HW Diameter (in),0.06,No Issue
+Normalize: MD Assets,HW Minimum Room Size (sq ft),0.05,No Issue
+Normalize: MD Assets,HW Bore Size (in),0.07,No Issue
+Normalize: MD Assets,HW Volume (cc),0.05,No Issue
+Normalize: MD Assets,HW Is Energy Star?,0.58,No Issue
+Normalize: MD Assets,HW EPEAT Rating,0.06,No Issue
+Normalize: MD Assets,HW Power Type,0.04,No Issue
+Normalize: MD Assets,HW Power (W),0.05,No Issue
+Normalize: MD Assets,HW Power Rating,0.06,No Issue
+Normalize: MD Assets,HW Connectivity,0.58,No Issue
+Normalize: MD Assets,HW Connectivity Type,0.05,No Issue
+Normalize: MD Assets,HW Connectivity Standard,0.05,No Issue
+Normalize: MD Assets,HW Connectivity Standard Version,0.06,No Issue
+Normalize: MD Assets,HW Biomed,0.58,No Issue
+Normalize: MD Assets,HW Certification,0.05,No Issue
+Normalize: MD Assets,HW Compressed Air,0.06,No Issue
+Normalize: MD Assets,HW Data Line Required,0.07,No Issue
+Normalize: MD Assets,HW Drain,0.05,No Issue
+Normalize: MD Assets,HW Exhaust,0.06,No Issue
+Normalize: MD Assets,HW Phone Line,0.04,No Issue
+Normalize: MD Assets,HW Steam,0.06,No Issue
+Normalize: MD Assets,HW Vacuum,0.05,No Issue
+Normalize: MD Assets,HW Water,0.05,No Issue
+Normalize: MD Assets,MDS2 Document ID,0.07,No Issue
+Normalize: MD Assets,MDS2 Document Date,0.07,No Issue
+Normalize: MD Assets,MDS2 Document URL,0.05,No Issue
+Normalize: MD Assets,MDS2 Company Name,0.06,No Issue
+Normalize: MD Assets,MDS2 Representative,0.05,No Issue
+Normalize: MD Assets,MDS2 Manufacturer Contact,0.05,No Issue
+Normalize: MD Assets,MDS2 Device Intended Use,0.05,No Issue
+Normalize: MD Assets,MDS2 NEMA Version,0.05,No Issue
+Normalize: MD Assets,MDS2 Notes Available,0.05,No Issue
+Normalize: MD Assets,MDS2 Private Data Management,0.06,No Issue
+Normalize: MD Assets,MDS2 Private Data Type - Demographic,0.06,No Issue
+Normalize: MD Assets,MDS2 Private Data Type - Medical Record,0.05,No Issue
+Normalize: MD Assets,MDS2 Private Data Type - Diagnostic/therapeutic,0.06,No Issue
+Normalize: MD Assets,MDS2 Private Data Type - User-entered Text,0.06,No Issue
+Normalize: MD Assets,MDS2 Private Data Type - Biometric Data,0.04,No Issue
+Normalize: MD Assets,MDS2 Private Data Type - Personal Financial,0.04,No Issue
+Normalize: MD Assets,MDS2 Private Data Maintenance - Temporary memory,0.07,No Issue
+Normalize: MD Assets,MDS2 Private Data Maintenance - Persistent Local Media,0.05,No Issue
+Normalize: MD Assets,MDS2 Private Data Maintenance - Import/Export,0.05,No Issue
+Normalize: MD Assets,MDS2 Private Data Maintenance - Power Interruption,0.05,No Issue
+Normalize: MD Assets,MDS2 Private Data Transmission - Display,0.05,No Issue
+Normalize: MD Assets,MDS2 Private Data Transmission - Hardcopy,0.05,No Issue
+Normalize: MD Assets,MDS2 Private Data Transmission - Removable Media,0.06,No Issue
+Normalize: MD Assets,MDS2 Private Data Transmission - Cable,0.07,No Issue
+Normalize: MD Assets,MDS2 Private Data Transmission - Wired Network,0.07,No Issue
+Normalize: MD Assets,MDS2 Private Data Transmission - Wireless Network,0.06,No Issue
+Normalize: MD Assets,MDS2 Private Data Transmission - Scanning,0.05,No Issue
+Normalize: MD Assets,MDS2 Private Data Transmission - Other,0.05,No Issue
+Normalize: MD Assets,MDS2 Automatic Logoff - Inactivity Lock,0.05,No Issue
+Normalize: MD Assets,MDS2 Automatic Logoff - Inactivity Length Configurable,0.06,No Issue
+Normalize: MD Assets,MDS2 Automatic Logoff - Manual Lock,0.05,No Issue
+Normalize: MD Assets,MDS2 Audit Control - Audit Trail,0.05,No Issue
+Normalize: MD Assets,MDS2 Audit Control Type - Login/Logout,0.1,No Issue
+Normalize: MD Assets,MDS2 Audit Control Type - Data Display,0.05,No Issue
+Normalize: MD Assets,MDS2 Audit Control Type - Data Changes,0.05,No Issue
+Normalize: MD Assets,MDS2 Audit Control Type - Data Import/Export,0.06,No Issue
+Normalize: MD Assets,MDS2 Audit Control Type - Data Transmission,0.05,No Issue
+Normalize: MD Assets,MDS2 Audit Control Type - Remote Activity,0.06,No Issue
+Normalize: MD Assets,MDS2 Audit Control Type - Other,0.05,No Issue
+Normalize: MD Assets,MDS2 Audit Control Identifier - User ID,0.05,No Issue
+Normalize: MD Assets,MDS2 Audit Control Identifier - Date/Time,0.05,No Issue
+Normalize: MD Assets,MDS2 Authorization - Unauthorized User Prevention,0.06,No Issue
+Normalize: MD Assets,MDS2 Authorization - Role-Based Privileges,0.05,No Issue
+Normalize: MD Assets,MDS2 Authorization - Admin Privilege,0.07,No Issue
+Normalize: MD Assets,MDS2 Security Configuration - Configurable,0.05,No Issue
+Normalize: MD Assets,MDS2 Product Upgrades - OS and Security Patches,0.04,No Issue
+Normalize: MD Assets,MDS2 Product Upgrades - Remote Patches,0.05,No Issue
+Normalize: MD Assets,MDS2 Data De-Identify Capability,0.05,No Issue
+Normalize: MD Assets,MDS2 Data backup Capability,0.06,No Issue
+Normalize: MD Assets,MDS2 Emergency Access Feature,0.08,No Issue
+Normalize: MD Assets,MDS2 Data Integrity - Error Detection/Correction Technology,0.04,No Issue
+Normalize: MD Assets,MDS2 Malware Protection Support,0.05,No Issue
+Normalize: MD Assets,MDS2 Malware Protection - User Configurable,0.05,No Issue
+Normalize: MD Assets,MDS2 Malware Protection - Notification,0.06,No Issue
+Normalize: MD Assets,MDS2 Malware Protection - Manufacturer-Authorized Repair Only,0.06,No Issue
+Normalize: MD Assets,MDS2 Malware Protection - Owner Install/Update,0.06,No Issue
+Normalize: MD Assets,MDS2 Malware Protection - Owner Virus Definition Update,0.06,No Issue
+Normalize: MD Assets,MDS2 Node Authentication Support,0.05,No Issue
+Normalize: MD Assets,MDS2 Person Authentication - Single User,0.06,No Issue
+Normalize: MD Assets,MDS2 Person Authentication - Multi User,0.04,No Issue
+Normalize: MD Assets,MDS2 Person Authentication - External Authentication Service,0.05,No Issue
+Normalize: MD Assets,MDS2 Person Authentication - Unsuccessful Logon Attempts Lock,0.05,No Issue
+Normalize: MD Assets,MDS2 Person Authentication - Change Default Password,0.06,No Issue
+Normalize: MD Assets,MDS2 Person Authentication - Shared User ID,0.05,No Issue
+Normalize: MD Assets,MDS2 Person Authentication - Password Complexity Rules,0.05,No Issue
+Normalize: MD Assets,MDS2 Person Authentication - Password Expiration,0.05,No Issue
+Normalize: MD Assets,MDS2 Whole Device Physical Locks,0.05,No Issue
+Normalize: MD Assets,MDS2 Third-Party Support in Roadmap - Operating Systems,0.07,No Issue
+Normalize: MD Assets,MDS2 Third-Party Support in Roadmap - List is Provided,0.05,No Issue
+Normalize: MD Assets,"MDS2 Hardening Measure - Employed, Conformance Level",0.05,No Issue
+Normalize: MD Assets,MDS2 Hardening Measure - Manufacturer-Authorized Program/Update,0.07,No Issue
+Normalize: MD Assets,MDS2 External Communication Capability,0.07,No Issue
+Normalize: MD Assets,MDS2 File-Level Access Control Capability,0.04,No Issue
+Normalize: MD Assets,MDS2 Non-required Accounts Disabled,0.05,No Issue
+Normalize: MD Assets,MDS2 Selective Disablement of Shared Resources,0.07,No Issue
+Normalize: MD Assets,MDS2 Selective Disablement of Communication Ports,0.05,No Issue
+Normalize: MD Assets,MDS2 Selective Disablement of Services,0.06,No Issue
+Normalize: MD Assets,MDS2 Selective Disablement of Applications,0.05,No Issue
+Normalize: MD Assets,MDS2 Boot from Removable Media,0.06,No Issue
+Normalize: MD Assets,MDS2 Install Non-Manufacturer Authorized Software/Hardware,0.04,No Issue
+Normalize: MD Assets,MDS2 Security Features Documented,0.07,No Issue
+Normalize: MD Assets,MDS2 Device/Media Sanitization Instructions,0.05,No Issue
+Normalize: MD Assets,MDS2 Device Encrypt Data At Rest,0.06,No Issue
+Normalize: MD Assets,MDS2 Transmission Confidentiality - Dedicated Cable Data Transmission Only,0.05,No Issue
+Normalize: MD Assets,MDS2 Transmission Confidentiality - Encrypted Data Transmission,0.05,No Issue
+Normalize: MD Assets,MDS2 Transmission Confidentiality - Fixed List Transmission Destinations,0.05,No Issue
+Normalize: MD Assets,MDS2 Transmission Integrity Support,0.05,No Issue
+Normalize: MD Assets,MDS2 Remote Service,0.05,No Issue
+Normalize: MD Assets,MDS2 Remote Access Restrictions,0.06,No Issue
+Normalize: MD Assets,MDS2 Accept or Initiate Remote Access,0.05,No Issue
+Normalize: MD Assets,MDS2 SW Vertical,0.04,No Issue
+Normalize: MD Assets,MDS2 SW Category,0.04,No Issue
+Normalize: MD Assets,MDS2 SW Subcategory,0.04,No Issue
+Normalize: MD Assets,MDS2 SW Vendor Category,0.04,No Issue
+Normalize: MD Assets,MDS2 SW Manufacturer,0.05,No Issue
+Normalize: MD Assets,MDS2 SW Family,0.05,No Issue
+Normalize: MD Assets,MDS2 SW Name,0.09,No Issue
+Normalize: MD Assets,MDS2 SW Component,0.05,No Issue
+Normalize: MD Assets,MDS2 SW Market Version,0.06,No Issue
+Normalize: MD Assets,MDS2 SW Version,0.04,No Issue
+Normalize: MD Assets,MDS2 SW Service Pack,0.06,No Issue
+Normalize: MD Assets,MDS2 SW Edition,0.05,No Issue
+Normalize: MD Assets,MDS2 SW Is Licensable?,0.05,No Issue
+Normalize: MD Assets,MDS2 SW Is Suite?,0.04,No Issue
+Normalize: MD Assets,PRI Is Private?,0.06,No Data
+Normalize: MD Assets,PRI Type,0.05,No Data
+Normalize: MD Assets,PRI Object,0.06,No Data
+Normalize: MD Assets,PRI Table,0.06,No Data
+Normalize: MD Assets,PRI Attribute,0.07,No Data
+Normalize: MD Assets,SW Instance Attribute,0.6,No Issue
+Normalize: MD Assets,SW Instance Value,0.56,No Issue
+Normalize: MD Assets,Domain,0.06,No Issue
+Normalize: MD Assets,ACTIVE,0.08,No Issue
+Normalize: MD Assets,Owner,0.07,No Issue
+Normalize: MD Assets,Expiration Date,0.07,No Issue
+Normalize: MD Assets,Location,0.08,No Issue
+Normalize: MD Assets,Manufacturer Name,0.05,No Issue
+Normalize: MD Assets,Product Name,0.07,No Issue
+Normalize: MD Assets,Supported OS,0.05,No Issue
+Normalize: MD Assets,Last Supported Date,0.09,No Issue
+Normalize: MD Assets,Energy Star,0.06,No Issue
+Normalize: MD Assets,EPEAT,0.03,No Issue
+Normalize: MD Assets,AC Power AVG,0.05,No Issue
+Normalize: MD Assets,AC AVG UNIT,0.08,No Issue
+Normalize: MD Assets,AC Power Max,0.05,No Issue
+Normalize: MD Assets,AC MAX Unit,0.05,No Issue
+Normalize: MD Assets,Managed by,0.05,No Issue
+Normalize: MD Assets,IND,0.07,No Issue
+Normalize: MD Assets,BDNA SW Category,0.03,No Issue
+Normalize: MD Assets,BDNA SW Sub Category,0.05,No Issue
+Normalize: MD Assets,SW Supplier,0.06,No Issue
+Normalize: MD Assets,SW Name,0.06,No Issue
+Normalize: MD Assets,Business Unit,0.04,No Issue
+Normalize: MD Assets,Department,0.06,No Issue
+Normalize: MD Assets,Region,0.07,No Issue
+Normalize: MD Assets,Country,0.04,No Issue
+Normalize: MD Assets,User_Domain,0.06,No Issue
+Normalize: MD Assets,User_Name,0.07,No Issue
+Normalize: MD Assets,DEPT1,0.04,No Issue
+Normalize: MD Assets,DEPT2,0.05,No Issue
+Normalize: MD Assets,SITE1,0.05,No Issue
+Normalize: MD Assets,LOC,0.05,No Issue
+Normalize: MD Assets,SYS Count_measure,0.61,No Issue
+Normalize: MD Assets,SYS Avg CPU (MHz)_measure,0.05,No Issue
+Normalize: MD Assets,SYS Avg Number of CPUs_measure,0.04,No Issue
+Normalize: MD Assets,SYS Avg Number of Cores_measure,0.06,No Issue
+Normalize: MD Assets,SYS Avg RAM (MB)_measure,0.07,No Issue
+Normalize: MD Assets,SYS Avg Total HDD (GB)_measure,0.05,No Issue
+Normalize: MD Assets,SYS Avg Available HDD (GB)_measure,0.06,No Issue
+Normalize: MD Assets,HW Distinct Product Count_measure,0.05,No Issue
+Normalize: MD Assets,HW Distinct Model Count_measure,0.05,No Issue
+Normalize: MD Assets,HW Minimum price_measure,0.08,No Data
+Normalize: MD Assets,HW Average price_measure,0.06,No Data
+Normalize: MD Assets,HW Maximum price_measure,0.06,No Data
+Normalize: MD Assets,HW AVG Power (W)_measure,0.05,No Data
+Normalize: MD Assets,HW AC Power Avg_measure,0.07,No Data
+Normalize: MD Assets,HW AC Power Max_measure,0.04,No Issue
+Normalize: MD Assets,HW AC Heat Diss Avg (BTU/hr)_measure,0.05,No Issue
+Normalize: MD Assets,HW AC Heat Diss Max (BTU/hr)_measure,0.06,No Issue
+Normalize: MD Assets,HW AC Input Low Voltage Min_measure,0.05,No Issue
+Normalize: MD Assets,HW AC Input Low Voltage Max_measure,0.07,No Issue
+Normalize: MD Assets,HW AC Input Low Current Min_measure,0.05,No Issue
+Normalize: MD Assets,HW AC Input Low Current Max_measure,0.07,No Issue
+Normalize: MD Assets,HW AC Input High Voltage Min_measure,0.04,No Issue
+Normalize: MD Assets,HW AC Input High Voltage Max_measure,0.05,No Issue
+Normalize: MD Assets,HW AC Input High Current Min_measure,0.05,No Issue
+Normalize: MD Assets,HW AC Input High Current Max_measure,0.06,No Issue
+Normalize: MD Assets,HW AC Frequency Min_measure,0.04,No Issue
+Normalize: MD Assets,HW AC Frequency Max_measure,0.03,No Issue
+Normalize: MD Assets,HW DC Power Avg_measure,0.07,No Data
+Normalize: MD Assets,HW DC Power Max_measure,0.06,No Data
+Normalize: MD Assets,HW DC Heat Diss Avg (BTU/hr)_measure,0.08,No Data
+Normalize: MD Assets,HW DC Heat Diss Max (BTU/hr)_measure,0.06,No Data
+Normalize: MD Assets,HW DC Low Voltage_measure,0.06,No Data
+Normalize: MD Assets,HW DC Low Current_measure,0.06,No Data
+Normalize: MD Assets,HW DC High Voltage_measure,0.08,No Data
+Normalize: MD Assets,HW DC High Current_measure,0.07,No Data
+Normalize: MD Assets,HW Min Operating Temp (F)_measure,0.06,No Issue
+Normalize: MD Assets,HW Max Operating Temp (F)_measure,0.07,No Issue
+Normalize: MD Assets,HW Min Non-Operating Temp (F)_measure,0.06,No Issue
+Normalize: MD Assets,HW Max Non-Operating Temp (F)_measure,0.05,No Issue
+Normalize: MD Assets,HW Min Operating Humidity (%)_measure,0.06,No Issue
+Normalize: MD Assets,HW Max Operating Humidity (%)_measure,0.06,No Issue
+Normalize: MD Assets,HW Min Non-Operating Humidity (%)_measure,0.05,No Issue
+Normalize: MD Assets,HW Max Non-Operating Humidity (%)_measure,0.07,No Issue
+Normalize: MD Assets,SW Distinct Product Count_measure,0.03,No Issue
+Normalize: MD Assets,SW Distinct Version Count_measure,0.05,No Issue
+Normalize: MD Assets,SW Distinct Edition Count_measure,0.05,No Issue
+Normalize: MD Assets,SW Distinct Release Count_measure,0.05,No Issue
+Normalize: MD Assets,SW Install Count_measure,0.05,No Issue
+Normalize: MD Assets,SW Use Count_measure,0.03,No Issue
+Normalize: MD Assets,SW Times Launched_measure,0.07,No Data
+Normalize: MD Assets,SW Usage Duration_measure,0.07,No Data
+Cube,Attribute,Time(second),Error type
+Technopedia: CPU,CPU Manufacturer (1),0.62,No Issue
+Technopedia: CPU,CPU Model (1),9.01,No Issue
+Technopedia: CPU,CPU Cores,0.57,No Issue
+Technopedia: CPU,CPU Clock Rate,5.82,No Issue
+Technopedia: CPU,CPU ISA Bit Mode,0.06,No Issue
+Technopedia: CPU,CPU Is Threaded?,0.04,No Issue
+Technopedia: CPU,CPU Number of threads,0.04,No Issue
+Technopedia: CPU,CPU Maximum Sockets,0.58,No Issue
+Technopedia: CPU,CPU IBM PVU per core,0.03,No Issue
+Technopedia: CPU,Location,0.57,No Issue
+Technopedia: CPU,Purchased By,0.03,No Issue
+Technopedia: CPU,Model,0.06,No Issue
+Technopedia: CPU,CPU Manufacturer,0.04,No Issue
+Technopedia: CPU,Num of Cores,0.03,No Issue
+Technopedia: CPU,Clock Rate,5.37,No Issue
+Technopedia: CPU,Bit Mode,0.04,No Issue
+Technopedia: CPU,Num of Threads,0.03,No Issue
+Technopedia: CPU,CPU Model Count_measure,0.56,No Issue
+Technopedia: CPU,CPU IBM PVU Count_measure,0.56,No Issue
+Cube,Attribute,Time(second),Error type
+Technopedia: Hardware,HW Vertical,0.6,No Issue
+Technopedia: Hardware,HW Category,10.6,No Issue
+Technopedia: Hardware,HW Subcategory,10.59,No Issue
+Technopedia: Hardware,HW Vendor Category,10.6,No Issue
+Technopedia: Hardware,HW Manufacturer,19.02,No Issue
+Technopedia: Hardware,HW Product,20.67,No Issue
+Technopedia: Hardware,HW Model,180.0,Time out
+Technopedia: Hardware,HW Supported OS,12.21,No Issue
+Technopedia: Hardware,HW Max CPU sockets,10.08,No Issue
+Technopedia: Hardware,HW Profile,2.16,No Issue
+Technopedia: Hardware,HW Min Depth (in),2.14,No Issue
+Technopedia: Hardware,HW Max Depth (in),2.14,No Issue
+Technopedia: Hardware,HW Min Height (in),2.3,No Issue
+Technopedia: Hardware,HW Max Height (in),2.14,No Issue
+Technopedia: Hardware,HW Min Width (in),3.21,No Issue
+Technopedia: Hardware,HW Max Width (in),2.14,No Issue
+Technopedia: Hardware,HW Min Weight (lbs),2.14,No Issue
+Technopedia: Hardware,HW Max Weight (lbs),2.16,No Issue
+Technopedia: Hardware,HW Is Supported? (calc.),10.08,No Issue
+Technopedia: Hardware,HW Supported Reason (calc.),10.11,No Issue
+Technopedia: Hardware,HW EOL Year (calc.),10.59,No Issue
+Technopedia: Hardware,HW EOL Quarter (calc.),20.17,No Issue
+Technopedia: Hardware,HW EOL Month (calc.),10.12,No Issue
+Technopedia: Hardware,HW EOL Date (calc.),10.61,No Issue
+Technopedia: Hardware,HW Intro Year,14.88,No Issue
+Technopedia: Hardware,HW Intro Quarter,10.63,No Issue
+Technopedia: Hardware,HW Intro Month,10.1,No Issue
+Technopedia: Hardware,HW Intro Date,15.35,No Issue
+Technopedia: Hardware,HW Intro Exception,10.63,No Issue
+Technopedia: Hardware,HW Intro Range (Start),10.08,No Issue
+Technopedia: Hardware,HW Intro Range (End),10.58,No Issue
+Technopedia: Hardware,HW GA Year,10.08,No Issue
+Technopedia: Hardware,HW GA Quarter,10.1,No Issue
+Technopedia: Hardware,HW GA Month,10.62,No Issue
+Technopedia: Hardware,HW GA Date,10.61,No Issue
+Technopedia: Hardware,HW GA Exception,12.72,No Issue
+Technopedia: Hardware,HW GA Range (Start),10.65,No Issue
+Technopedia: Hardware,HW GA Range (End),15.38,No Issue
+Technopedia: Hardware,HW LastAvail Year,10.61,No Issue
+Technopedia: Hardware,HW LastAvail Quarter,12.71,No Issue
+Technopedia: Hardware,HW LastAvail Month,10.11,No Issue
+Technopedia: Hardware,HW LastAvail Date,14.37,No Issue
+Technopedia: Hardware,HW LastAvail Exception,10.07,No Issue
+Technopedia: Hardware,HW LastAvail Range (Start),13.23,No Issue
+Technopedia: Hardware,HW LastAvail Range (End),10.14,No Issue
+Technopedia: Hardware,HW OBS Year,10.63,No Issue
+Technopedia: Hardware,HW OBS Quarter,10.1,No Issue
+Technopedia: Hardware,HW OBS Month,10.11,No Issue
+Technopedia: Hardware,HW OBS Date,10.63,No Issue
+Technopedia: Hardware,HW OBS Exception,10.63,No Issue
+Technopedia: Hardware,HW OBS Range (Start),10.6,No Issue
+Technopedia: Hardware,HW OBS Range (End),10.7,No Issue
+Technopedia: Hardware,HW Currency Code,0.56,No Issue
+Technopedia: Hardware,HW Minimum price,5.33,No Issue
+Technopedia: Hardware,HW Average price,10.08,No Issue
+Technopedia: Hardware,HW Maximum price,8.51,No Issue
+Technopedia: Hardware,HW Is Energy Star?,3.21,No Issue
+Technopedia: Hardware,HW EPEAT Rating,2.68,No Issue
+Technopedia: Hardware,HW Power Type,2.67,No Issue
+Technopedia: Hardware,HW AVG Power (W),2.68,No Issue
+Technopedia: Hardware,HW Power Rating,2.68,No Issue
+Technopedia: Hardware,HW AC Power Avg,2.67,No Issue
+Technopedia: Hardware,HW AC Avg Unit,2.7,No Issue
+Technopedia: Hardware,HW AC Power Max,15.93,No Issue
+Technopedia: Hardware,HW AC Max Unit,2.69,No Issue
+Technopedia: Hardware,HW AC Heat Diss Avg,2.68,No Issue
+Technopedia: Hardware,HW AC Heat Diss Max,7.45,No Issue
+Technopedia: Hardware,HW AC Input Low Voltage Min,2.68,No Issue
+Technopedia: Hardware,HW AC Input Low Voltage Max,2.67,No Issue
+Technopedia: Hardware,HW AC Input Low Current Min,2.67,No Issue
+Technopedia: Hardware,HW AC Input Low Current Max,2.68,No Issue
+Technopedia: Hardware,HW AC Input High Voltage Min,2.68,No Issue
+Technopedia: Hardware,HW AC Input High Voltage Max,2.68,No Issue
+Technopedia: Hardware,HW AC Input High Current Min,2.71,No Issue
+Technopedia: Hardware,HW AC Input High Current Max,2.69,No Issue
+Technopedia: Hardware,HW AC Frequency Min,7.96,No Issue
+Technopedia: Hardware,HW AC Frequency Max,2.68,No Issue
+Technopedia: Hardware,HW DC Power Avg,3.23,No Issue
+Technopedia: Hardware,HW DC Power Max,2.7,No Issue
+Technopedia: Hardware,HW DC Heat Diss Avg,2.67,No Issue
+Technopedia: Hardware,HW DC Heat Diss Max,2.68,No Issue
+Technopedia: Hardware,HW DC Low Voltage,2.67,No Issue
+Technopedia: Hardware,HW DC Low Current,2.68,No Issue
+Technopedia: Hardware,HW DC High Voltage,2.68,No Issue
+Technopedia: Hardware,HW DC High Current,2.69,No Issue
+Technopedia: Hardware,HW Min Operating Temp,10.62,No Issue
+Technopedia: Hardware,HW Max Operating Temp,2.68,No Issue
+Technopedia: Hardware,HW Min Non-Operating Temp,2.68,No Issue
+Technopedia: Hardware,HW Max Non-Operating Temp,2.68,No Issue
+Technopedia: Hardware,HW Min Operating Humidity,2.68,No Issue
+Technopedia: Hardware,HW Max Operating Humidity,2.68,No Issue
+Technopedia: Hardware,HW Min Non-Operating Humidity,3.21,No Issue
+Technopedia: Hardware,HW Max Non-Operating Humidity,3.2,No Issue
+Technopedia: Hardware,PRI Is Private?,0.05,No Data
+Technopedia: Hardware,PRI Type,0.04,No Data
+Technopedia: Hardware,PRI Table,0.05,No Data
+Technopedia: Hardware,PRI Attribute,0.04,No Data
+Technopedia: Hardware,Manufacturer Name,0.05,No Issue
+Technopedia: Hardware,Product Name,0.05,No Issue
+Technopedia: Hardware,Supported OS,0.04,No Issue
+Technopedia: Hardware,Last Supported Date,0.59,No Issue
+Technopedia: Hardware,Energy Star,0.04,No Issue
+Technopedia: Hardware,EPEAT,0.56,No Issue
+Technopedia: Hardware,AC Power AVG,0.04,No Issue
+Technopedia: Hardware,AC AVG UNIT,0.03,No Issue
+Technopedia: Hardware,AC Power Max,0.05,No Issue
+Technopedia: Hardware,AC MAX Unit,0.05,No Issue
+Technopedia: Hardware,Managed by,0.04,No Issue
+Technopedia: Hardware,HW Product Count_measure,3.24,No Issue
+Technopedia: Hardware,HW Model Count_measure,2.69,No Issue
+Technopedia: Hardware,HW Minimum price_measure,2.68,No Issue
+Technopedia: Hardware,HW Average price_measure,2.14,No Issue
+Technopedia: Hardware,HW Maximum price_measure,2.68,No Issue
+Technopedia: Hardware,HW Min Depth (in)_measure,2.15,No Issue
+Technopedia: Hardware,HW Max Depth (in)_measure,2.15,No Issue
+Technopedia: Hardware,HW Min Height (in)_measure,9.04,No Issue
+Technopedia: Hardware,HW Max Height (in)_measure,2.15,No Issue
+Technopedia: Hardware,HW Min Width (in)_measure,2.15,No Issue
+Technopedia: Hardware,HW Max Width (in)_measure,2.17,No Issue
+Technopedia: Hardware,HW Min Weight (lbs)_measure,2.16,No Issue
+Technopedia: Hardware,HW Max Weight (lbs)_measure,2.69,No Issue
+Technopedia: Hardware,HW AVG Power (W)_measure,2.69,No Issue
+Technopedia: Hardware,HW AC Power Avg_measure,2.15,No Issue
+Technopedia: Hardware,HW AC Power Max_measure,2.16,No Issue
+Technopedia: Hardware,HW AC Heat Diss Avg (BTU/hr)_measure,2.15,No Issue
+Technopedia: Hardware,HW AC Heat Diss Max (BTU/hr)_measure,2.15,No Issue
+Technopedia: Hardware,HW AC Input Low Voltage Min_measure,2.14,No Issue
+Technopedia: Hardware,HW AC Input Low Voltage Max_measure,10.11,No Issue
+Technopedia: Hardware,HW AC Input Low Current Min_measure,2.16,No Issue
+Technopedia: Hardware,HW AC Input Low Current Max_measure,2.14,No Issue
+Technopedia: Hardware,HW AC Input High Voltage Min_measure,2.69,No Issue
+Technopedia: Hardware,HW AC Input High Voltage Max_measure,2.15,No Issue
+Technopedia: Hardware,HW AC Input High Current Min_measure,2.18,No Issue
+Technopedia: Hardware,HW AC Input High Current Max_measure,2.15,No Issue
+Technopedia: Hardware,HW AC Frequency Min_measure,2.14,No Issue
+Technopedia: Hardware,HW AC Frequency Max_measure,2.14,No Issue
+Technopedia: Hardware,HW DC Power Avg_measure,2.14,No Issue
+Technopedia: Hardware,HW DC Power Max_measure,2.17,No Issue
+Technopedia: Hardware,HW DC Heat Diss Avg (BTU/hr)_measure,2.16,No Issue
+Technopedia: Hardware,HW DC Heat Diss Max (BTU/hr)_measure,17.56,No Issue
+Technopedia: Hardware,HW DC Low Voltage_measure,2.15,No Issue
+Technopedia: Hardware,HW DC Low Current_measure,2.16,No Issue
+Technopedia: Hardware,HW DC High Voltage_measure,2.16,No Issue
+Technopedia: Hardware,HW DC High Current_measure,2.68,No Issue
+Technopedia: Hardware,HW Min Operating Temp (F)_measure,2.16,No Issue
+Technopedia: Hardware,HW Max Operating Temp (F)_measure,2.17,No Issue
+Technopedia: Hardware,HW Min Non-Operating Temp (F)_measure,2.17,No Issue
+Technopedia: Hardware,HW Max Non-Operating Temp (F)_measure,2.16,No Issue
+Technopedia: Hardware,HW Min Operating Humidity (%)_measure,2.15,No Issue
+Technopedia: Hardware,HW Max Operating Humidity (%)_measure,2.17,No Issue
+Technopedia: Hardware,HW Min Non-Operating Humidity (%)_measure,2.16,No Issue
+Technopedia: Hardware,HW Max Non-Operating Humidity (%)_measure,12.22,No Issue
+Cube,Attribute,Time(second),Error type
+Technopedia: Hardware Procurement,HW Vertical,0.06,No Issue
+Technopedia: Hardware Procurement,HW Category,10.07,No Issue
+Technopedia: Hardware Procurement,HW Subcategory,10.09,No Issue
+Technopedia: Hardware Procurement,HW Vendor Category,10.6,No Issue
+Technopedia: Hardware Procurement,HW Manufacturer,16.39,No Issue
+Technopedia: Hardware Procurement,HW Product,23.98,No Issue
+Technopedia: Hardware Procurement,HW Model,180.0,Time out
+Technopedia: Hardware Procurement,HW Supported OS,13.27,No Issue
+Technopedia: Hardware Procurement,HW Max CPU sockets,14.32,No Issue
+Technopedia: Hardware Procurement,HW Profile,2.67,No Issue
+Technopedia: Hardware Procurement,HW Is Supported? (calc.),10.12,No Issue
+Technopedia: Hardware Procurement,HW Supported Reason (calc.),17.98,No Issue
+Technopedia: Hardware Procurement,HW EOL Year (calc.),10.11,No Issue
+Technopedia: Hardware Procurement,HW EOL Quarter (calc.),10.1,No Issue
+Technopedia: Hardware Procurement,HW EOL Month (calc.),10.61,No Issue
+Technopedia: Hardware Procurement,HW EOL Date (calc.),14.5,No Issue
+Technopedia: Hardware Procurement,HW Mfr Part Number,0.56,No Issue
+Technopedia: Hardware Procurement,HW Mfr Currency Code,0.56,No Issue
+Technopedia: Hardware Procurement,HW Mfr List Price,4.8,No Issue
+Technopedia: Hardware Procurement,HW Mfr Actual Price,0.56,No Issue
+Technopedia: Hardware Procurement,HW Lic Type,0.63,No Issue
+Technopedia: Hardware Procurement,HW Lic Metrics,4.25,No Issue
+Technopedia: Hardware Procurement,HW Lic Unit Pack,0.04,No Issue
+Technopedia: Hardware Procurement,HW Lic Unit Count Min,0.05,No Issue
+Technopedia: Hardware Procurement,HW Lic Unit Count Max,0.57,No Issue
+Technopedia: Hardware Procurement,HW Lic Term,0.04,No Issue
+Technopedia: Hardware Procurement,HW Lic Other Terms,5.3,No Issue
+Technopedia: Hardware Procurement,HW Lic Period Unit,0.56,No Issue
+Technopedia: Hardware Procurement,HW Lic Period Value,4.78,No Issue
+Technopedia: Hardware Procurement,HW Lic Maintenance Period Unit,0.56,No Issue
+Technopedia: Hardware Procurement,HW Lic Maintenance Period Value,0.56,No Issue
+Technopedia: Hardware Procurement,HW Lic Vendor Product Name,4.77,No Issue
+Technopedia: Hardware Procurement,HW Lic Vendor Unit Measure,9.05,No Issue
+Technopedia: Hardware Procurement,HW Product Description,4.8,No Issue
+Technopedia: Hardware Procurement,HW Long Description,0.05,No Issue
+Technopedia: Hardware Procurement,HW Picture URL,0.05,No Issue
+Technopedia: Hardware Procurement,HW CutSheet URL,0.05,No Issue
+Technopedia: Hardware Procurement,HW Installation Guide URL,0.57,No Issue
+Technopedia: Hardware Procurement,HW Lic Installed RAM,0.05,No Issue
+Technopedia: Hardware Procurement,HW Lic Installed RAM Unit,0.04,No Issue
+Technopedia: Hardware Procurement,HW Lic Maximum RAM,0.04,No Issue
+Technopedia: Hardware Procurement,HW Lic Maximum RAM Unit,0.03,No Issue
+Technopedia: Hardware Procurement,HW Lic RAM Specification,7.43,No Issue
+Technopedia: Hardware Procurement,HW Lic RAM Technology,0.04,No Issue
+Technopedia: Hardware Procurement,HW Lic RAM Speed,0.05,No Issue
+Technopedia: Hardware Procurement,HW Lic Storage Capacity,0.06,No Issue
+Technopedia: Hardware Procurement,HW Lic Storage Unit,0.04,No Issue
+Technopedia: Hardware Procurement,HW Lic Hard Drive Interface,0.04,No Issue
+Technopedia: Hardware Procurement,HW Lic Network Type,0.56,No Issue
+Technopedia: Hardware Procurement,HW Lic Data Link Protocol,0.04,No Issue
+Technopedia: Hardware Procurement,HW Lic Optical Drive,0.04,No Issue
+Technopedia: Hardware Procurement,HW Lic Graphics Card,0.04,No Issue
+Technopedia: Hardware Procurement,HW Lic Interface Ports,0.06,No Issue
+Technopedia: Hardware Procurement,HW Lic Monitor Resolution Length,0.56,No Issue
+Technopedia: Hardware Procurement,HW Lic Monitor Resolution Width,0.59,No Issue
+Technopedia: Hardware Procurement,HW Lic Processor Type,0.06,No Issue
+Technopedia: Hardware Procurement,HW Lic Processor Speed,4.81,No Issue
+Technopedia: Hardware Procurement,HW Lic Processor Installed Quantity,0.57,No Issue
+Technopedia: Hardware Procurement,HW Lic Processor Max Supported,0.04,No Issue
+Technopedia: Hardware Procurement,HW Lic CPU Manufacturer,0.56,No Issue
+Technopedia: Hardware Procurement,HW Lic CPU Model,0.05,No Issue
+Technopedia: Hardware Procurement,HW Lic Input Voltage,0.05,No Issue
+Technopedia: Hardware Procurement,HW Lic Input Voltage Unit,0.56,No Issue
+Technopedia: Hardware Procurement,HW Lic Input Voltage Range,0.06,No Issue
+Technopedia: Hardware Procurement,HW Lic Input Frequency,0.05,No Issue
+Technopedia: Hardware Procurement,HW Lic Output Voltage,0.05,No Issue
+Technopedia: Hardware Procurement,HW Lic Output Voltage Unit,0.05,No Issue
+Technopedia: Hardware Procurement,HW Lic Outlets,4.79,No Issue
+Technopedia: Hardware Procurement,HW Lic Power Provided,0.05,No Issue
+Technopedia: Hardware Procurement,HW Lic Addl HW Manufacturer,0.57,No Issue
+Technopedia: Hardware Procurement,HW Lic Addl HW Product,0.55,No Issue
+Technopedia: Hardware Procurement,HW Lic Addl SW Manufacturer,0.55,No Issue
+Technopedia: Hardware Procurement,HW Lic Addl SW Product,0.57,No Issue
+Technopedia: Hardware Procurement,PRI Is Private?,0.05,No Data
+Technopedia: Hardware Procurement,PRI Type,0.05,No Data
+Technopedia: Hardware Procurement,PRI Table,0.05,No Data
+Technopedia: Hardware Procurement,PRI Attribute,0.06,No Data
+Technopedia: Hardware Procurement,Manufacturer Name,0.04,No Issue
+Technopedia: Hardware Procurement,Product Name,0.05,No Issue
+Technopedia: Hardware Procurement,Supported OS,0.04,No Issue
+Technopedia: Hardware Procurement,Last Supported Date,0.03,No Issue
+Technopedia: Hardware Procurement,Energy Star,0.6,No Issue
+Technopedia: Hardware Procurement,EPEAT,0.03,No Issue
+Technopedia: Hardware Procurement,AC Power AVG,0.03,No Issue
+Technopedia: Hardware Procurement,AC AVG UNIT,0.04,No Issue
+Technopedia: Hardware Procurement,AC Power Max,0.05,No Issue
+Technopedia: Hardware Procurement,AC MAX Unit,0.58,No Issue
+Technopedia: Hardware Procurement,Managed by,0.05,No Issue
+Technopedia: Hardware Procurement,HW Product Count_measure,2.17,No Issue
+Technopedia: Hardware Procurement,HW Model Count_measure,1.62,No Issue
+Technopedia: Hardware Procurement,HW Mfr Min List Price_measure,6.38,No Issue
+Technopedia: Hardware Procurement,HW Mfr Max List Price_measure,2.72,No Issue
+Technopedia: Hardware Procurement,HW Mfr Min Actual Price_measure,2.14,No Issue
+Technopedia: Hardware Procurement,HW Mfr Max Actual Price_measure,2.16,No Issue
+Cube,Attribute,Time(second),Error type
+Technopedia: Hardware Security,HW Vertical,0.06,No Issue
+Technopedia: Hardware Security,HW Category,10.61,No Issue
+Technopedia: Hardware Security,HW Subcategory,10.08,No Issue
+Technopedia: Hardware Security,HW Vendor Category,14.78,No Issue
+Technopedia: Hardware Security,HW Manufacturer,12.7,No Issue
+Technopedia: Hardware Security,HW Product,26.42,No Issue
+Technopedia: Hardware Security,HW Model,180.0,Time out
+Technopedia: Hardware Security,HW Supported OS,16.96,No Issue
+Technopedia: Hardware Security,HW Max CPU sockets,10.06,No Issue
+Technopedia: Hardware Security,HW Profile,1.62,No Issue
+Technopedia: Hardware Security,HW Is Supported? (calc.),10.09,No Issue
+Technopedia: Hardware Security,HW Supported Reason (calc.),10.06,No Issue
+Technopedia: Hardware Security,HW EOL Year (calc.),12.15,No Issue
+Technopedia: Hardware Security,HW EOL Quarter (calc.),10.09,No Issue
+Technopedia: Hardware Security,HW EOL Month (calc.),10.1,No Issue
+Technopedia: Hardware Security,HW EOL Date (calc.),13.77,No Issue
+Technopedia: Hardware Security,HW CPE Definition,0.57,No Issue
+Technopedia: Hardware Security,HW CPE Part,0.03,No Issue
+Technopedia: Hardware Security,HW CPE Vendor,0.55,No Issue
+Technopedia: Hardware Security,HW CPE Product,0.55,No Issue
+Technopedia: Hardware Security,HW CPE Edition,0.57,No Issue
+Technopedia: Hardware Security,HW CPE URI,0.55,No Issue
+Technopedia: Hardware Security,HW CPE CVSS Max Score,6.36,No Issue
+Technopedia: Hardware Security,HW CPE CVSS Max Severity,0.04,No Issue
+Technopedia: Hardware Security,HW CVE Count,0.03,No Issue
+Technopedia: Hardware Security,HW CVE CVSS Severity,0.56,No Issue
+Technopedia: Hardware Security,HW CVE CVSS Score,0.03,No Issue
+Technopedia: Hardware Security,PRI Is Private?,0.06,No Data
+Technopedia: Hardware Security,PRI Type,0.57,No Data
+Technopedia: Hardware Security,PRI Table,0.05,No Data
+Technopedia: Hardware Security,PRI Attribute,0.05,No Data
+Technopedia: Hardware Security,Manufacturer Name,0.03,No Issue
+Technopedia: Hardware Security,Product Name,0.04,No Issue
+Technopedia: Hardware Security,Supported OS,5.32,No Issue
+Technopedia: Hardware Security,Last Supported Date,0.03,No Issue
+Technopedia: Hardware Security,Energy Star,0.03,No Issue
+Technopedia: Hardware Security,EPEAT,0.03,No Issue
+Technopedia: Hardware Security,AC Power AVG,0.03,No Issue
+Technopedia: Hardware Security,AC AVG UNIT,0.03,No Issue
+Technopedia: Hardware Security,AC Power Max,0.57,No Issue
+Technopedia: Hardware Security,AC MAX Unit,0.03,No Issue
+Technopedia: Hardware Security,Managed by,0.04,No Issue
+Technopedia: Hardware Security,HW Count_measure,6.37,No Issue
+Technopedia: Hardware Security,HW CVE Count_measure,1.12,No Issue
+Technopedia: Hardware Security,HW Max CVSS Score_measure,0.56,No Issue
+Cube,Attribute,Time(second),Error type
+Technopedia: Manufacturer,MFR Tier,0.06,No Issue
+Technopedia: Manufacturer,MFR Name (1),1.11,No Issue
+Technopedia: Manufacturer,MFR Legal,0.04,No Issue
+Technopedia: Manufacturer,MFR Description,0.83,No Issue
+Technopedia: Manufacturer,MFR Also known as,0.59,No Issue
+Technopedia: Manufacturer,MFR Is Publicly traded?,0.57,No Issue
+Technopedia: Manufacturer,MFR Symbol,0.55,No Issue
+Technopedia: Manufacturer,MFR Revenue (million US$),0.55,No Issue
+Technopedia: Manufacturer,MFR Revenue date,0.56,No Issue
+Technopedia: Manufacturer,MFR Profits per year (million US$),0.57,No Issue
+Technopedia: Manufacturer,MFR Profits date,0.04,No Issue
+Technopedia: Manufacturer,MFR Employees,0.58,No Issue
+Technopedia: Manufacturer,MFR Employees date,0.05,No Issue
+Technopedia: Manufacturer,MFR Fiscal end date,0.57,No Issue
+Technopedia: Manufacturer,MFR Country,0.57,No Issue
+Technopedia: Manufacturer,MFR State,0.55,No Issue
+Technopedia: Manufacturer,MFR Zip,0.56,No Issue
+Technopedia: Manufacturer,MFR City,0.57,No Issue
+Technopedia: Manufacturer,MFR Street,0.55,No Issue
+Technopedia: Manufacturer,MFR Phone,0.55,No Issue
+Technopedia: Manufacturer,MFR Fax,0.55,No Issue
+Technopedia: Manufacturer,MFR Email,0.55,No Issue
+Technopedia: Manufacturer,MFR Website,1.6,No Issue
+Technopedia: Manufacturer,MFR Is Owned/Acquired?,0.56,No Issue
+Technopedia: Manufacturer,MFR Owner (1),0.55,No Issue
+Technopedia: Manufacturer,MFR Date acquired,0.55,No Issue
+Technopedia: Manufacturer,IND Industry tag ID,1.08,No Issue
+Technopedia: Manufacturer,IND Industry tag,0.05,No Issue
+Technopedia: Manufacturer,IND Industry codes ID,0.56,No Issue
+Technopedia: Manufacturer,IND Code source,0.56,No Issue
+Technopedia: Manufacturer,IND Code number,0.55,No Issue
+Technopedia: Manufacturer,IND Code title,0.55,No Issue
+Technopedia: Manufacturer,TAX Type,0.55,No Issue
+Technopedia: Manufacturer,TAX Group,0.04,No Issue
+Technopedia: Manufacturer,TAX Category,0.59,No Issue
+Technopedia: Manufacturer,TAX Category Description,0.04,No Issue
+Technopedia: Manufacturer,TAX Subcategory,0.56,No Issue
+Technopedia: Manufacturer,TAX Subcategory Description,0.56,No Issue
+Technopedia: Manufacturer,PRI Is Private?,0.05,No Data
+Technopedia: Manufacturer,PRI Type,0.05,No Data
+Technopedia: Manufacturer,PRI Table,0.04,No Data
+Technopedia: Manufacturer,PRI Attribute,0.57,No Data
+Technopedia: Manufacturer,Contact,0.56,No Issue
+Technopedia: Manufacturer,Expiration Date,0.56,No Issue
+Technopedia: Manufacturer,HW Model Count_measure,38.32,No Issue
+Technopedia: Manufacturer,SW Release Count_measure,38.18,No Issue
+Cube,Attribute,Time(second),Error type
+Technopedia: Medical Devices,HW Vertical,6.47,No Issue
+Technopedia: Medical Devices,HW Category,1.09,No Issue
+Technopedia: Medical Devices,HW Subcategory,0.08,No Issue
+Technopedia: Medical Devices,HW Vendor Category,0.05,No Issue
+Technopedia: Medical Devices,HW Manufacturer,0.57,No Issue
+Technopedia: Medical Devices,HW Product,8.0,No Issue
+Technopedia: Medical Devices,HW Model,14.85,No Issue
+Technopedia: Medical Devices,HW Supported OS,0.57,No Issue
+Technopedia: Medical Devices,HW Max CPU sockets,0.06,No Issue
+Technopedia: Medical Devices,UMDNS Device Code,1.1,No Issue
+Technopedia: Medical Devices,UMDNS Device Description,8.5,No Issue
+Technopedia: Medical Devices,UMDNS Definition,5.88,No Issue
+Technopedia: Medical Devices,UMDNS Level,0.63,No Issue
+Technopedia: Medical Devices,GMDN Code,5.91,No Issue
+Technopedia: Medical Devices,GMDN Preferred Term,0.57,No Issue
+Technopedia: Medical Devices,GMDN Definition,9.27,No Issue
+Technopedia: Medical Devices,GMDN Level,0.06,No Issue
+Technopedia: Medical Devices,Primary DI Number,12.75,No Issue
+Technopedia: Medical Devices,Device Count,0.04,No Issue
+Technopedia: Medical Devices,Package DI Number,0.08,No Issue
+Technopedia: Medical Devices,Quantity per Package,5.33,No Issue
+Technopedia: Medical Devices,Unit Of Use DI Number,0.06,No Issue
+Technopedia: Medical Devices,GUDID URL,5.34,No Issue
+Technopedia: Medical Devices,Device Record Status,0.57,No Issue
+Technopedia: Medical Devices,DI Record Publish Date,0.6,No Issue
+Technopedia: Medical Devices,Commercial Distribute End Date,5.87,No Issue
+Technopedia: Medical Devices,Commercial Distribute Status,0.06,No Issue
+Technopedia: Medical Devices,Device Type,0.07,No Issue
+Technopedia: Medical Devices,Issuing Agency,0.04,No Issue
+Technopedia: Medical Devices,Brand Name,0.7,No Issue
+Technopedia: Medical Devices,Version or Model,0.55,No Issue
+Technopedia: Medical Devices,Catalog Number,0.55,No Issue
+Technopedia: Medical Devices,Company Name,0.6,No Issue
+Technopedia: Medical Devices,Device Description,0.55,No Issue
+Technopedia: Medical Devices,DME Exempt,0.56,No Issue
+Technopedia: Medical Devices,Pre-Market Exempt,0.03,No Issue
+Technopedia: Medical Devices,Device HCTP,0.03,No Issue
+Technopedia: Medical Devices,Device Kit,0.04,No Issue
+Technopedia: Medical Devices,Device Combination Product,0.04,No Issue
+Technopedia: Medical Devices,Single Use,0.04,No Issue
+Technopedia: Medical Devices,Log Batch,5.86,No Issue
+Technopedia: Medical Devices,Serial Number,0.04,No Issue
+Technopedia: Medical Devices,Manufacturer Date,0.05,No Issue
+Technopedia: Medical Devices,Expiration Date,4.79,No Issue
+Technopedia: Medical Devices,Donation ID Number,0.06,No Issue
+Technopedia: Medical Devices,Labeled Contains NRL,0.05,No Issue
+Technopedia: Medical Devices,Labeled Contains No-NRL,5.31,No Issue
+Technopedia: Medical Devices,MRI Safety Status,0.06,No Issue
+Technopedia: Medical Devices,Prescription Use (Rx),0.56,No Issue
+Technopedia: Medical Devices,OTC,0.04,No Issue
+Technopedia: Medical Devices,Phone,8.49,No Issue
+Technopedia: Medical Devices,Email,0.61,No Issue
+Technopedia: Medical Devices,Device Packaged as Sterile,0.04,No Issue
+Technopedia: Medical Devices,Requires Sterilization Prior to Use,8.51,No Issue
+Technopedia: Medical Devices,Sterilization Method,0.06,No Issue
+Technopedia: Medical Devices,FDA Product Class,0.57,No Issue
+Technopedia: Medical Devices,FDA Product Approved Date,9.0,No Issue
+Technopedia: Medical Devices,FDA Product Code,0.56,No Issue
+Technopedia: Medical Devices,FDA Product Code Name,6.62,No Issue
+Technopedia: Medical Devices,FDA Level,0.57,No Issue
+Technopedia: Medical Devices,FDA Recall Class,1.1,No Issue
+Technopedia: Medical Devices,FDA Recall Event ID,0.56,No Issue
+Technopedia: Medical Devices,FDA Recall Number,0.55,No Issue
+Technopedia: Medical Devices,FDA Recall Posted Date,0.59,No Issue
+Technopedia: Medical Devices,FDA Recall URL,0.81,No Issue
+Technopedia: Medical Devices,FDA Reason for Recall,5.12,No Issue
+Technopedia: Medical Devices,FDA Recall Code Info Type,0.57,No Issue
+Technopedia: Medical Devices,FDA Recall Code Info Min,7.97,No Issue
+Technopedia: Medical Devices,FDA Recall Code Info Max,0.06,No Issue
+Technopedia: Medical Devices,FDA Recall Code Info Group,0.05,No Issue
+Technopedia: Medical Devices,Mfr Recall Initiation Date,13.41,No Issue
+Technopedia: Medical Devices,Mfr Recall URL,0.83,No Issue
+Technopedia: Medical Devices,Mfr Recall Reason,8.19,No Issue
+Technopedia: Medical Devices,Mfr Recall Code Info Type,0.57,No Issue
+Technopedia: Medical Devices,Mfr Recall Code Info Min,5.86,No Issue
+Technopedia: Medical Devices,Mfr Recall Code Info Max,0.06,No Issue
+Technopedia: Medical Devices,Mfr Recall Code Info Group,0.03,No Issue
+Technopedia: Medical Devices,HW Is Supported? (calc.),9.03,No Issue
+Technopedia: Medical Devices,HW Supported Reason (calc.),0.06,No Issue
+Technopedia: Medical Devices,HW EOL Year (calc.),0.06,No Issue
+Technopedia: Medical Devices,HW EOL Quarter (calc.),8.48,No Issue
+Technopedia: Medical Devices,HW EOL Date (calc.),0.58,No Issue
+Technopedia: Medical Devices,HW EOL Month (calc.),0.58,No Issue
+Technopedia: Medical Devices,HW Intro Year,0.06,No Issue
+Technopedia: Medical Devices,HW Intro Quarter,0.04,No Issue
+Technopedia: Medical Devices,HW Intro Month,0.61,No Issue
+Technopedia: Medical Devices,HW Intro Date,0.57,No Issue
+Technopedia: Medical Devices,HW Intro Exception,0.05,No Issue
+Technopedia: Medical Devices,HW Intro Range (Start),0.04,No Issue
+Technopedia: Medical Devices,HW Intro Range (End),0.05,No Issue
+Technopedia: Medical Devices,HW GA Year,0.05,No Issue
+Technopedia: Medical Devices,HW GA Quarter,0.07,No Issue
+Technopedia: Medical Devices,HW GA Month,0.62,No Issue
+Technopedia: Medical Devices,HW GA Date,0.63,No Issue
+Technopedia: Medical Devices,HW GA Exception,4.8,No Issue
+Technopedia: Medical Devices,HW GA Range (Start),0.06,No Issue
+Technopedia: Medical Devices,HW GA Range (End),0.58,No Issue
+Technopedia: Medical Devices,HW LastAvail Year,5.35,No Issue
+Technopedia: Medical Devices,HW LastAvail Quarter,0.58,No Issue
+Technopedia: Medical Devices,HW LastAvail Month,0.08,No Issue
+Technopedia: Medical Devices,HW LastAvail Date,0.08,No Issue
+Technopedia: Medical Devices,HW LastAvail Exception,0.56,No Issue
+Technopedia: Medical Devices,HW LastAvail Range (Start),0.05,No Issue
+Technopedia: Medical Devices,HW LastAvail Range (End),0.05,No Issue
+Technopedia: Medical Devices,HW OBS Year,0.62,No Issue
+Technopedia: Medical Devices,HW OBS Quarter,0.07,No Issue
+Technopedia: Medical Devices,HW OBS Month,0.05,No Issue
+Technopedia: Medical Devices,HW OBS Date,0.05,No Issue
+Technopedia: Medical Devices,HW OBS Exception,0.05,No Issue
+Technopedia: Medical Devices,HW OBS Range (Start),0.05,No Issue
+Technopedia: Medical Devices,HW OBS Range (End),0.57,No Issue
+Technopedia: Medical Devices,HW Currency Code,0.58,No Issue
+Technopedia: Medical Devices,HW Minimum price,12.19,No Issue
+Technopedia: Medical Devices,HW Average price,4.8,No Issue
+Technopedia: Medical Devices,HW Maximum price,0.59,No Issue
+Technopedia: Medical Devices,HW Profile,0.58,No Issue
+Technopedia: Medical Devices,HW Mounting,0.59,No Issue
+Technopedia: Medical Devices,HW Min Depth (in),0.57,No Issue
+Technopedia: Medical Devices,HW Max Depth (in),4.79,No Issue
+Technopedia: Medical Devices,HW Min Height (in),0.58,No Issue
+Technopedia: Medical Devices,HW Max Height (in),0.56,No Issue
+Technopedia: Medical Devices,HW Min Width (in),0.7,No Issue
+Technopedia: Medical Devices,HW Max Width (in),0.56,No Issue
+Technopedia: Medical Devices,HW Min Weight (lbs),5.87,No Issue
+Technopedia: Medical Devices,HW Max Weight (lbs),0.57,No Issue
+Technopedia: Medical Devices,HW Diameter (in),11.16,No Issue
+Technopedia: Medical Devices,HW Minimum Room Size (sq ft),6.39,No Issue
+Technopedia: Medical Devices,HW Bore Size (in),0.06,No Issue
+Technopedia: Medical Devices,HW Volume (cc),0.06,No Issue
+Technopedia: Medical Devices,HW Is Energy Star?,0.57,No Issue
+Technopedia: Medical Devices,HW EPEAT Rating,0.03,No Issue
+Technopedia: Medical Devices,HW Power Type,0.06,No Issue
+Technopedia: Medical Devices,HW Power (W),0.07,No Issue
+Technopedia: Medical Devices,HW Power Rating,0.05,No Issue
+Technopedia: Medical Devices,HW AC Power Avg,5.33,No Issue
+Technopedia: Medical Devices,HW AC Avg Unit,0.56,No Issue
+Technopedia: Medical Devices,HW AC Power Max,0.62,No Issue
+Technopedia: Medical Devices,HW AC Max Unit,5.87,No Issue
+Technopedia: Medical Devices,HW AC Phase,0.06,No Issue
+Technopedia: Medical Devices,HW AC Heat Diss Avg,0.07,No Issue
+Technopedia: Medical Devices,HW AC Heat Diss Max,0.58,No Issue
+Technopedia: Medical Devices,HW AC Input Low Voltage Min,0.06,No Issue
+Technopedia: Medical Devices,HW AC Input Low Voltage Max,0.59,No Issue
+Technopedia: Medical Devices,HW AC Input Low Current Min,8.66,No Issue
+Technopedia: Medical Devices,HW AC Input Low Current Max,0.61,No Issue
+Technopedia: Medical Devices,HW AC Input High Voltage Min,0.06,No Issue
+Technopedia: Medical Devices,HW AC Input High Voltage Max,0.57,No Issue
+Technopedia: Medical Devices,HW AC Input High Current Min,0.05,No Issue
+Technopedia: Medical Devices,HW AC Input High Current Max,0.05,No Issue
+Technopedia: Medical Devices,HW AC Frequency Min,0.55,No Issue
+Technopedia: Medical Devices,HW AC Frequency Max,0.04,No Issue
+Technopedia: Medical Devices,HW DC Power Avg,0.05,No Issue
+Technopedia: Medical Devices,HW DC Power Max,0.06,No Issue
+Technopedia: Medical Devices,HW DC Heat Diss Avg,0.05,No Issue
+Technopedia: Medical Devices,HW DC Heat Diss Max,9.06,No Issue
+Technopedia: Medical Devices,HW DC Low Voltage,5.88,No Issue
+Technopedia: Medical Devices,HW DC Low Current,0.06,No Issue
+Technopedia: Medical Devices,HW DC High Voltage,0.05,No Issue
+Technopedia: Medical Devices,HW DC High Current,0.04,No Issue
+Technopedia: Medical Devices,HW Min Operating Temp,0.06,No Issue
+Technopedia: Medical Devices,HW Max Operating Temp,0.07,No Issue
+Technopedia: Medical Devices,HW Min Non-Operating Temp,0.61,No Issue
+Technopedia: Medical Devices,HW Max Non-Operating Temp,0.05,No Issue
+Technopedia: Medical Devices,HW Min Operating Humidity,8.01,No Issue
+Technopedia: Medical Devices,HW Max Operating Humidity,0.05,No Issue
+Technopedia: Medical Devices,HW Min Non-Operating Humidity,0.05,No Issue
+Technopedia: Medical Devices,HW Max Non-Operating Humidity,5.33,No Issue
+Technopedia: Medical Devices,HW Dedicated Circuit,0.06,No Issue
+Technopedia: Medical Devices,HW Plug Type (NEMA),0.59,No Issue
+Technopedia: Medical Devices,HW Battery Life (hours),4.81,No Issue
+Technopedia: Medical Devices,HW Battery Type,0.59,No Issue
+Technopedia: Medical Devices,HW Emergency Power,0.05,No Issue
+Technopedia: Medical Devices,HW Connectivity,8.0,No Issue
+Technopedia: Medical Devices,HW Connectivity Type,0.06,No Issue
+Technopedia: Medical Devices,HW Connectivity Standard,0.06,No Issue
+Technopedia: Medical Devices,HW Connectivity Standard Version,5.88,No Issue
+Technopedia: Medical Devices,HW Biomed,0.56,No Issue
+Technopedia: Medical Devices,HW Certification,0.58,No Issue
+Technopedia: Medical Devices,HW Compressed Air,0.03,No Issue
+Technopedia: Medical Devices,HW Data Line Required,0.05,No Issue
+Technopedia: Medical Devices,HW Drain,7.99,No Issue
+Technopedia: Medical Devices,HW Exhaust,0.07,No Issue
+Technopedia: Medical Devices,HW Phone Line,0.06,No Issue
+Technopedia: Medical Devices,HW Steam,10.65,No Issue
+Technopedia: Medical Devices,HW Vacuum,0.56,No Issue
+Technopedia: Medical Devices,HW Water,0.06,No Issue
+Technopedia: Medical Devices,MDS2 Document ID,0.57,No Issue
+Technopedia: Medical Devices,MDS2 Document Date,0.07,No Issue
+Technopedia: Medical Devices,MDS2 Document URL,0.63,No Issue
+Technopedia: Medical Devices,MDS2 Company Name,5.34,No Issue
+Technopedia: Medical Devices,MDS2 Representative,0.1,No Issue
+Technopedia: Medical Devices,MDS2 Manufacturer Contact,0.09,No Issue
+Technopedia: Medical Devices,MDS2 Device Intended Use,0.07,No Issue
+Technopedia: Medical Devices,MDS2 NEMA Version,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Notes Available,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Private Data Management,0.04,No Issue
+Technopedia: Medical Devices,MDS2 Private Data Type - Demographic,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Private Data Type - Medical Record,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Private Data Type - Diagnostic/therapeutic,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Private Data Type - User-entered Text,0.04,No Issue
+Technopedia: Medical Devices,MDS2 Private Data Type - Biometric Data,0.06,No Issue
+Technopedia: Medical Devices,MDS2 Private Data Type - Personal Financial,0.06,No Issue
+Technopedia: Medical Devices,MDS2 Private Data Maintenance - Temporary memory,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Private Data Maintenance - Persistent Local Media,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Private Data Maintenance - Import/Export,0.06,No Issue
+Technopedia: Medical Devices,MDS2 Private Data Maintenance - Power Interruption,0.04,No Issue
+Technopedia: Medical Devices,MDS2 Private Data Transmission - Display,0.04,No Issue
+Technopedia: Medical Devices,MDS2 Private Data Transmission - Hardcopy,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Private Data Transmission - Removable Media,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Private Data Transmission - Cable,8.59,No Issue
+Technopedia: Medical Devices,MDS2 Private Data Transmission - Wired Network,0.07,No Issue
+Technopedia: Medical Devices,MDS2 Private Data Transmission - Wireless Network,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Private Data Transmission - Scanning,4.85,No Issue
+Technopedia: Medical Devices,MDS2 Private Data Transmission - Other,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Automatic Logoff - Inactivity Lock,0.07,No Issue
+Technopedia: Medical Devices,MDS2 Automatic Logoff - Inactivity Length Configurable,0.58,No Issue
+Technopedia: Medical Devices,MDS2 Automatic Logoff - Manual Lock,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Audit Control - Audit Trail,0.06,No Issue
+Technopedia: Medical Devices,MDS2 Audit Control Type - Login/Logout,8.58,No Issue
+Technopedia: Medical Devices,MDS2 Audit Control Type - Data Display,0.07,No Issue
+Technopedia: Medical Devices,MDS2 Audit Control Type - Data Changes,0.6,No Issue
+Technopedia: Medical Devices,MDS2 Audit Control Type - Data Import/Export,0.57,No Issue
+Technopedia: Medical Devices,MDS2 Audit Control Type - Data Transmission,0.04,No Issue
+Technopedia: Medical Devices,MDS2 Audit Control Type - Remote Activity,0.04,No Issue
+Technopedia: Medical Devices,MDS2 Audit Control Type - Other,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Audit Control Identifier - User ID,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Audit Control Identifier - Date/Time,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Authorization - Unauthorized User Prevention,0.07,No Issue
+Technopedia: Medical Devices,MDS2 Authorization - Role-Based Privileges,0.04,No Issue
+Technopedia: Medical Devices,MDS2 Authorization - Admin Privilege,0.04,No Issue
+Technopedia: Medical Devices,MDS2 Security Configuration - Configurable,0.04,No Issue
+Technopedia: Medical Devices,MDS2 Product Upgrades - OS and Security Patches,0.06,No Issue
+Technopedia: Medical Devices,MDS2 Product Upgrades - Remote Patches,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Data De-Identify Capability,0.6,No Issue
+Technopedia: Medical Devices,MDS2 Data backup Capability,0.03,No Issue
+Technopedia: Medical Devices,MDS2 Emergency Access Feature,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Data Integrity - Error Detection/Correction Technology,0.56,No Issue
+Technopedia: Medical Devices,MDS2 Malware Protection Support,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Malware Protection - User Configurable,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Malware Protection - Notification,0.03,No Issue
+Technopedia: Medical Devices,MDS2 Malware Protection - Manufacturer-Authorized Repair Only,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Malware Protection - Owner Install/Update,8.04,No Issue
+Technopedia: Medical Devices,MDS2 Malware Protection - Owner Virus Definition Update,0.06,No Issue
+Technopedia: Medical Devices,MDS2 Node Authentication Support,0.07,No Issue
+Technopedia: Medical Devices,MDS2 Person Authentication - Single User,5.36,No Issue
+Technopedia: Medical Devices,MDS2 Person Authentication - Multi User,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Person Authentication - External Authentication Service,0.58,No Issue
+Technopedia: Medical Devices,MDS2 Person Authentication - Unsuccessful Logon Attempts Lock,0.06,No Issue
+Technopedia: Medical Devices,MDS2 Person Authentication - Change Default Password,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Person Authentication - Shared User ID,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Person Authentication - Password Complexity Rules,8.04,No Issue
+Technopedia: Medical Devices,MDS2 Person Authentication - Password Expiration,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Whole Device Physical Locks,0.04,No Issue
+Technopedia: Medical Devices,MDS2 Third-Party Support in Roadmap - Operating Systems,5.38,No Issue
+Technopedia: Medical Devices,MDS2 Third-Party Support in Roadmap - List is Provided,0.05,No Issue
+Technopedia: Medical Devices,"MDS2 Hardening Measure - Employed, Conformance Level",0.06,No Issue
+Technopedia: Medical Devices,MDS2 Hardening Measure - Manufacturer-Authorized Program/Update,0.07,No Issue
+Technopedia: Medical Devices,MDS2 External Communication Capability,0.05,No Issue
+Technopedia: Medical Devices,MDS2 File-Level Access Control Capability,0.04,No Issue
+Technopedia: Medical Devices,MDS2 Non-required Accounts Disabled,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Selective Disablement of Shared Resources,0.04,No Issue
+Technopedia: Medical Devices,MDS2 Selective Disablement of Communication Ports,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Selective Disablement of Services,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Selective Disablement of Applications,0.07,No Issue
+Technopedia: Medical Devices,MDS2 Boot from Removable Media,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Install Non-Manufacturer Authorized Software/Hardware,0.59,No Issue
+Technopedia: Medical Devices,MDS2 Security Features Documented,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Device/Media Sanitization Instructions,0.04,No Issue
+Technopedia: Medical Devices,MDS2 Device Encrypt Data At Rest,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Transmission Confidentiality - Dedicated Cable Data Transmission Only,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Transmission Confidentiality - Encrypted Data Transmission,0.05,No Issue
+Technopedia: Medical Devices,MDS2 Transmission Confidentiality - Fixed List Transmission Destinations,0.58,No Issue
+Technopedia: Medical Devices,MDS2 Transmission Integrity Support,0.06,No Issue
+Technopedia: Medical Devices,MDS2 Remote Service,8.04,No Issue
+Technopedia: Medical Devices,MDS2 Remote Access Restrictions,0.04,No Issue
+Technopedia: Medical Devices,MDS2 Accept or Initiate Remote Access,0.05,No Issue
+Technopedia: Medical Devices,MDS2 SW Vertical,10.67,No Issue
+Technopedia: Medical Devices,MDS2 SW Category,0.56,No Issue
+Technopedia: Medical Devices,MDS2 SW Subcategory,0.05,No Issue
+Technopedia: Medical Devices,MDS2 SW Vendor Category,0.06,No Issue
+Technopedia: Medical Devices,MDS2 SW Manufacturer,0.04,No Issue
+Technopedia: Medical Devices,MDS2 SW Family,0.05,No Issue
+Technopedia: Medical Devices,MDS2 SW Name,8.55,No Issue
+Technopedia: Medical Devices,MDS2 SW Component,0.08,No Issue
+Technopedia: Medical Devices,MDS2 SW Market Version,0.05,No Issue
+Technopedia: Medical Devices,MDS2 SW Version,8.05,No Issue
+Technopedia: Medical Devices,MDS2 SW Service Pack,0.06,No Issue
+Technopedia: Medical Devices,MDS2 SW Edition,0.05,No Issue
+Technopedia: Medical Devices,MDS2 SW Is Licensable?,0.57,No Issue
+Technopedia: Medical Devices,MDS2 SW Is Suite?,0.06,No Issue
+Technopedia: Medical Devices,HW Product Count_measure,0.56,No Issue
+Technopedia: Medical Devices,HW Model Count_measure,0.06,No Issue
+Technopedia: Medical Devices,HW Minimum price_measure,0.55,No Issue
+Technopedia: Medical Devices,HW Average price_measure,0.07,No Issue
+Technopedia: Medical Devices,HW Maximum price_measure,0.05,No Issue
+Technopedia: Medical Devices,HW Min Depth (in)_measure,5.87,No Issue
+Technopedia: Medical Devices,HW Max Depth (in)_measure,0.07,No Issue
+Technopedia: Medical Devices,HW Min Height (in)_measure,0.06,No Issue
+Technopedia: Medical Devices,HW Max Height (in)_measure,0.06,No Issue
+Technopedia: Medical Devices,HW Min Width (in)_measure,0.57,No Issue
+Technopedia: Medical Devices,HW Max Width (in)_measure,0.05,No Issue
+Technopedia: Medical Devices,HW Min Weight (lbs)_measure,0.06,No Issue
+Technopedia: Medical Devices,HW Max Weight (lbs)_measure,8.54,No Issue
+Technopedia: Medical Devices,HW AVG Power (W)_measure,0.06,No Issue
+Technopedia: Medical Devices,HW AC Power Avg_measure,0.05,No Issue
+Technopedia: Medical Devices,HW AC Power Max_measure,0.06,No Issue
+Technopedia: Medical Devices,HW AC Heat Diss Avg (BTU/hr)_measure,0.57,No Issue
+Technopedia: Medical Devices,HW AC Heat Diss Max (BTU/hr)_measure,0.04,No Issue
+Technopedia: Medical Devices,HW AC Input Low Voltage Min_measure,0.05,No Issue
+Technopedia: Medical Devices,HW AC Input Low Voltage Max_measure,0.07,No Issue
+Technopedia: Medical Devices,HW AC Input Low Current Min_measure,0.05,No Issue
+Technopedia: Medical Devices,HW AC Input Low Current Max_measure,0.05,No Issue
+Technopedia: Medical Devices,HW AC Input High Voltage Min_measure,0.05,No Issue
+Technopedia: Medical Devices,HW AC Input High Voltage Max_measure,0.04,No Issue
+Technopedia: Medical Devices,HW AC Input High Current Min_measure,0.04,No Issue
+Technopedia: Medical Devices,HW AC Input High Current Max_measure,0.04,No Issue
+Technopedia: Medical Devices,HW AC Frequency Min_measure,0.05,No Issue
+Technopedia: Medical Devices,HW AC Frequency Max_measure,5.95,No Issue
+Technopedia: Medical Devices,HW DC Power Avg_measure,0.04,No Issue
+Technopedia: Medical Devices,HW DC Power Max_measure,0.06,No Issue
+Technopedia: Medical Devices,HW DC Heat Diss Avg (BTU/hr)_measure,0.07,No Data
+Technopedia: Medical Devices,HW DC Heat Diss Max (BTU/hr)_measure,0.56,No Issue
+Technopedia: Medical Devices,HW DC Low Voltage_measure,0.05,No Issue
+Technopedia: Medical Devices,HW DC Low Current_measure,0.04,No Issue
+Technopedia: Medical Devices,HW DC High Voltage_measure,9.63,No Issue
+Technopedia: Medical Devices,HW DC High Current_measure,0.58,No Issue
+Technopedia: Medical Devices,HW Min Operating Temp (F)_measure,0.06,No Issue
+Technopedia: Medical Devices,HW Max Operating Temp (F)_measure,0.04,No Issue
+Technopedia: Medical Devices,HW Min Non-Operating Temp (F)_measure,0.05,No Issue
+Technopedia: Medical Devices,HW Max Non-Operating Temp (F)_measure,0.55,No Issue
+Technopedia: Medical Devices,HW Min Operating Humidity (%)_measure,0.04,No Issue
+Technopedia: Medical Devices,HW Max Operating Humidity (%)_measure,0.04,No Issue
+Technopedia: Medical Devices,HW Min Non-Operating Humidity (%)_measure,5.39,No Issue
+Technopedia: Medical Devices,HW Max Non-Operating Humidity (%)_measure,0.07,No Issue
+Cube,Attribute,Time(second),Error type
+Technopedia: Software,SW Vertical,1.13,No Issue
+Technopedia: Software,SW Category,6.39,No Issue
+Technopedia: Software,SW Subcategory,6.4,No Issue
+Technopedia: Software,SW Vendor Category,6.38,No Issue
+Technopedia: Software,SW Manufacturer,6.38,No Issue
+Technopedia: Software,SW Family,6.38,No Issue
+Technopedia: Software,SW Name,7.46,No Issue
+Technopedia: Software,SW Component,10.3,No Issue
+Technopedia: Software,SW Market Version,14.36,No Issue
+Technopedia: Software,SW Version,37.03,No Issue
+Technopedia: Software,SW Service Pack,180.0,Time out
+Technopedia: Software,SW Edition,17.43,No Issue
+Technopedia: Software,SW Release ID,180.0,Time out
+Technopedia: Software,SW Is Licensable?,8.02,No Issue
+Technopedia: Software,SW Is Suite?,2.68,No Issue
+Technopedia: Software,SW Suite,1.08,No Issue
+Technopedia: Software,SW Is Suite Component?,0.03,No Issue
+Technopedia: Software,SW Suite Component,0.56,No Issue
+Technopedia: Software,SW Cloud or On-Premise?,0.57,No Issue
+Technopedia: Software,SW On-premise equivalent,0.05,No Issue
+Technopedia: Software,SW Cloud equivalent,0.05,No Issue
+Technopedia: Software,SW Former Product,6.95,No Issue
+Technopedia: Software,SW Later Product,26.58,No Issue
+Technopedia: Software,SW Oldest Product,14.99,No Issue
+Technopedia: Software,SW Latest Product,3.21,No Issue
+Technopedia: Software,SW Release Platform,6.38,No Issue
+Technopedia: Software,SW Platform Type,6.37,No Issue
+Technopedia: Software,SW EOL Year (calc.),2.68,No Issue
+Technopedia: Software,SW EOL Quarter (calc.),3.24,No Issue
+Technopedia: Software,SW EOL Month (calc.),2.67,No Issue
+Technopedia: Software,SW EOL Date (calc.),6.4,No Issue
+Technopedia: Software,SW Is Supported? (calc.),2.66,No Issue
+Technopedia: Software,SW Supported Reason (calc.),3.2,No Issue
+Technopedia: Software,SW Desupported? (calc.),3.2,No Issue
+Technopedia: Software,SW Version Order (calc.),3.23,No Issue
+Technopedia: Software,SW Max Versions (calc.),2.69,No Issue
+Technopedia: Software,SW Versions (calc.),2.74,No Issue
+Technopedia: Software,SW GA Year,2.68,No Issue
+Technopedia: Software,SW GA Quarter,2.68,No Issue
+Technopedia: Software,SW GA Month,3.2,No Issue
+Technopedia: Software,SW GA Date,3.2,No Issue
+Technopedia: Software,SW GA Exception,2.69,No Issue
+Technopedia: Software,SW GA Range (Start),2.83,No Issue
+Technopedia: Software,SW GA Range (End),3.38,No Issue
+Technopedia: Software,SW EOL Year,3.21,No Issue
+Technopedia: Software,SW EOL Quarter,3.2,No Issue
+Technopedia: Software,SW EOL Month,2.77,No Issue
+Technopedia: Software,SW EOL Date,3.21,No Issue
+Technopedia: Software,SW EOL Support Level,3.2,No Issue
+Technopedia: Software,SW EOL Exception,2.72,No Issue
+Technopedia: Software,SW EOL Range (Start),2.7,No Issue
+Technopedia: Software,SW EOL Range (End),3.19,No Issue
+Technopedia: Software,SW OBS Year,3.21,No Issue
+Technopedia: Software,SW OBS Quarter,2.68,No Issue
+Technopedia: Software,SW OBS Month,2.7,No Issue
+Technopedia: Software,SW OBS Date,6.44,No Issue
+Technopedia: Software,SW OBS Support Level,3.28,No Issue
+Technopedia: Software,SW OBS Exception,3.21,No Issue
+Technopedia: Software,SW OBS Range (Start),2.69,No Issue
+Technopedia: Software,SW OBS Range (End),3.22,No Issue
+Technopedia: Software,SW Support Policy,6.37,No Issue
+Technopedia: Software,SW Support Stage,6.39,No Issue
+Technopedia: Software,SW Support Stage Order,6.4,No Issue
+Technopedia: Software,SW Support Stage Definition,6.68,No Issue
+Technopedia: Software,SW Currency Code,0.56,No Issue
+Technopedia: Software,SW Minimum price,0.55,No Issue
+Technopedia: Software,SW Average price,0.59,No Issue
+Technopedia: Software,SW Maximum price,0.56,No Issue
+Technopedia: Software,OSS Type,1.08,No Issue
+Technopedia: Software,OSS Category,0.58,No Issue
+Technopedia: Software,OSS License,0.56,No Issue
+Technopedia: Software,OSS Is Primary License?,0.56,No Issue
+Technopedia: Software,OSS Keywords,0.56,No Issue
+Technopedia: Software,OSS Source,0.57,No Issue
+Technopedia: Software,PRI Is Private?,0.05,No Data
+Technopedia: Software,PRI Type,0.06,No Data
+Technopedia: Software,PRI Table,0.04,No Data
+Technopedia: Software,PRI Attribute,0.04,No Data
+Technopedia: Software,IND,0.05,No Issue
+Technopedia: Software,BDNA SW Category,0.02,No Issue
+Technopedia: Software,BDNA SW Sub Category,0.58,No Issue
+Technopedia: Software,SW Supplier,0.04,No Issue
+Technopedia: Software,SW Name,0.06,No Issue
+Technopedia: Software,SW Product Count_measure,1.64,No Issue
+Technopedia: Software,SW Version Count_measure,1.09,No Issue
+Technopedia: Software,SW Edition Count_measure,1.1,No Issue
+Technopedia: Software,SW Release Count_measure,1.61,No Issue
+Technopedia: Software,SW Minimum price_measure,1.1,No Issue
+Technopedia: Software,SW Average price_measure,1.09,No Issue
+Technopedia: Software,SW Maximum price_measure,1.1,No Issue
+Cube,Attribute,Time(second),Error type
+Technopedia: Software Procurement,SW Vertical,0.05,No Issue
+Technopedia: Software Procurement,SW Category,6.41,No Issue
+Technopedia: Software Procurement,SW Subcategory,3.2,No Issue
+Technopedia: Software Procurement,SW Vendor Category,3.21,No Issue
+Technopedia: Software Procurement,SW Manufacturer,6.41,No Issue
+Technopedia: Software Procurement,SW Family,6.38,No Issue
+Technopedia: Software Procurement,SW Name,7.43,No Issue
+Technopedia: Software Procurement,SW Component,14.33,No Issue
+Technopedia: Software Procurement,SW Market Version,82.14,No Issue
+Technopedia: Software Procurement,SW Version,180.0,Time out
+Technopedia: Software Procurement,SW Service Pack,180.0,Time out
+Technopedia: Software Procurement,SW Edition,16.49,No Issue
+Technopedia: Software Procurement,SW Release ID,20.14,No Issue
+Technopedia: Software Procurement,SW Is Licensable?,6.4,No Issue
+Technopedia: Software Procurement,SW Is Suite?,3.2,No Issue
+Technopedia: Software Procurement,SW Suite,5.52,No Issue
+Technopedia: Software Procurement,SW Is Suite Component?,0.56,No Issue
+Technopedia: Software Procurement,SW Suite Component,0.55,No Issue
+Technopedia: Software Procurement,SW Cloud or On-Premise?,0.04,No Issue
+Technopedia: Software Procurement,SW On-premise equivalent,0.04,No Issue
+Technopedia: Software Procurement,SW Cloud equivalent,0.58,No Issue
+Technopedia: Software Procurement,SW Is Supported? (calc.),3.21,No Issue
+Technopedia: Software Procurement,SW Supported Reason (calc.),3.23,No Issue
+Technopedia: Software Procurement,SW Desupported? (calc.),3.21,No Issue
+Technopedia: Software Procurement,SW Version Order (calc.),6.41,No Issue
+Technopedia: Software Procurement,SW Max Versions (calc.),6.38,No Issue
+Technopedia: Software Procurement,SW Versions (calc.),6.38,No Issue
+Technopedia: Software Procurement,SW EOL Year (calc.),6.4,No Issue
+Technopedia: Software Procurement,SW EOL Quarter (calc.),2.71,No Issue
+Technopedia: Software Procurement,SW EOL Month (calc.),3.22,No Issue
+Technopedia: Software Procurement,SW EOL Date (calc.),6.38,No Issue
+Technopedia: Software Procurement,SW Mfr Part Number,6.38,No Issue
+Technopedia: Software Procurement,SW Mfr Currency Code,6.38,No Issue
+Technopedia: Software Procurement,SW Mfr List Price,16.58,No Issue
+Technopedia: Software Procurement,SW Mfr Actual Price,46.24,No Issue
+Technopedia: Software Procurement,SW Lic Types,1.62,No Issue
+Technopedia: Software Procurement,SW Lic Metrics,1.62,No Issue
+Technopedia: Software Procurement,SW Lic Price Levels,1.65,No Issue
+Technopedia: Software Procurement,SW Lic Pricings,1.61,No Issue
+Technopedia: Software Procurement,SW Lic Programs,1.69,No Issue
+Technopedia: Software Procurement,SW Lic Distribution Medias,1.61,No Issue
+Technopedia: Software Procurement,SW Lic Environments,1.63,No Issue
+Technopedia: Software Procurement,SW Lic Languages,1.63,No Issue
+Technopedia: Software Procurement,SW Lic Maintenance Grades,1.63,No Issue
+Technopedia: Software Procurement,SW Lic Vendor Product Name,1.61,No Issue
+Technopedia: Software Procurement,SW Lic Vendor Unit Measure,1.62,No Issue
+Technopedia: Software Procurement,SW Lic Unit Pack,1.64,No Issue
+Technopedia: Software Procurement,SW Lic Unit Count Min,1.63,No Issue
+Technopedia: Software Procurement,SW Lic Unit Count Max,2.32,No Issue
+Technopedia: Software Procurement,SW Lic License Term,1.75,No Issue
+Technopedia: Software Procurement,SW Lic Period Unit,2.15,No Issue
+Technopedia: Software Procurement,SW Lic Period Value,2.14,No Issue
+Technopedia: Software Procurement,SW Lic Maintenance Period Unit,2.15,No Issue
+Technopedia: Software Procurement,SW Lic Maintenance Period Value,2.18,No Issue
+Technopedia: Software Procurement,SW Lic Downgrade Version Auth,2.71,No Issue
+Technopedia: Software Procurement,SW Lic Downgrade Version Incr,2.24,No Issue
+Technopedia: Software Procurement,SW Lic Downgrade Edition Auth,2.67,No Issue
+Technopedia: Software Procurement,SW Lic Downgrade Edition Incr,2.7,No Issue
+Technopedia: Software Procurement,SW Lic Downgrade Date Months Min,2.85,No Issue
+Technopedia: Software Procurement,SW Lic Downgrade Date Months Max,2.35,No Issue
+Technopedia: Software Procurement,SW Lic Upgrade Version Auth,2.68,No Issue
+Technopedia: Software Procurement,SW Lic Upgrade Version Incr,2.68,No Issue
+Technopedia: Software Procurement,SW Lic Upgrade Edition Auth,2.67,No Issue
+Technopedia: Software Procurement,SW Lic Upgrade Edition Incr,2.73,No Issue
+Technopedia: Software Procurement,SW Lic Upgrade Date Months Min,2.7,No Issue
+Technopedia: Software Procurement,SW Lic Upgrade Date Months Max,2.69,No Issue
+Technopedia: Software Procurement,SW Lic Dual License Auth,2.71,No Issue
+Technopedia: Software Procurement,SW Lic Virtual Install Auth,2.87,No Issue
+Technopedia: Software Procurement,SW Lic Virtual Install Max,2.74,No Issue
+Technopedia: Software Procurement,SW Lic Reassignment Auth,3.21,No Issue
+Technopedia: Software Procurement,SW Lic Cross Language Auth,3.21,No Issue
+Technopedia: Software Procurement,SW Lic Cross Platforms Auth,3.22,No Issue
+Technopedia: Software Procurement,SW Lic Core Factor,3.22,No Issue
+Technopedia: Software Procurement,SW Lic Type,1.09,No Issue
+Technopedia: Software Procurement,SW Lic Metric 1,1.62,No Issue
+Technopedia: Software Procurement,SW Lic Metric 2,1.12,No Issue
+Technopedia: Software Procurement,SW Lic Metric Max Value,1.62,No Issue
+Technopedia: Software Procurement,SW Lic Metric Min Value,1.2,No Issue
+Technopedia: Software Procurement,SW Lic Price Level,0.55,No Issue
+Technopedia: Software Procurement,SW Lic Price Level Definition,0.56,No Issue
+Technopedia: Software Procurement,SW Lic Price Level URL,0.56,No Issue
+Technopedia: Software Procurement,SW Lic Pricing,0.57,No Issue
+Technopedia: Software Procurement,SW Lic Pricing Definition,0.05,No Issue
+Technopedia: Software Procurement,SW Lic Pricing URL,0.6,No Issue
+Technopedia: Software Procurement,SW Lic Program,1.63,No Issue
+Technopedia: Software Procurement,SW Lic Program Definition,1.1,No Issue
+Technopedia: Software Procurement,SW Lic Program URL,1.61,No Issue
+Technopedia: Software Procurement,SW Lic Distribution Media,0.57,No Issue
+Technopedia: Software Procurement,SW Lic Distribution Quantity,0.03,No Issue
+Technopedia: Software Procurement,SW Lic Environment,0.56,No Issue
+Technopedia: Software Procurement,SW Lic Language,0.56,No Issue
+Technopedia: Software Procurement,SW Lic Maintenance Grade,0.56,No Issue
+Technopedia: Software Procurement,SW Lic Maintenance Grade Definition,0.56,No Issue
+Technopedia: Software Procurement,SW Lic Maintenance Grade URL,0.61,No Issue
+Technopedia: Software Procurement,SW Lic Upg from SW Manufacturer,0.58,No Issue
+Technopedia: Software Procurement,SW Lic Upg from SW Product,0.63,No Issue
+Technopedia: Software Procurement,SW Lic Addl SW Manufacturer,0.58,No Issue
+Technopedia: Software Procurement,SW Lic Addl SW Product,0.56,No Issue
+Technopedia: Software Procurement,PRI Is Private?,0.05,No Data
+Technopedia: Software Procurement,PRI Type,0.05,No Data
+Technopedia: Software Procurement,PRI Table,0.05,No Data
+Technopedia: Software Procurement,PRI Attribute,0.05,No Data
+Technopedia: Software Procurement,IND,0.05,No Issue
+Technopedia: Software Procurement,BDNA SW Category,0.04,No Issue
+Technopedia: Software Procurement,BDNA SW Sub Category,0.04,No Issue
+Technopedia: Software Procurement,SW Supplier,0.04,No Issue
+Technopedia: Software Procurement,SW Name,0.07,No Issue
+Technopedia: Software Procurement,SW Product Count_measure,1.12,No Issue
+Technopedia: Software Procurement,SW Version Count_measure,1.1,No Issue
+Technopedia: Software Procurement,SW Edition Count_measure,1.09,No Issue
+Technopedia: Software Procurement,SW Release Count_measure,1.11,No Issue
+Technopedia: Software Procurement,SW Mfr Min List Price_measure,1.1,No Issue
+Technopedia: Software Procurement,SW Mfr Max List Price_measure,1.64,No Issue
+Technopedia: Software Procurement,SW Mfr Min Actual Price_measure,1.1,No Issue
+Technopedia: Software Procurement,SW Mfr Max Actual Price_measure,1.64,No Issue
+Cube,Attribute,Time(second),Error type
+Technopedia: Software Security,SW Vertical,0.06,No Issue
+Technopedia: Software Security,SW Category,6.36,No Issue
+Technopedia: Software Security,SW Subcategory,3.21,No Issue
+Technopedia: Software Security,SW Vendor Category,3.22,No Issue
+Technopedia: Software Security,SW Manufacturer,6.38,No Issue
+Technopedia: Software Security,SW Family,6.36,No Issue
+Technopedia: Software Security,SW Name,6.96,No Issue
+Technopedia: Software Security,SW Component,39.65,No Issue
+Technopedia: Software Security,SW Market Version,174.12,No Issue
+Technopedia: Software Security,SW Version,180.0,Time out
+Technopedia: Software Security,SW Service Pack,180.0,Time out
+Technopedia: Software Security,SW Edition,6.4,No Issue
+Technopedia: Software Security,SW Release ID,180.0,Time out
+Technopedia: Software Security,SW Is Licensable?,7.96,No Issue
+Technopedia: Software Security,SW Is Suite?,6.38,No Issue
+Technopedia: Software Security,SW Suite,0.56,No Issue
+Technopedia: Software Security,SW Is Suite Component?,0.57,No Issue
+Technopedia: Software Security,SW Suite Component,0.56,No Issue
+Technopedia: Software Security,SW Cloud or On-Premise?,0.04,No Issue
+Technopedia: Software Security,SW On-premise equivalent,0.05,No Issue
+Technopedia: Software Security,SW Cloud equivalent,0.06,No Issue
+Technopedia: Software Security,SW EOL Year (calc.),6.39,No Issue
+Technopedia: Software Security,SW EOL Quarter (calc.),10.11,No Issue
+Technopedia: Software Security,SW EOL Month (calc.),6.4,No Issue
+Technopedia: Software Security,SW EOL Date (calc.),7.96,No Issue
+Technopedia: Software Security,SW Is Supported? (calc.),6.42,No Issue
+Technopedia: Software Security,SW Supported Reason (calc.),6.35,No Issue
+Technopedia: Software Security,SW Desupported? (calc.),6.38,No Issue
+Technopedia: Software Security,SW Version Order (calc.),6.36,No Issue
+Technopedia: Software Security,SW Max Versions (calc.),11.19,No Issue
+Technopedia: Software Security,SW Versions (calc.),3.24,No Issue
+Technopedia: Software Security,SW CPE Definition,9.01,No Issue
+Technopedia: Software Security,SW CPE Part,0.03,No Issue
+Technopedia: Software Security,SW CPE Vendor,0.65,No Issue
+Technopedia: Software Security,SW CPE Product,5.3,No Issue
+Technopedia: Software Security,SW CPE Edition,0.55,No Issue
+Technopedia: Software Security,SW CPE URI,12.73,No Issue
+Technopedia: Software Security,SW CPE CVSS Max Score,0.05,No Issue
+Technopedia: Software Security,SW CPE CVSS Max Severity,0.06,No Issue
+Technopedia: Software Security,SW CVE Count,0.55,No Issue
+Technopedia: Software Security,SW CVE CVSS Severity,1.09,No Issue
+Technopedia: Software Security,SW CVE CVSS Score,0.58,No Issue
+Technopedia: Software Security,PRI Is Private?,0.04,No Data
+Technopedia: Software Security,PRI Type,0.04,No Data
+Technopedia: Software Security,PRI Table,0.04,No Data
+Technopedia: Software Security,PRI Attribute,0.04,No Data
+Technopedia: Software Security,IND,0.05,No Issue
+Technopedia: Software Security,BDNA SW Category,0.03,No Issue
+Technopedia: Software Security,BDNA SW Sub Category,0.03,No Issue
+Technopedia: Software Security,SW Supplier,0.05,No Issue
+Technopedia: Software Security,SW Name,0.06,No Issue
+Technopedia: Software Security,SW Product Count_measure,2.16,No Issue
+Technopedia: Software Security,SW Version Count_measure,2.14,No Issue
+Technopedia: Software Security,SW Edition Count_measure,1.62,No Issue
+Technopedia: Software Security,SW Release Count_measure,2.66,No Issue
+Technopedia: Software Security,SW CVE Count_measure,1.1,No Issue
+Technopedia: Software Security,SW Max CVSS Score_measure,1.08,No Issue
+Cube,Attribute,Time(second),Error type
+Technopedia: Software Virtualization Compatibility,SW Vertical,0.08,No Issue
+Technopedia: Software Virtualization Compatibility,SW Category,6.4,No Issue
+Technopedia: Software Virtualization Compatibility,SW Subcategory,6.39,No Issue
+Technopedia: Software Virtualization Compatibility,SW Vendor Category,6.41,No Issue
+Technopedia: Software Virtualization Compatibility,SW Manufacturer,9.03,No Issue
+Technopedia: Software Virtualization Compatibility,SW Family,20.13,No Issue
+Technopedia: Software Virtualization Compatibility,SW Name,27.58,No Issue
+Technopedia: Software Virtualization Compatibility,SW Component,61.82,No Issue
+Technopedia: Software Virtualization Compatibility,SW Market Version,180.0,Time out
+Technopedia: Software Virtualization Compatibility,SW Version,174.8,Java Exception: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.RuntimeException: java.lang.OutOfMemoryError: GC overhead limit exceeded     at com.pentaho.analyzer.report.ReportRequestService.get(SourceFile:219)     at com.pentaho.analyzer.content.controller.n.a(SourceFile:168)     at com.pentaho.analyzer.content.controller.b.b(SourceFile:202)     at com.pentaho.analyzer.content.AnalyzerContentGenerator.a(SourceFile:311)     at com.pentaho.analyzer.content.AnalyzerContentGenerator.createContent(SourceFile:157)     at org.pentaho.platform.web.http.api.resources.GeneratorStreamingOutput.generateContent(GeneratorStreamingOutput.java:236)     at org.pentaho.platform.web.http.api.resources.GeneratorStreamingOutput.write(GeneratorStreamingOutput.java:163)     at org.pentaho.platform.web.http.api.resources.GeneratorStreamingOutputProvider.writeTo(GeneratorStreamingOutputProvider.java:54)     at org.pentaho.platform.web.http.api.resources.GeneratorStreamingOutputProvider.writeTo(GeneratorStreamingOutputProvider.java:33)     at com.sun.jersey.spi.container.ContainerResponse.write(ContainerResponse.java:306)     at com.sun.jersey.server.impl.application.WebApplicationImpl._handleRequest(WebApplicationImpl.java:1479)     at com.sun.jersey.server.impl.application.WebApplicationImpl.handleRequest(WebApplicationImpl.java:1391)     at com.sun.jersey.server.impl.application.WebApplicationImpl.handleRequest(WebApplicationImpl.java:1381)     at com.sun.jersey.spi.container.servlet.WebComponent.service(WebComponent.java:416)     at com.sun.jersey.spi.container.servlet.ServletContainer.service(ServletContainer.java:538)     at com.sun.jersey.spi.container.servlet.ServletContainer.service(ServletContainer.java:716)     at org.pentaho.platform.web.servlet.JAXRSServlet.service(JAXRSServlet.java:109)     at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)     at org.pentaho.platform.web.servlet.JAXRSServlet.service(JAXRSServlet.java:114)     at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)     at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)     at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)     at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)     at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)     at org.pentaho.platform.web.http.filters.PentahoWebContextFilter.doFilter(PentahoWebContextFilter.java:177)     at com.pentaho.platform.web.http.filters.PentahoEnterpriseWebContextFilter.doFilter(SourceFile:72)     at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)     at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)     at org.pentaho.platform.web.http.filters.PentahoRequestContextFilter.doFilter(PentahoRequestContextFilter.java:87)     at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)     at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)     at org.springframework.security.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:399)     at org.springframework.security.intercept.web.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:109)     at org.springframework.security.intercept.web.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:83)     at org.springframework.security.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:411)     at org.springframework.security.ui.ExceptionTranslationFilter.doFilterHttp(ExceptionTranslationFilter.java:101)     at org.springframework.security.ui.SpringSecurityFilter.doFilter(SpringSecurityFilter.java:53)     at org.springframework.security.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:411)     at org.springframework.security.providers.anonymous.AnonymousProcessingFilter.doFilterHttp(AnonymousProcessingFilter.java:105)     at org.springframework.security.ui.SpringSecurityFilter.doFilter(SpringSecurityFilter.java:53)     at org.springframework.security.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:411)     at org.springframework.security.ui.basicauth.BasicProcessingFilter.doFilterHttp(BasicProcessingFilter.java:174)     at org.pentaho.platform.web.http.security.PentahoBasicProcessingFilter.doFilterHttp(PentahoBasicProcessingFilter.java:115)     at org.springframework.security.ui.SpringSecurityFilter.doFilter(SpringSecurityFilter.java:53)     at org.springframework.security.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:411)     at org.springframework.security.context.HttpSessionContextIntegrationFilter.doFilterHttp(HttpSessionContextIntegrationFilter.java:235)     at org.springframework.security.ui.SpringSecurityFilter.doFilter(SpringSecurityFilter.java:53)     at org.springframework.security.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:411)     at org.pentaho.platform.web.http.filters.HttpSessionPentahoSessionIntegrationFilter.doFilter(HttpSessionPentahoSessionIntegrationFilter.java:263)     at org.springframework.security.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:411)     at org.springframework.security.wrapper.SecurityContextHolderAwareRequestFilter.doFilterHttp(SecurityContextHolderAwareRequestFilter.java:91)     at org.springframework.security.ui.SpringSecurityFilter.doFilter(SpringSecurityFilter.java:53)     at org.springframework.security.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:411)     at org.springframework.security.util.FilterChainProxy.doFilter(FilterChainProxy.java:188)     at org.springframework.security.util.FilterToBeanProxy.doFilter(FilterToBeanProxy.java:99)     at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)     at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)     at org.pentaho.platform.web.http.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:114)     at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)     at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)     at org.pentaho.platform.web.http.filters.WebappRootForwardingFilter.doFilter(WebappRootForwardingFilter.java:70)     at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)     at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)     at org.pentaho.platform.web.http.filters.PentahoPathDecodingFilter.doFilter(PentahoPathDecodingFilter.java:34)     at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)     at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)     at com.bdna.filter.LicenseFilter.doFilter(LicenseFilter.java:49)     at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)     at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)     at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)     at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106)     at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)     at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)     at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)     at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:616)     at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)     at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:522)     at org.apache.coyote.ajp.AbstractAjpProcessor.process(AbstractAjpProcessor.java:868)     at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:672)     at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1502)     at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1458)     at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)     at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)     at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)     at java.lang.Thread.run(Unknown Source) Caused by: java.util.concurrent.ExecutionException: java.lang.RuntimeException: java.lang.OutOfMemoryError: GC overhead limit exceeded     at java.util.concurrent.FutureTask.report(Unknown Source)     at java.util.concurrent.FutureTask.get(Unknown Source)     at com.pentaho.analyzer.report.ReportRequestService.get(SourceFile:175)     ... 84 more Caused by: java.lang.RuntimeException: java.lang.OutOfMemoryError: GC overhead limit exceeded     at com.pentaho.analyzer.report.ReportManagerImpl.runReport(SourceFile:320)     at com.pentaho.analyzer.report.ReportManagerImpl.runReport(SourceFile:139)     at com.pentaho.analyzer.report.ReportRequestService$2.a(SourceFile:275)     at com.pentaho.analyzer.report.ReportRequestService$2.call(SourceFile:270)     at java.util.concurrent.FutureTask.run(Unknown Source)     at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)     at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)     ... 1 more Caused by: java.lang.OutOfMemoryError: GC overhead limit exceeded 
+Technopedia: Software Virtualization Compatibility,SW Service Pack,180.0,Time out
+Technopedia: Software Virtualization Compatibility,SW Edition,11.25,No Issue
+Technopedia: Software Virtualization Compatibility,SW Release ID,180.0,Time out
+Technopedia: Software Virtualization Compatibility,SW Is Licensable?,9.05,No Issue
+Technopedia: Software Virtualization Compatibility,SW Is Suite?,3.19,No Issue
+Technopedia: Software Virtualization Compatibility,SW Suite,0.56,No Issue
+Technopedia: Software Virtualization Compatibility,SW Is Suite Component?,0.05,No Issue
+Technopedia: Software Virtualization Compatibility,SW Suite Component,0.56,No Issue
+Technopedia: Software Virtualization Compatibility,SW Cloud or On-Premise?,0.04,No Issue
+Technopedia: Software Virtualization Compatibility,SW On-premise equivalent,0.57,No Issue
+Technopedia: Software Virtualization Compatibility,SW Cloud equivalent,0.05,No Issue
+Technopedia: Software Virtualization Compatibility,SW Is Supported? (calc.),14.86,No Issue
+Technopedia: Software Virtualization Compatibility,SW Supported Reason (calc.),6.37,No Issue
+Technopedia: Software Virtualization Compatibility,SW Desupported? (calc.),3.2,No Issue
+Technopedia: Software Virtualization Compatibility,SW Version Order (calc.),3.2,No Issue
+Technopedia: Software Virtualization Compatibility,SW Max Versions (calc.),3.2,No Issue
+Technopedia: Software Virtualization Compatibility,SW Versions (calc.),11.63,No Issue
+Technopedia: Software Virtualization Compatibility,SW EOL Year (calc.),6.36,No Issue
+Technopedia: Software Virtualization Compatibility,SW EOL Quarter (calc.),10.61,No Issue
+Technopedia: Software Virtualization Compatibility,SW EOL Month (calc.),6.36,No Issue
+Technopedia: Software Virtualization Compatibility,SW EOL Date (calc.),9.0,No Issue
+Technopedia: Software Virtualization Compatibility,App Comp Manufacturer,1.09,No Issue
+Technopedia: Software Virtualization Compatibility,App Comp Name,0.56,No Issue
+Technopedia: Software Virtualization Compatibility,App Comp Version,0.08,No Issue
+Technopedia: Software Virtualization Compatibility,App Comp Edition,0.56,No Issue
+Technopedia: Software Virtualization Compatibility,App Comp 32-bit Compatible?,0.04,No Issue
+Technopedia: Software Virtualization Compatibility,App Comp 64-bit Compatible?,0.03,No Issue
+Technopedia: Software Virtualization Compatibility,App Comp Status,0.04,No Issue
+Technopedia: Software Virtualization Compatibility,App Comp Official,0.05,No Issue
+Technopedia: Software Virtualization Compatibility,App Comp Certification,0.04,No Issue
+Technopedia: Software Virtualization Compatibility,App Comp Community,0.03,No Issue
+Technopedia: Software Virtualization Compatibility,App Comp Difficulty,0.55,No Issue
+Technopedia: Software Virtualization Compatibility,PRI Is Private?,0.05,No Data
+Technopedia: Software Virtualization Compatibility,PRI Type,0.04,No Data
+Technopedia: Software Virtualization Compatibility,PRI Table,0.04,No Data
+Technopedia: Software Virtualization Compatibility,PRI Attribute,0.04,No Data
+Technopedia: Software Virtualization Compatibility,IND,0.03,No Issue
+Technopedia: Software Virtualization Compatibility,BDNA SW Category,0.04,No Issue
+Technopedia: Software Virtualization Compatibility,BDNA SW Sub Category,0.05,No Issue
+Technopedia: Software Virtualization Compatibility,SW Supplier,0.04,No Issue
+Technopedia: Software Virtualization Compatibility,SW Name,0.06,No Issue
+Technopedia: Software Virtualization Compatibility,SW Product Count_measure,1.63,No Issue
+Technopedia: Software Virtualization Compatibility,SW Version Count_measure,1.62,No Issue
+Technopedia: Software Virtualization Compatibility,SW Edition Count_measure,1.08,No Issue
+Technopedia: Software Virtualization Compatibility,SW Release Count_measure,1.61,No Issue
+Cube,Attribute,Time(second),Error type
+Technopedia: Software Windows Readiness,SW Vertical,0.06,No Issue
+Technopedia: Software Windows Readiness,SW Category,6.4,No Issue
+Technopedia: Software Windows Readiness,SW Subcategory,3.23,No Issue
+Technopedia: Software Windows Readiness,SW Vendor Category,8.11,No Issue
+Technopedia: Software Windows Readiness,SW Manufacturer,11.15,No Issue
+Technopedia: Software Windows Readiness,SW Family,8.53,No Issue
+Technopedia: Software Windows Readiness,SW Name,37.58,No Issue
+Technopedia: Software Windows Readiness,SW Component,114.15,No Issue
+Technopedia: Software Windows Readiness,SW Market Version,180.0,Time out
+Technopedia: Software Windows Readiness,SW Version,180.0,Time out
+Technopedia: Software Windows Readiness,SW Service Pack,180.0,Time out
+Technopedia: Software Windows Readiness,SW Edition,11.12,No Issue
+Technopedia: Software Windows Readiness,SW Release ID,180.0,Time out
+Technopedia: Software Windows Readiness,SW Is Licensable?,7.42,No Issue
+Technopedia: Software Windows Readiness,SW Is Suite?,3.2,No Issue
+Technopedia: Software Windows Readiness,SW Suite,0.55,No Issue
+Technopedia: Software Windows Readiness,SW Is Suite Component?,0.04,No Issue
+Technopedia: Software Windows Readiness,SW Suite Component,5.99,No Issue
+Technopedia: Software Windows Readiness,SW Cloud or On-Premise?,0.05,No Issue
+Technopedia: Software Windows Readiness,SW On-premise equivalent,0.06,No Issue
+Technopedia: Software Windows Readiness,SW Cloud equivalent,0.56,No Issue
+Technopedia: Software Windows Readiness,SW Is Supported? (calc.),6.36,No Issue
+Technopedia: Software Windows Readiness,SW Supported Reason (calc.),6.38,No Issue
+Technopedia: Software Windows Readiness,SW Desupported? (calc.),6.38,No Issue
+Technopedia: Software Windows Readiness,SW Version Order (calc.),3.19,No Issue
+Technopedia: Software Windows Readiness,SW Max Versions (calc.),9.52,No Issue
+Technopedia: Software Windows Readiness,SW Versions (calc.),6.37,No Issue
+Technopedia: Software Windows Readiness,SW EOL Year (calc.),6.37,No Issue
+Technopedia: Software Windows Readiness,SW EOL Quarter (calc.),6.38,No Issue
+Technopedia: Software Windows Readiness,SW EOL Month (calc.),3.19,No Issue
+Technopedia: Software Windows Readiness,SW EOL Date (calc.),8.48,No Issue
+Technopedia: Software Windows Readiness,SW Win Readiness Version,16.45,No Issue
+Technopedia: Software Windows Readiness,SW Win Readiness 32-Bit,10.6,No Issue
+Technopedia: Software Windows Readiness,SW Win Status 32-Bit,14.29,No Issue
+Technopedia: Software Windows Readiness,SW Win Compatible Version 32-Bit,14.38,No Issue
+Technopedia: Software Windows Readiness,SW Win Readiness 64-Bit,20.09,No Issue
+Technopedia: Software Windows Readiness,SW Win Status 64-Bit,14.31,No Issue
+Technopedia: Software Windows Readiness,SW Win Compatible Version 64-Bit,20.27,No Issue
+Technopedia: Software Windows Readiness,PRI Is Private?,0.58,No Data
+Technopedia: Software Windows Readiness,PRI Type,0.05,No Data
+Technopedia: Software Windows Readiness,PRI Table,0.57,No Data
+Technopedia: Software Windows Readiness,PRI Attribute,0.04,No Data
+Technopedia: Software Windows Readiness,IND,0.04,No Issue
+Technopedia: Software Windows Readiness,BDNA SW Category,0.03,No Issue
+Technopedia: Software Windows Readiness,BDNA SW Sub Category,6.39,No Issue
+Technopedia: Software Windows Readiness,SW Supplier,0.05,No Issue
+Technopedia: Software Windows Readiness,SW Name,0.06,No Issue
+Technopedia: Software Windows Readiness,SW Product Count_measure,1.61,No Issue
+Technopedia: Software Windows Readiness,SW Version Count_measure,1.1,No Issue
+Technopedia: Software Windows Readiness,SW Edition Count_measure,1.09,No Issue
+Technopedia: Software Windows Readiness,SW Release Count_measure,1.61,No Issue

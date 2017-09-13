@@ -1,0 +1,1 @@
+select * from bdna_a_logger where MESSAGE is not null

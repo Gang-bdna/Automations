@@ -1,0 +1,346 @@
+INV Date
+INV Group
+INV ID
+INV Name
+INV Task ID
+INV Task
+INV Data Source
+INV Status
+INV Is Latest?
+SYS Domain
+SYS Hostname
+SYS Serial Number
+SYS Is Virtual Machine?
+SYS Is Virtual Host?
+SYS Is Deduped?
+SYS Is Active?
+SYS CPU Range (Mhz)
+SYS CPUs Range
+SYS Cores Range
+SYS RAM Range (MB)
+SYS HDD Range (GB)
+SYS OS Uptime Range
+SYS User Domain
+SYS User Logon
+SYS Full User Logon
+OS Req OS Type
+OS Req OS Name
+OS Req OS Bit Mode
+OS Req Speed (Mhz)
+OS Req RAM (MB)
+OS Req Limit RAM (MB)
+OS Req HDD (GB)
+SYS Is CPU Compatible?
+SYS Is RAM Compatible?
+SYS Is HDD Compatible?
+SYS OS Readiness
+OS Family
+OS Manufacturer
+OS Name
+OS Major Version
+OS Minor Version
+OS Service Pack
+OS Edition
+OS Is Supported? (calc.)
+OS Supported Reason (calc.)
+OS Desupported? (calc.)
+OS Version Order (calc.)
+OS Max Versions (calc.)
+OS Versions (calc.)
+OS EOL Year (calc.)
+OS EOL Quarter (calc.)
+OS EOL Month (calc.)
+OS EOL Date (calc.)
+OS GA Year
+OS GA Quarter
+OS GA Month
+OS GA Date
+OS GA Exception
+OS GA Range (Start)
+OS GA Range (End)
+OS EOL Year
+OS EOL Quarter
+OS EOL Month
+OS EOL Date
+OS EOL Exception
+OS EOL Range (Start)
+OS EOL Range (End)
+OS OBS Year
+OS OBS Quarter
+OS OBS Month
+OS OBS Date
+OS OBS Exception
+OS OBS Range (Start)
+OS OBS Range (End)
+CPU Manufacturer (1)
+CPU Model (1)
+CPU Cores
+CPU Clock Rate
+CPU ISA Bit Mode
+CPU Is Threaded?
+CPU Number of threads
+CPU Licensing ID
+CPU Maximum Sockets
+CPU IBM PVU per core
+HW Vertical
+HW Category
+HW Subcategory
+HW Vendor Category
+HW Manufacturer (1)
+HW Product (1)
+HW Model (1)
+HW Supported OS
+HW Max CPU sockets
+HW Is Supported? (calc.)
+HW Supported Reason (calc.)
+HW EOL Year (calc.)
+HW EOL Quarter (calc.)
+HW EOL Month (calc.)
+HW EOL Date (calc.)
+HW Intro Year
+HW Intro Quarter
+HW Intro Month
+HW Intro Date
+HW Intro Exception
+HW Intro Range (Start)
+HW Intro Range (End)
+HW GA Year
+HW GA Quarter
+HW GA Month
+HW GA Date
+HW GA Exception
+HW GA Range (Start)
+HW GA Range (End)
+HW LastAvail Year
+HW LastAvail Quarter
+HW LastAvail Month
+HW LastAvail Date
+HW LastAvail Exception
+HW LastAvail Range (Start)
+HW LastAvail Range (End)
+HW OBS Year
+HW OBS Quarter
+HW OBS Month
+HW OBS Date
+HW OBS Exception
+HW OBS Range (Start)
+HW OBS Range (End)
+HW Currency Code
+HW Minimum price
+HW Average price
+HW Maximum price
+HW Is Energy Star?
+HW EPEAT Rating
+HW Power Type
+HW AVG Power (W)
+HW Power Rating
+SW Vertical
+SW Category
+SW Subcategory
+SW Vendor Category
+SW Manufacturer
+SW Family
+SW Name
+SW Component
+SW Market Version (1)
+SW Version (1)
+SW Service Pack
+SW Edition (1)
+SW Release ID
+SW Is Licensable?
+SW Is Suite?
+SW Suite
+SW Is Suite Component?
+SW Suite Component
+SW Cloud or On-Premise?
+SW On-premise equivalent
+SW Cloud equivalent
+SW User Domain
+SW User Logon
+SW Full User Logon
+SW Former Product
+SW Later Product
+SW Oldest Product
+SW Latest Product
+SW Release Platform
+SW Platform Type
+SW Is Supported? (calc.)
+SW Supported Reason (calc.)
+SW Desupported? (calc.)
+SW Version Order (calc.)
+SW Max Versions (calc.)
+SW Versions (calc.)
+SW EOL Year (calc.)
+SW EOL Quarter (calc.)
+SW EOL Month (calc.)
+SW EOL Date (calc.)
+SW GA Year
+SW GA Quarter
+SW GA Month
+SW GA Date
+SW GA Exception
+SW GA Range (Start)
+SW GA Range (End)
+SW EOL Year
+SW EOL Quarter
+SW EOL Month
+SW EOL Date
+SW EOL Exception
+SW EOL Range (Start)
+SW EOL Range (End)
+SW OBS Year
+SW OBS Quarter
+SW OBS Month
+SW OBS Date
+SW OBS Exception
+SW OBS Range (Start)
+SW OBS Range (End)
+SW Support Policy
+SW Support Stage
+SW Support Stage Order
+SW Support Stage Definition
+SW Currency Code
+SW Minimum price
+SW Average price
+SW Maximum price
+SW Win Readiness Type
+SW Win Readiness Version
+SW Win Readiness 32-Bit
+SW Win Status 32-Bit
+SW Win Compatible Version 32-Bit
+SW Win Readiness 64-Bit
+SW Win Status 64-Bit
+SW Win Compatible Version 64-Bit
+App Comp Manufacturer
+App Comp Name
+App Comp Version
+App Comp Edition
+App Comp 32-bit Compatible?
+App Comp 64-bit Compatible?
+App Comp Status
+App Comp Official
+App Comp Certification
+App Comp Community
+App Comp Difficulty
+OSS Type
+OSS Category
+OSS License
+OSS Is Primary License?
+OSS Keywords
+OSS Source
+PRI Is Private?
+PRI Type
+PRI Object
+PRI Table
+PRI Attribute
+SW Instance Attribute
+SW Instance Value
+Model
+CPU Manufacturer
+Purchased By
+Num of Cores
+Clock Rate
+Bit Mode
+Num of Threads
+Location
+Domain
+ACTIVE
+Owner
+Expiration Date
+Location
+Manufacturer Name
+Product Name
+Supported OS
+Last Supported Date
+Energy Star
+EPEAT
+AC Power AVG
+AC AVG UNIT
+AC Power Max
+AC MAX Unit
+Managed by
+Manufacturer Name
+Software Title
+Family
+Is Suite
+PLICSABLE
+Managed by
+IND
+BDNA SW Category
+BDNA SW Sub Category
+SW Supplier
+SW Name
+Bell, Todd
+D'Silva, Alin
+El-Assir, Mahmoud
+Madsen, Thomas
+Shine, Kevin
+Waghray, Ajay
+Young, Craig
+Non-IT
+Business Unit
+Department
+Region
+Country
+User_Domain
+User_Name
+DEPT1
+DEPT2
+SITE1
+LOC
+MANAGER
+BASE Count
+SYS Count
+SYS Avg CPU (MHz)
+SYS Avg Number of CPUs
+SYS Avg Number of Cores
+SYS Avg RAM (MB)
+SYS Avg Total HDD (GB)
+SYS Avg Available HDD (GB)
+OS Distinct Release Count
+CPU IBM PVU Count
+HW Distinct Product Count
+HW Distinct Model Count
+HW Minimum price
+HW Average price
+HW Maximum price
+HW AVG Power (W)
+HW AC Power Avg
+HW AC Power Max
+HW AC Heat Diss Avg (BTU/hr)
+HW AC Heat Diss Max (BTU/hr)
+HW AC Input Low Voltage Min
+HW AC Input Low Voltage Max
+HW AC Input Low Current Min
+HW AC Input Low Current Max
+HW AC Input High Voltage Min
+HW AC Input High Voltage Max
+HW AC Input High Current Min
+HW AC Input High Current Max
+HW AC Frequency Min
+HW AC Frequency Max
+HW DC Power Avg
+HW DC Power Max
+HW DC Heat Diss Avg (BTU/hr)
+HW DC Heat Diss Max (BTU/hr)
+HW DC Low Voltage
+HW DC Low Current
+HW DC High Voltage
+HW DC High Current
+HW Min Operating Temp (F)
+HW Max Operating Temp (F)
+HW Min Non-Operating Temp (F)
+HW Max Non-Operating Temp (F)
+HW Min Operating Humidity (%)
+HW Max Operating Humidity (%)
+HW Min Non-Operating Humidity (%)
+HW Max Non-Operating Humidity (%)
+SW Distinct Product Count
+SW Distinct Version Count
+SW Distinct Edition Count
+SW Distinct Release Count
+SW Install Count
+SW Use Count
+SW Minimum price
+SW Average price
+SW Maximum price

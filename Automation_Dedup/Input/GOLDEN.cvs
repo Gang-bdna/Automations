@@ -1,0 +1,198 @@
+Office	10003	3	10001	null	-1	1142672	-1	null	25607263	11396775	null	RC	0	0	1	79	null	0	26032554	Microsoft Office 2010	14.0.4757.1000	Microsoft Corporation	1
+Office	10004	0	10001	null	-1	1142672	-1	null	25261081	11396775	SP1	RTM	0	0	1	89	null	0	25261082	Microsoft Office	14.0.6118.3014	Microsoft Corporation	1
+Office	10005	3	10002	null	-1	1142672	-1	null	25607263	11396775	null	RC	0	0	0	79	null	0	26032554	Microsoft Office 2010	14.0.4757.1000	Microsoft Corporation	1
+Office	10006	0	10002	null	-1	1142672	-1	null	42422419	23271060	null	Technical Preview Refresh	0	0	1	97	null	0	42637079	Microsoft Office	15.0.4016.3001	Microsoft Corporation	1
+Office	10009	0	10003	-1	9194340	1142672	2793	Professional	9194331	11396775	null	RTM	0	0	1	81	19	0	9194340	Microsoft Office Professional 2010	14.0.4763.1000	Microsoft Corporation	1
+Office	10007	3	10003	null	-1	1142672	2751	Standard	9194331	11396775	null	RTM	0	0	1	81	12	0	13301889	Microsoft Office Standard 2010	14.0.4763.1000	Microsoft Corporation	1
+Office	10008	3	10003	null	-1	1142672	-1	null	25607263	11396775	null	RC	0	0	1	79	null	0	26032554	Microsoft Office 2010	14.0.4757.1000	Microsoft Corporation	1
+Office	10012	0	10004	-1	25637289	1142672	2751	Standard	25261081	11396775	SP1	RTM	0	0	1	89	12	0	25637289	Microsoft Office Standard 2010	14.0.6029.1000	Microsoft Corporation	1
+Office	10010	3	10004	null	-1	1142672	2751	Standard	9194331	11396775	null	RTM	0	0	1	81	12	0	13301889	Microsoft Office Standard 2010	14.0.4763.1000	Microsoft Corporation	1
+Office	10011	3	10004	null	-1	1142672	-1	null	25607263	11396775	null	RC	0	0	1	79	null	0	26032554	Microsoft Office 2010	14.0.4757.1000	Microsoft Corporation	1
+Office	10014	0	20001	-1	9194340	1142672	2793	Professional	9194331	11396775	null	RTM	0	0	1	81	19	0	9194340	Microsoft Office Professional 2010	14.0.4763.1000	Microsoft Corporation	1
+Office	10013	3	20001	null	-1	1142672	2751	Standard	9194331	11396775	null	RTM	0	0	1	81	12	0	13301889	Microsoft Office Standard 2010	14.0.4763.1000	Microsoft Corporation	1
+Office	10015	3	20001	null	-1	1142672	-1	null	25261081	11396775	SP1	RTM	0	0	1	89	null	0	25261082	Microsoft Office	14.0.6118.3014	Microsoft Corporation	1
+Office	10017	0	20002	-1	9194340	1142672	2793	Professional	9194331	11396775	null	RTM	0	0	1	81	19	0	9194340	Microsoft Office Professional 2010	14.0.4763.1000	Microsoft Corporation	1
+Office	10016	3	20002	null	-1	1142672	2751	Standard	9194331	11396775	null	RTM	0	0	1	81	12	0	13301889	Microsoft Office Standard 2010	14.0.4763.1000	Microsoft Corporation	1
+Office	10018	3	20002	null	-1	1142672	-1	null	25261081	11396775	SP1	RTM	0	0	1	89	null	0	25261082	Microsoft Office	14.0.6118.3014	Microsoft Corporation	1
+Office	10019	3	20002	null	-1	1142672	2751	Standard	68057627	11396775	SP2	RTM	0	0	1	91	12	0	68046761	Microsoft Office Standard 2010	14.0.7015.1000	Microsoft Corporation	1
+Visual Studio	10021	0	30001	-1	6361499	900729	-1	null	6361450	6656845	null	null	1	1	1	39	null	0	6361499	Microsoft Visual Studio 2010	10.0.40219.1	Microsoft Corporation	1
+Visual Studio	10020	0	30001	-1	8701653	900729	-1	null	1323641	6656843	null	null	1	1	0	35	null	0	8701653	Microsoft Visual Studio 2008	0.1	hughhall	1
+Visual Studio	10022	3	30002	null	-1	900729	-1	null	1153883	6656836	null	null	1	1	1	26	null	0	1140431	Microsoft Visual Studio .NET Trial 2003 - English	NULL	Microsoft	1
+Visual Studio	10023	0	30002	null	-1	900729	-1	null	1153882	6656836	SP1	null	1	1	1	28	null	0	1140435	Visual Studio .NET 2003 SP1	7.1.3088.0 [R5]	Microsoft	1
+Visual Studio	10024	0	30003	-1	1323659	900729	925139	Professional	1323641	6656843	null	null	1	1	1	35	11	0	1323659	Microsoft Visual Studio 2008 Professional Edition - JPN	9.0.21022	Microsoft Corporation	1
+Visual Studio	10025	0	30003	-1	1323660	900729	925141	Standard	1323641	6656843	null	null	1	1	1	35	5	0	1323660	Microsoft Visual Studio 2008 Standard Edition - ENU	NULL	Microsoft Corporation	1
+Visual Studio	10026	5	30003	null	-1	900729	-1	null	1323641	6656843	null	null	1	1	1	35	null	0	8701653	Microsoft Visual Studio 2008	0.1	hughhall	1
+Visual Studio	10027	0	30004	-1	1323667	900729	939856	Enterprise	1153886	6656831	null	null	1	1	1	15	13	0	1323667	Visual Studio	6.0 Enterprise	Microsoft	1
+Visual Studio	10029	5	30004	null	-1	900729	-1	null	1773049	6656831	null	null	1	1	1	22	null	0	1773786	Microsoft Visual Studio	6.1.5288.17011	Microsoft Corporation	1
+HTTP Server (IHS)	10031	0	30005	null	-1	472939	-1	null	1319650	10405641	null	null	1	0	0	7	null	0	1319774	IBM HTTP SERVER	IBM HTTP SERVER 1.3.19.0	NULL	1
+HTTP Server (IHS)	10032	0	30005	null	-1	472939	-1	null	7328776	10405642	null	null	1	0	1	29	null	0	7328890	IBM HTTP SERVER #!# IBM_3001589	IBM HTTP SERVER #!# IBM_3001589 2	NULL	1
+HTTP Server (IHS)	10033	3	30005	null	-1	472939	-1	null	-1	null	null	null	1	0	0	null	null	0	-1	IBM HTTP Server	2.4.2	Apache Foundation or IBM or Oracle or HP	1
+HTTP Server (IHS)	10034	2	30005	null	-1	472939	-1	null	-1	null	null	null	1	0	0	null	null	0	-1	UBS WMI WebSphere Web Server	1.0.0	GTIS DSS Design and Integration	1
+Creative Suite	10038	0	30006	-1	6344938	1141944	901790	Design Standard	6344812	7538065	null	null	0	1	1	9	6	0	6344938	Adobe Creative Suite	4.01 design std	Adobe	1
+Creative Suite	10035	0	30006	-1	6344939	1141944	1204254	Web Premium	6344812	7538065	null	null	0	1	1	9	8	0	6344939	Adobe Creative Suite	4.0 web prm	Adobe	1
+Creative Suite	10037	3	30006	null	-1	1141944	-1	null	1181664	7538071	null	null	0	1	0	2	null	0	49247653	Adobe Creative Suite	1.1.1	Adobe	1
+ColdFusion	10039	2	30007	null	-1	1141943	58558431	Standard	7329124	7537946	null	null	1	0	0	24	1	0	58558440	Adobe ColdFusion Server Standard	9.0.0.251028	Adobe	1
+ColdFusion	10040	0	30007	null	-1	1141943	58558431	Standard	7329124	7537946	null	null	1	0	1	24	1	0	58558440	Adobe ColdFusion Server Standard	9.0.0.0	Adobe	1
+MySQL	10041	0	30008	null	-1	22880987	22881434	Enterprise	22881074	22881050	null	null	0	0	1	117	5	0	25952479	MySQL Database Server Enterprise	5.0.76	Oracle	1
+MySQL	10042	3	30008	null	-1	22880987	22881430	Community	22912500	22881050	null	null	0	0	1	256	1	0	22912595	MySQL Database Server Community	5.6.15	Oracle	1
+MySQL	10043	3	30008	null	-1	22880987	-1	null	22912500	22881050	null	null	0	0	1	256	null	0	22912530	MySQL Server 5.6	5.6.15	Oracle	1
+SQL Server	10046	2	30009	null	-1	1142579	-1	null	15712850	1757127	SP1	null	1	1	1	59	null	0	15713089	Microsoft SQL Server 2008 (64-bit)	10.1.2531.0	Microsoft Corporation	1
+SQL Server	10044	5	30009	null	-1	23089633	-1	null	116441617	23089654	SP1	null	1	1	1	39	null	0	116441621	Microsoft SQL Server 2008 Database Engine Services	10.1.2531.0	Microsoft Corporation	1
+SQL Server	10045	0	30009	null	-1	23089633	23089640	Express	116441617	23089654	SP1	null	1	1	1	39	6	0	116441636	Microsoft SQL Server Express Edition	2007.100.2573.0	Microsoft	1
+SQL Server	10047	0	30010	null	-1	23089633	-1	null	116439056	53578248	SP1	null	1	1	1	58	null	0	116439417	SQL Server 2014 Database Engine Services	12.1.4100.1	Microsoft	1
+SQL Server	10048	2	30010	null	-1	23089633	-1	null	116439056	53578248	SP1	null	1	1	0	58	null	0	116439417	SQL Server 2014 Database Engine Services	12.1.4100.1	NULL	1
+SQL Server	10049	2	30011	null	-1	1142579	-1	null	22892016	25169785	null	null	1	1	1	71	null	0	22892017	Microsoft SQL Server 2012 (64-bit)	NULL	NULL	1
+SQL Server	10050	3	30011	null	-1	23089633	-1	null	23089664	25169787	null	null	1	1	1	51	null	0	23089681	SQL Server 2012 Database Engine Services	NULL	NULL	1
+SQL Server	10051	0	30011	null	-1	23089633	-1	null	116439809	25169787	SP2	null	1	1	1	54	null	0	116440271	SQL Server 2012 Database Engine Services	11.2.5058.0	NULL	1
+SQL Server	10054	0	30012	-1	116442001	23089633	23089639	Enterprise	116441615	23089654	SP4	null	1	1	1	42	17	1	116442001	Microsoft SQL Server 2008 Database Engine Services	10.4.6000.29	Microsoft	1
+SQL Server	10052	5	30012	null	-1	1142579	-1	null	1757131	1757127	null	null	1	1	1	57	null	0	6620195	Microsoft SQL Server 2008 (64-bit)	NULL	Microsoft	1
+SQL Server	10055	2	30012	null	-1	1142579	1086127	Enterprise	100404436	1757127	SP4	null	1	1	1	62	20	0	113472413	Microsoft SQL Server Enterprise Edition	2007.100.6241.0	Microsoft	1
+SQL Server Compact	10053	0	30012	null	-1	1279927	-1	null	40783650	40783615	SP1	null	0	0	1	7	null	0	40783932	Microsoft SQL Server Compact 3.5 SP1 English	3.5.5692.0	Microsoft	1
+SQL Server	10056	0	30013	null	-1	1142579	-1	null	45172931	45172928	null	null	1	1	1	78	null	0	45173284	Microsoft SQL Server 2014 (64-bit)	NULL	NULL	1
+SQL Server	10059	0	30014	-1	248061504	23089633	23089641	Standard	165307305	25169787	SP3	null	1	1	1	55	14	1	248061504	SQL Server 2012 Database Engine Services	11.3.6020.0	Microsoft	1
+SQL Server	10057	5	30014	null	-1	1142579	-1	null	22892016	25169785	null	null	1	1	1	71	null	0	22892017	Microsoft SQL Server 2012 (64-bit)	NULL	Microsoft	1
+SQL Server	10061	2	30014	null	-1	1142579	1086061	Standard	151604005	25169785	SP3	null	1	1	1	75	16	0	207061807	Microsoft SQL Server Standard Edition	11.0.6020.0	Microsoft	1
+SQL Server Compact	10058	0	30014	null	-1	1279927	-1	null	309891503	309872593	SP1	null	0	0	1	10	null	0	309891504	Microsoft SQL Server Compact 4.0 SP1 x64 ENU	4.0.8876.1	Microsoft	1
+SQL Server	10060	0	30014	null	-1	23089633	23089640	Express	165307305	25169787	SP3	null	1	1	1	55	6	0	248061274	Microsoft SQL Server 2012 Express LocalDB	11.3.6020.0	Microsoft	1
+SQL Server	10063	0	30015	-1	116440681	23089633	23089639	Enterprise	116439809	25169787	SP2	null	1	1	1	54	17	1	116440681	SQL Server 2012 Database Engine Services	11.2.5058.0	Microsoft	1
+SQL Server	10062	5	30015	null	-1	1142579	-1	null	22892016	25169785	null	null	1	1	1	71	null	0	22892017	Microsoft SQL Server 2012 (64-bit)	NULL	Microsoft	1
+SQL Server	10064	2	30015	null	-1	1142579	1086127	Enterprise	100404328	25169785	SP2	null	1	1	1	74	20	0	113474048	Microsoft SQL Server Enterprise Edition: Core-based Licensing	2011.110.5613.0	Microsoft	1
+SQL Server	10065	2	30016	null	-1	1142579	-1	null	45172931	45172928	null	null	1	1	1	78	null	0	45173284	Microsoft SQL Server 2014 (64-bit)	NULL	NULL	1
+SQL Server	10066	5	30016	null	-1	23089633	-1	null	53578250	53578248	null	null	1	1	1	56	null	0	53579785	SQL Server 2014 Database Engine Services	12.0.2000.8	Microsoft	1
+SQL Server	10067	0	30016	null	-1	23089633	23089640	Express	53578250	53578248	null	null	1	1	1	56	6	0	53578254	Microsoft SQL Server Express	2014.120.2269.0	Microsoft	1
+SQL Server	10068	0	30017	null	-1	1142579	-1	null	-1	null	null	null	1	1	1	null	null	0	-1	Microsoft SQL Server	NULL	Microsoft	1
+SQL Server	10072	0	30018	-1	116442001	23089633	23089639	Enterprise	116441615	23089654	SP4	null	1	1	1	42	17	1	116442001	Microsoft SQL Server 2008 Database Engine Services	10.4.6000.29	Microsoft	1
+SQL Server	10069	2	30018	null	-1	1142579	-1	null	-1	null	null	null	1	1	0	null	null	0	-1	Microsoft SQL Server	NULL	Microsoft	1
+SQL Server	10070	2	30018	null	-1	1142579	-1	null	1757131	1757127	null	null	1	1	1	57	null	0	6620195	Microsoft SQL Server 2008 (64-bit)	NULL	Microsoft	1
+SQL Server	10073	2	30018	null	-1	1142579	1086127	Enterprise	100404436	1757127	SP4	null	1	1	1	62	20	0	113472413	Microsoft SQL Server Enterprise Edition	2007.100.6241.0	Microsoft	1
+SQL Server Compact	10071	0	30018	null	-1	1279927	-1	null	40783650	40783615	SP1	null	0	0	1	7	null	0	40783932	Microsoft SQL Server Compact 3.5 SP1 English	3.5.5692.0	Microsoft	1
+SQL Server	10074	0	30019	null	-1	23089633	-1	null	116439809	25169787	SP2	null	1	1	1	54	null	0	116440271	SQL Server 2012 Database Engine Services	11.2.5058.0	Microsoft	1
+ColdFusion	10075	0	30020	null	-1	1141943	58558431	Standard	7329124	7537946	null	null	1	0	1	24	1	0	58558440	Adobe ColdFusion Server Standard	9.0.2.282541	Adobe	1
+ColdFusion	10076	5	30020	null	-1	1141943	-1	null	7329124	7537946	null	null	1	0	1	24	null	0	7329130	Adobe ColdFusion 9	9.0.0.0	Adobe Systems Inc.	1
+Creative Suite	10090	0	40001	-1	6344939	1141944	1204254	Web Premium	6344812	7538065	null	null	0	1	1	9	8	0	6344939	Adobe Creative Suite 4 Web Premium	4	Adobe Systems Incorporated	1
+Photoshop	10155	0	40001	6344939	1291855	14	-1	null	1291756	6366360	null	null	1	0	1	33	null	0	1291855	Adobe Photoshop CS4	11	Adobe Systems	1
+Version Cue	10166	0	40001	6344939	1638383	447946	-1	null	1638333	7250835	null	null	0	0	1	8	null	0	1638383	Adobe Version Cue CS4 Server	4	Adobe Systems	1
+Illustrator	10144	0	40001	6344939	1638389	919873	-1	null	1638339	7250803	null	null	1	0	1	31	null	0	1638389	Adobe Illustrator CS4	14	Adobe Systems	1
+Fireworks	10167	0	40001	6344939	6344326	919672	-1	null	6344194	7250953	null	null	1	0	1	14	null	0	6344326	Adobe Fireworks CS4	10	Adobe Systems	1
+Soundbooth	10139	0	40001	6344939	6345010	1014932	-1	null	6344817	7251170	null	null	0	0	1	2	null	0	6345010	Adobe Soundbooth CS4	2	Adobe Systems	1
+Contribute	10159	0	40001	6344939	6359439	6328856	-1	null	6359276	7251103	null	null	0	0	1	9	null	0	6359439	Adobe Contribute CS4	5	Adobe Systems	1
+Device Central	10126	0	40001	6344939	6394223	1203958	-1	null	6393889	7250873	null	null	0	0	1	3	null	0	6394223	Adobe Device Central CS4	2	Adobe Systems	1
+Bridge	10125	0	40001	6344939	6394279	1204245	-1	null	6393899	7250908	null	null	1	0	1	10	null	0	6394279	Adobe Bridge CS4	3	Adobe Systems	1
+Dreamweaver	10164	0	40001	6344939	6406747	6344098	-1	null	6406614	7250827	null	null	1	0	1	13	null	0	6406747	Adobe Dreamweaver CS4	10	Adobe Systems	1
+Acrobat	10124	0	40001	6344939	25578258	1141947	7486880	Pro	25578257	6366334	null	null	0	0	1	84	2	0	25578258	Adobe Acrobat 9 Pro	9.5.4	Adobe Systems	1
+Reader (Acrobat Reader)	10109	2	40001	null	-1	13	-1	null	53769456	16539845	null	null	1	0	0	56	null	0	53769460	Adobe Reader X (10.1.3)	10.1.3	Adobe Systems Incorporated	1
+Reader (Acrobat Reader)	10111	2	40001	null	-1	13	-1	null	53769456	16539845	null	null	1	0	0	56	null	0	53769460	Adobe Reader X (10.1.3)	10.1.3	NULL	1
+Reader (Acrobat Reader)	10130	0	40001	null	-1	13	-1	null	53769456	16539845	null	null	1	0	1	56	null	0	53769460	Adobe Reader X (10.1.3)	10.1.3	Adobe Systems	1
+Reader (Acrobat Reader)	10172	3	40001	null	-1	13	-1	null	16539858	16539845	null	null	1	0	1	55	null	0	16539881	Adobe Reader X (10.1.3)	1	Adobe Systems Incorporated	1
+Photoshop	10083	2	40001	null	-1	14	-1	null	1291756	6366360	null	null	1	0	0	33	null	0	1291855	Adobe Photoshop CS4	11	Adobe Systems Incorporated	1
+SVG (Scalable Vector Graphics) Viewer	10105	2	40001	null	-1	25	-1	null	1146654	7539064	null	null	0	0	0	5	null	0	1028870	Adobe SVG Viewer 3.0	3	NULL	1
+SVG (Scalable Vector Graphics) Viewer	10108	2	40001	null	-1	25	-1	null	1146654	7539064	null	null	0	0	0	5	null	0	1028870	Adobe SVG Viewer 3.0	3.0.0	Adobe Systems Incorporated	1
+SVG (Scalable Vector Graphics) Viewer	10177	0	40001	null	-1	25	-1	null	1146654	7539064	null	null	0	0	1	5	null	0	1028870	Adobe SVG Viewer 3.0	3	Adobe Systems	1
+Version Cue	10079	2	40001	null	-1	447946	-1	null	1638333	7250835	null	null	0	0	0	8	null	0	1638383	Adobe Version Cue CS4 Server	4	Adobe Systems Incorporated	1
+Fireworks	10084	2	40001	null	-1	919672	-1	null	6344194	7250953	null	null	1	0	0	14	null	0	6344326	Adobe Fireworks CS4	10	Adobe Systems Incorporated	1
+Flash Player	10134	2	40001	null	-1	919690	-1	null	42368517	6366419	null	null	0	0	0	87	null	0	42368662	Adobe Flash Player 11 Plugin	11.7.700.169	Adobe Systems Incorporated	1
+Flash Player	10136	0	40001	null	-1	919690	-1	null	42368517	6366419	null	null	0	0	1	87	null	0	42368662	Adobe Flash Player 11 Plugin	11.7.700.169	Adobe Systems	1
+Flash Player	10138	2	40001	null	-1	919690	-1	null	42368517	6366419	null	null	0	0	0	87	null	0	42368662	Adobe Flash Player 11 Plugin	11.7.700.169	NULL	1
+Flash Player	10145	3	40001	null	-1	919690	-1	null	21750276	6366419	null	null	0	0	1	79	null	0	21750285	Adobe Flash Player 11 Plugin	11	Adobe Systems Incorporated	1
+Illustrator	10085	2	40001	null	-1	919873	-1	null	1638339	7250803	null	null	1	0	0	31	null	0	1638389	Adobe Illustrator CS4	14	Adobe Systems Incorporated	1
+Soundbooth	10092	2	40001	null	-1	1014932	-1	null	6344817	7251170	null	null	0	0	0	2	null	0	6345010	Adobe Soundbooth CS4	2	Adobe Systems Incorporated	1
+Extension Manager	10081	2	40001	null	-1	1029210	-1	null	6376321	7534061	null	null	1	0	0	10	null	0	6376368	Adobe Extension Manager CS4	2	Adobe Systems Incorporated	1
+Extension Manager	10143	0	40001	null	-1	1029210	-1	null	6376321	7534061	null	null	1	0	1	10	null	0	6376368	Adobe Extension Manager CS4	2	Adobe Systems	1
+Device Central	10082	2	40001	null	-1	1203958	-1	null	6393889	7250873	null	null	0	0	0	3	null	0	6394223	Adobe Device Central CS4	2	Adobe Systems Incorporated	1
+Device Central	10153	2	40001	null	-1	1203958	-1	null	6393889	7250873	null	null	0	0	0	3	null	0	6394223	Adobe Device Central CS4	2	NULL	1
+Connect	10078	2	40001	null	-1	1203976	-1	null	14948772	14948613	null	null	0	0	0	1	null	0	14948773	Connect	1.0.0.1	Adobe Systems Incorporated	1
+Connect	10132	2	40001	null	-1	1203976	-1	null	14948772	14948613	null	null	0	0	0	1	null	0	14948773	Connect	1.0.0.1	Adobe Systems	1
+Connect	10174	0	40001	null	-1	1203976	-1	null	14948772	14948613	null	null	0	0	1	1	null	0	14948773	Connect	1	Adobe Systems Incorporated	1
+OnLocation	10093	2	40001	null	-1	1204151	-1	null	6388615	7251150	null	null	0	0	0	7	null	0	6388619	Adobe OnLocation CS4	4	Adobe Systems Incorporated	1
+OnLocation	10178	0	40001	null	-1	1204151	-1	null	6388615	7251150	null	null	0	0	1	7	null	0	6388619	Adobe OnLocation CS4	1.0.0.1	Adobe Systems Incorporated	1
+Bridge	10095	2	40001	null	-1	1204245	-1	null	6393899	7250908	null	null	1	0	0	10	null	0	6394279	Adobe Bridge CS4	3	Adobe Systems Incorporated	1
+Bridge	10112	2	40001	null	-1	1204245	-1	null	6393899	7250908	null	null	1	0	0	10	null	0	6394279	Adobe Bridge CS4	3	NULL	1
+Bridge	10175	2	40001	null	-1	1204245	-1	null	6393899	7250908	null	null	1	0	0	10	null	0	6394279	Adobe Bridge CS4	3.0.0	Adobe Systems Incorporated	1
+AIR (Adobe Integrated Runtime)	10121	2	40001	null	-1	1269075	-1	null	41188079	23787457	null	null	0	0	0	34	null	0	41188641	Adobe AIR	3.6.0.5970	Adobe Systems Incorporated	1
+AIR (Adobe Integrated Runtime)	10123	3	40001	null	-1	1269075	-1	null	41188079	23787457	null	null	0	0	0	34	null	0	41188641	Adobe AIR	3.6.0.5970	Adobe Systems	1
+AIR (Adobe Integrated Runtime)	10133	2	40001	null	-1	1269075	-1	null	42690222	23787457	null	null	0	0	0	35	null	0	42690403	Adobe AIR	3.7.0.1530	Adobe Systems Incorporated	1
+AIR (Adobe Integrated Runtime)	10135	2	40001	null	-1	1269075	-1	null	42690222	23787457	null	null	0	0	0	35	null	0	42690403	Adobe AIR	3.7.0.1530	Adobe Systems	1
+AIR (Adobe Integrated Runtime)	10146	2	40001	null	-1	1269075	-1	null	41188079	23787457	null	null	0	0	0	34	null	0	41188641	Adobe AIR	3.6.0.5970	NULL	1
+AIR (Adobe Integrated Runtime)	10147	2	40001	null	-1	1269075	-1	null	42690222	23787457	null	null	0	0	0	35	null	0	42690403	Adobe AIR	3.7.0.1530	NULL	1
+AIR (Adobe Integrated Runtime)	10150	0	40001	null	-1	1269075	-1	null	70849998	70849996	null	null	0	0	1	41	null	0	70850017	Adobe AIR	14	Adobe Systems Incorporated	1
+AIR (Adobe Integrated Runtime)	10151	3	40001	null	-1	1269075	-1	null	42690222	23787457	null	null	0	0	0	35	null	0	42690403	Adobe AIR	3.7	Adobe Systems Incorporated	1
+AIR (Adobe Integrated Runtime)	10152	3	40001	null	-1	1269075	-1	null	55178776	55178775	null	null	0	0	0	39	null	0	55178940	Adobe AIR	4	Adobe Systems Incorporated	1
+AIR (Adobe Integrated Runtime)	10173	3	40001	null	-1	1269075	-1	null	1273749	7537872	null	null	0	0	0	1	null	0	1273750	Adobe AIR	1	Adobe Systems Incorporated	1
+Media Player	10087	3	40001	null	-1	1364984	-1	null	1451343	7538634	null	null	0	0	1	2	null	0	1451537	Adobe Media Player	1	Adobe Systems Incorporated	1
+Media Player	10094	2	40001	null	-1	1364984	-1	null	1451345	7538634	null	null	0	0	0	3	null	0	1451541	Adobe Media Player	1.1	Adobe Systems Incorporated	1
+Media Player	10096	2	40001	null	-1	1364984	-1	null	1662432	7538634	null	null	0	0	0	4	null	0	1662446	Adobe Media Player	1.5	Adobe Systems Incorporated	1
+Media Player	10129	3	40001	null	-1	1364984	-1	null	1451345	7538634	null	null	0	0	1	3	null	0	1451541	Adobe Media Player	1.1	Adobe Systems	1
+Media Player	10148	2	40001	null	-1	1364984	-1	null	1451345	7538634	null	null	0	0	0	3	null	0	1451541	Adobe Media Player	1.1	NULL	1
+Media Player	10158	3	40001	null	-1	1364984	-1	null	-1	null	null	null	0	0	0	null	null	0	-1	Adobe Media Player	1.2.443	Adobe Systems Incorporated	1
+Media Player	10160	0	40001	null	-1	1364984	-1	null	1662432	7538634	null	null	0	0	1	4	null	0	1662446	Adobe Media Player	1.5	Adobe Systems	1
+Kuler	10106	2	40001	null	-1	1456266	-1	null	6673515	7538409	null	null	0	0	0	4	null	0	6673925	kuler	2	Adobe Systems Incorporated	1
+Kuler	10163	0	40001	null	-1	1456266	-1	null	6673515	7538409	null	null	0	0	1	4	null	0	6673925	kuler	2	Adobe Systems	1
+Contribute	10086	2	40001	null	-1	6328856	-1	null	6359276	7251103	null	null	0	0	0	9	null	0	6359439	Adobe Contribute CS4	5	Adobe Systems Incorporated	1
+Dreamweaver	10088	2	40001	null	-1	6344098	-1	null	6406614	7250827	null	null	1	0	0	13	null	0	6406747	Adobe Dreamweaver CS4	10	Adobe Systems Incorporated	1
+Encore	10089	0	40001	null	-1	6661127	-1	null	6661131	7251156	null	null	0	0	1	5	null	0	6661170	Adobe Encore CS4	4	Adobe Systems Incorporated	1
+Media Encoder	10080	2	40001	null	-1	6662062	-1	null	6662078	7538628	null	null	0	0	0	4	null	0	6662102	Adobe Media Encoder CS4	1	Adobe Systems Incorporated	1
+Media Encoder	10162	0	40001	null	-1	6662062	-1	null	6662078	7538628	null	null	0	0	1	4	null	0	6662102	Adobe Media Encoder CS4	1	Adobe Systems	1
+Photoshop Camera Raw	10091	2	40001	null	-1	6665171	-1	null	6665190	7538923	null	null	0	0	0	22	null	0	6665253	Photoshop Camera Raw	5	Adobe Systems Incorporated	1
+Photoshop Camera Raw	10161	0	40001	null	-1	6665171	-1	null	6665190	7538923	null	null	0	0	1	22	null	0	6665253	Photoshop Camera Raw	5	Adobe Systems	1
+Asset Services	10097	0	40001	null	-1	7326381	-1	null	7327291	7537886	null	null	0	0	1	3	null	0	7327351	Adobe Asset Services CS4	4	Adobe Systems Incorporated	1
+Anchor Service	10103	2	40001	null	-1	7326393	-1	null	7327266	7537880	null	null	0	0	0	2	null	0	7327336	Adobe Anchor Service CS4	2	Adobe Systems Incorporated	1
+Anchor Service	10140	2	40001	null	-1	7326393	-1	null	7327266	7537880	null	null	0	0	0	2	null	0	7327336	Adobe Anchor Service CS4	2	Adobe Systems	1
+Anchor Service	10157	0	40001	null	-1	7326393	-1	null	7327266	7537880	null	null	0	0	1	2	null	0	7327336	Adobe Anchor Service CS4	1	Adobe Systems Incorporated	1
+Cmaps	10104	2	40001	null	-1	7429502	-1	null	7429512	7537926	null	null	0	0	0	2	null	0	7429524	Adobe CMaps CS4	2	Adobe Systems Incorporated	1
+Cmaps	10141	0	40001	null	-1	7429502	-1	null	7429512	7537926	null	null	0	0	1	2	null	0	7429524	Adobe CMaps CS4	2	Adobe Systems	1
+Stock Photos	10101	2	40001	null	-1	7486949	-1	null	7487311	7539050	null	null	0	0	0	10	null	0	7487331	Adobe Stock Photos CS3	1.5	Adobe Systems Incorporated	1
+Stock Photos	10137	0	40001	null	-1	7486949	-1	null	7487311	7539050	null	null	0	0	1	10	null	0	7487331	Adobe Stock Photos CS3	1.5	Adobe Systems	1
+Acrobat.com for My desktop (Acrobat.com)	10102	2	40001	null	-1	7486988	-1	null	41191541	9202536	null	null	0	0	0	3	null	0	41194340	Acrobat.com	1.2.443	Adobe Systems Incorporated	1
+Acrobat.com for My desktop (Acrobat.com)	10119	3	40001	null	-1	7486988	-1	null	9200772	9202536	null	null	0	0	0	1	null	0	9201002	Acrobat.com	1	Adobe Systems	1
+Acrobat.com for My desktop (Acrobat.com)	10120	0	40001	null	-1	7486988	-1	null	8719390	10178373	null	null	0	0	1	6	null	0	8719501	Acrobat.com	2	Adobe Systems	1
+Acrobat.com for My desktop (Acrobat.com)	10122	3	40001	null	-1	7486988	-1	null	41191541	9202536	null	null	0	0	0	3	null	0	41194340	Acrobat.com	1.2.443	Adobe Systems	1
+Acrobat.com for My desktop (Acrobat.com)	10149	3	40001	null	-1	7486988	-1	null	26017700	9202536	null	null	0	0	0	2	null	0	26017785	Acrobat.com	1.1	Adobe Systems Incorporated	1
+Acrobat.com for My desktop (Acrobat.com)	10156	2	40001	null	-1	7486988	-1	null	41191541	9202536	null	null	0	0	0	3	null	0	41194340	Acrobat.com	1.2.443	NULL	1
+Acrobat.com for My desktop (Acrobat.com)	10171	2	40001	null	-1	7486988	-1	null	9200772	9202536	null	null	0	0	0	1	null	0	9201002	Acrobat.com	1	Adobe Systems Incorporated	1
+ExtendScript Toolkit	10099	2	40001	null	-1	7487080	-1	null	8721388	7538145	null	null	0	0	0	5	null	0	8721467	Adobe ExtendScript Toolkit CS4	3.0.0	Adobe Systems Incorporated	1
+ExtendScript Toolkit	10113	2	40001	null	-1	7487080	-1	null	8721388	7538145	null	null	0	0	0	5	null	0	8721467	Adobe ExtendScript Toolkit CS4	3.0.0	NULL	1
+ExtendScript Toolkit	10142	2	40001	null	-1	7487080	-1	null	8721388	7538145	null	null	0	0	0	5	null	0	8721467	Adobe ExtendScript Toolkit CS4	3.0.0	Adobe Systems	1
+ExtendScript Toolkit	10169	0	40001	null	-1	7487080	-1	null	8721388	7538145	null	null	0	0	1	5	null	0	8721467	Adobe ExtendScript Toolkit CS4	3	Adobe Systems	1
+Flash Video Encoder	10117	0	40001	null	-1	7487112	-1	null	8708043	8750001	null	null	0	0	1	2	null	0	8708092	Adobe Flash Video Encoder	2	Adobe Systems Incorporated	1
+Help Viewer	10100	2	40001	null	-1	7487187	-1	null	8721412	7538249	null	null	0	0	0	1	null	0	8721561	Adobe Help Viewer CS3	1	Adobe Systems Incorporated	1
+Help Viewer	10114	2	40001	null	-1	7487187	-1	null	8721412	7538249	null	null	0	0	0	1	null	0	8721561	Adobe Help Viewer CS3	1	NULL	1
+Help Viewer	10128	0	40001	null	-1	7487187	-1	null	8721412	7538249	null	null	0	0	1	1	null	0	8721561	Adobe Help Viewer CS3	1	Adobe Systems	1
+Bridge Start Meeting	10110	2	40001	null	-1	10330321	-1	null	10330423	11403923	null	null	0	0	0	1	null	0	10330424	Adobe Bridge Start Meeting	1	Adobe Systems Incorporated	1
+Bridge Start Meeting	10170	0	40001	null	-1	10330321	-1	null	10330423	11403923	null	null	0	0	1	1	null	0	10330424	Adobe Bridge Start Meeting	1	Adobe Systems	1
+Version Cue	10077	2	40001	null	-1	14942043	-1	null	14942127	14942123	null	null	0	0	0	3	null	0	14942143	Adobe Version Cue CS3 Client	3	Adobe Systems Incorporated	1
+Version Cue	10115	2	40001	null	-1	14942043	-1	null	14942127	14942123	null	null	0	0	0	3	null	0	14942143	Adobe Version Cue CS3 Client	3	NULL	1
+Version Cue	10131	0	40001	null	-1	14942043	-1	null	14942127	14942123	null	null	0	0	1	3	null	0	14942143	Adobe Version Cue CS3 Client	3	Adobe Systems	1
+Version Cue	10176	2	40001	null	-1	14942043	-1	null	14942127	14942123	null	null	0	0	0	3	null	0	14942143	Adobe Version Cue CS3 Client	3.0.0	Adobe Systems Incorporated	1
+Drive	10098	2	40001	null	-1	20150499	-1	null	20150586	20150580	null	null	1	0	0	1	null	0	20150597	Adobe Drive CS4	1	Adobe Systems Incorporated	1
+Drive	10127	0	40001	null	-1	20150499	-1	null	20150586	20150580	null	null	1	0	1	1	null	0	20150597	Adobe Drive CS4	1	Adobe Systems	1
+Drive	10154	2	40001	null	-1	20150499	-1	null	20150586	20150580	null	null	1	0	0	1	null	0	20150597	Adobe Drive CS4	1	NULL	1
+Pixel Bender Toolkit	10107	0	40001	null	-1	25607013	-1	null	25609585	25609546	null	null	1	0	1	2	null	0	25609727	Pixel Bender Toolkit	1.5	Adobe Systems Incorporated	1
+Pixel Bender Toolkit	10118	2	40001	null	-1	25607013	-1	null	25609584	25609546	null	null	1	0	0	1	null	0	25609724	Pixel Bender Toolkit	1	Adobe Systems Incorporated	1
+Pixel Bender Toolkit	10165	3	40001	null	-1	25607013	-1	null	25609584	25609546	null	null	1	0	1	1	null	0	25609724	Pixel Bender Toolkit	1	Adobe Systems	1
+Acrobat	10179	0	40002	null	-1	1141947	7486880	Pro	16542950	6366334	null	null	0	0	1	76	2	0	16543025	"Adobe Acrobat  9 Pro - Romanian, Ukrainian, Russian, Turkish"	9.4.0	Adobe Systems	1
+Elements	10196	2	40003	null	-1	9	-1	null	-1	null	null	null	0	0	1	null	null	0	-1	acrobat elements.exe	10.0.0.396	Adobe Systems	2
+Acrobat	10180	0	40003	null	-1	1141947	7486880	Pro	16542950	6366334	null	null	0	0	1	76	2	0	16543025	"Adobe Acrobat  9 Pro - Romanian, Ukrainian, Russian, Turkish"	9.4.0	Adobe Systems	1
+Elements	10198	2	40004	null	-1	9	-1	null	-1	null	null	null	0	0	1	null	null	0	-1	acrobat elements.exe	10.0.0.396	Adobe Systems	2
+Acrobat	10181	0	40004	null	-1	1141947	7486880	Pro	16542950	6366334	null	null	0	0	1	76	2	0	16543025	"Adobe Acrobat  9 Pro - Romanian, Ukrainian, Russian, Turkish"	9.4.0	Adobe Systems	1
+Elements	10182	0	40005	null	-1	9	-1	null	1239121	7532887	null	null	0	0	1	6	null	0	1239122	Adobe Acrobat 7.0 Elements	NULL	Adobe Systems	1
+Acrobat	10183	0	40005	null	-1	1141947	7486880	Pro	16542950	6366334	null	null	0	0	1	76	2	0	16543025	"Adobe Acrobat  9 Pro - Romanian, Ukrainian, Russian, Turkish"	9.4.0	Adobe Systems	1
+Elements	10200	2	40006	null	-1	9	-1	null	-1	null	null	null	0	0	1	null	null	0	-1	acrobat elements.exe	10.0.0.396	Adobe Systems	2
+Acrobat	10184	0	40006	null	-1	1141947	7486880	Pro	16542950	6366334	null	null	0	0	1	76	2	0	16543025	"Adobe Acrobat  9 Pro - Romanian, Ukrainian, Russian, Turkish"	9.4.0	Adobe Systems	1
+Distiller	10185	0	40006	null	-1	6344595	-1	null	28072308	10178623	null	null	0	0	1	23	null	0	28072333	Acrobat Distiller	9.5.5	Adobe Systems	1
+Acrobat	10201	0	40007	-1	6629704	1141947	-1	null	1172481	1206619	null	null	0	0	1	1	null	0	6629704	Acrobat.exe	1.0.0.0	Adobe Systems	2
+Elements	10187	0	40007	null	-1	9	-1	null	1239121	7532887	null	null	0	0	1	6	null	0	1239122	Adobe Acrobat 7.0 Elements	NULL	Adobe Systems	1
+Distiller	10186	0	40007	null	-1	6344595	-1	null	28072308	10178623	null	null	0	0	1	23	null	0	28072333	Acrobat Distiller	9.5.5	Adobe Systems	1
+Elements	10188	0	40008	null	-1	9	-1	null	1239121	7532887	null	null	0	0	1	6	null	0	1239122	Adobe Acrobat 7.0 Elements	NULL	Adobe Systems	1
+Elements	10203	3	40008	null	-1	9	-1	null	-1	null	null	null	0	0	0	null	null	0	-1	acrobat elements.exe	10.0.0.396	Adobe Systems	2
+Acrobat	10189	0	40008	null	-1	1141947	7486880	Pro	16542950	6366334	null	null	0	0	1	76	2	0	16543025	"Adobe Acrobat  9 Pro - Romanian, Ukrainian, Russian, Turkish"	9.4.0	Adobe Systems	1
+Acrobat	10202	3	40008	null	-1	1141947	-1	null	1172481	1206619	null	null	0	0	0	1	null	0	6629704	Acrobat.exe	1.0.0.0	Adobe Systems	2
+Distiller	10190	0	40008	null	-1	6344595	-1	null	28072308	10178623	null	null	0	0	1	23	null	0	28072333	Acrobat Distiller	9.5.5	Adobe Systems	1
+Elements	10206	0	40009	null	-1	9	-1	null	-1	null	null	null	0	0	1	null	null	0	-1	acrobat elements.exe	10.0.0.396	Adobe Systems	2
+Acrobat	10191	0	50001	null	-1	1141947	7486880	Pro	16542950	6366334	null	null	0	0	1	76	2	0	16543025	"Adobe Acrobat  9 Pro - Romanian, Ukrainian, Russian, Turkish"	9.4.0	Adobe Systems	1
+Designer	10207	0	50001	null	-1	15709758	-1	null	43600462	43600431	null	null	0	0	1	24	null	0	43600626	FormDesigner.exe	"1101, 5182, 2, 0"	Adobe Systems	2
+Access	10208	2	50002	null	-1	1142671	-1	null	42594520	25607227	null	RTM	0	0	1	68	null	0	42595397	msaccess.exe	15.0.4535.1507	Microsoft	2
+Access Runtime	10192	0	50002	null	-1	8746125	-1	null	53719025	53719020	null	null	0	0	1	9	null	0	53719037	Microsoft Access Runtime 2013	15.0.4517.1004	Microsoft Corporation	1
+Access	10209	0	50003	null	-1	1142671	-1	null	1157138	1211949	null	RTM	0	0	1	30	null	0	1388078	msaccess.exe	11.0.5614	Microsoft	2
+Access Runtime	10193	0	50003	null	-1	8746125	-1	null	53719025	53719020	null	null	0	0	1	9	null	0	53719037	Microsoft Access Runtime 2013	15.0.4517.1004	Microsoft Corporation	1
+Sametime	10210	2	50004	null	-1	1574	-1	null	-1	null	null	null	0	0	1	null	null	0	-1	sametime.exe	3.4.0.0	IBM	2
+Notes	10194	0	50004	null	-1	80321	-1	null	1149980	6378497	null	null	0	0	1	36	null	0	1064066	Lotus Notes 6.5.6	6.56.765	IBM/Lotus	1

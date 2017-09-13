@@ -1,0 +1,11 @@
+# TestCase_Name		Results_File	Which_Col
+
+@	Catalog Sync Against Production TUS	SyncResult.csv	2
+@	Hard Code Dedupping	HardCode_Dedup.csv	2
+@	Disc_Missing_Host check Check	MissHost_Check.csv	3
+@	Data integrity test among _P and _Match Tables	P_vs_MatchHost.csv	7
+@	Patchset Re-apply Ability Check	Re-apply_Result.csv	2
+@	VEA deduping checks	VEA_Check.csv	2
+@	Golden20 and Catalog Data Validation	DIT_TestCase_Results.csv	7
+@	Default Reports Validation	canned_repports_performance_test.tab	100
+@	API Testing	api-technopedia.tab	100
